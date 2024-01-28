@@ -17,8 +17,8 @@ id: Czech Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Czech_Republic//
-markerFolder: ./Czech_Republic//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Czech Rep.] 
