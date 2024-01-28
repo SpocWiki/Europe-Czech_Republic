@@ -1,5 +1,5 @@
 ﻿---
-location: [49.17,13.45]
+location: [49.17,13.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,26 +12,26 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.45]
-[geo-lat::49.17]
-[name::Guentherberg]
-[Country::[[Germany]]]
-[State :: [[../../Bayern]] ]
-[Population::]
-[Unknown::]
+[geo-lon::13.45] 
+[geo-lat::49.17] 
+[name::Guentherberg] 
+Country :: [[Germany]]  
+State :: [[../../Bayern]] ] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Guentherberg
-coordinates: [[Guentherberg]]
-markerFile: [[Guentherberg]]
+coordinates: [[Guentherberg]] 
+markerFile: [[Guentherberg]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
 ## Confidential Links & Embeds: 
--[[Guentherberg|Guentherberg]]] 
+- [[Guentherberg|Guentherberg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.internal|Guentherberg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.protect|Guentherberg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.private|Guentherberg.private]] 

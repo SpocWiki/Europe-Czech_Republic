@@ -1,5 +1,5 @@
 ﻿---
-location: [49.95,15.27]
+location: [49.95,15.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.27]
-[geo-lat::49.95]
-[name::Kuttenberg=Kutna Hora]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.27] 
+[geo-lat::49.95] 
+[name::Kuttenberg=Kutna Hora] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kuttenberg=Kutna Hora
-coordinates: [[Kuttenberg=Kutna_Hora]]
-markerFile: [[Kuttenberg=Kutna_Hora]]
+coordinates: [[Kuttenberg=Kutna_Hora]] 
+markerFile: [[Kuttenberg=Kutna_Hora]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

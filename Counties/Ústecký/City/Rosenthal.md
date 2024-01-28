@@ -1,5 +1,5 @@
 ﻿---
-location: [50.48,14.05]
+location: [50.48,14.05] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.05]
-[geo-lat::50.48]
-[name::Rosenthal]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.05] 
+[geo-lat::50.48] 
+[name::Rosenthal] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Rosenthal
-coordinates: [[Rosenthal]]
-markerFile: [[Rosenthal]]
+coordinates: [[Rosenthal]] 
+markerFile: [[Rosenthal]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

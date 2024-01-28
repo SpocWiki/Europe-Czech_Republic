@@ -1,5 +1,5 @@
 ﻿---
-location: [50.65,13.8]
+location: [50.65,13.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.8]
-[geo-lat::50.65]
-[name::Teplitz-Schoenau=Teplice]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.8] 
+[geo-lat::50.65] 
+[name::Teplitz-Schoenau=Teplice] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Teplitz-Schoenau=Teplice
-coordinates: [[Teplitz-Schoenau=Teplice]]
-markerFile: [[Teplitz-Schoenau=Teplice]]
+coordinates: [[Teplitz-Schoenau=Teplice]] 
+markerFile: [[Teplitz-Schoenau=Teplice]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.22,17.68]
+location: [49.22,17.68] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.68]
-[geo-lat::49.22]
-[name::Gottwaldov]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.68] 
+[geo-lat::49.22] 
+[name::Gottwaldov] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gottwaldov
-coordinates: [[Gottwaldov]]
-markerFile: [[Gottwaldov]]
+coordinates: [[Gottwaldov]] 
+markerFile: [[Gottwaldov]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

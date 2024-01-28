@@ -1,5 +1,5 @@
 ﻿---
-location: [48.98,15.97]
+location: [48.98,15.97] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.97]
-[geo-lat::48.98]
-[name::Jaispitz]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.97] 
+[geo-lat::48.98] 
+[name::Jaispitz] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Jaispitz
-coordinates: [[Jaispitz]]
-markerFile: [[Jaispitz]]
+coordinates: [[Jaispitz]] 
+markerFile: [[Jaispitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

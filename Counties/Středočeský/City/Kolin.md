@@ -1,5 +1,5 @@
 ﻿---
-location: [50.02,15.13]
+location: [50.02,15.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.13]
-[geo-lat::50.02]
-[name::Kolin]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.13] 
+[geo-lat::50.02] 
+[name::Kolin] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Kolin
-coordinates: [[Kolin]]
-markerFile: [[Kolin]]
+coordinates: [[Kolin]] 
+markerFile: [[Kolin]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.1,17.27]
+location: [50.1,17.27] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.27]
-[geo-lat::50.1]
-[name::Gabel]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.27] 
+[geo-lat::50.1] 
+[name::Gabel] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gabel
-coordinates: [[Gabel]]
-markerFile: [[Gabel]]
+coordinates: [[Gabel]] 
+markerFile: [[Gabel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

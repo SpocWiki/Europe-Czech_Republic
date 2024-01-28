@@ -1,5 +1,5 @@
 ﻿---
-location: [50.52,16.2]
+location: [50.52,16.2] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.2]
-[geo-lat::50.52]
-[name::Hermanitz]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::16.2] 
+[geo-lat::50.52] 
+[name::Hermanitz] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hermanitz
-coordinates: [[Hermanitz]]
-markerFile: [[Hermanitz]]
+coordinates: [[Hermanitz]] 
+markerFile: [[Hermanitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

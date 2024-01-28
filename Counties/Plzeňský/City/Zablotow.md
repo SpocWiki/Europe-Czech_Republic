@@ -1,5 +1,5 @@
 ﻿---
-location: [49.88,13.22]
+location: [49.88,13.22] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.22]
-[geo-lat::49.88]
-[name::Zablotow]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.22] 
+[geo-lat::49.88] 
+[name::Zablotow] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zablotow
-coordinates: [[Zablotow]]
-markerFile: [[Zablotow]]
+coordinates: [[Zablotow]] 
+markerFile: [[Zablotow]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

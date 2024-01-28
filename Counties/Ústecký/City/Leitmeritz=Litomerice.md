@@ -1,5 +1,5 @@
 ﻿---
-location: [50.53,14.13]
+location: [50.53,14.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.13]
-[geo-lat::50.53]
-[name::Leitmeritz=Litomerice]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.13] 
+[geo-lat::50.53] 
+[name::Leitmeritz=Litomerice] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Leitmeritz=Litomerice
-coordinates: [[Leitmeritz=Litomerice]]
-markerFile: [[Leitmeritz=Litomerice]]
+coordinates: [[Leitmeritz=Litomerice]] 
+markerFile: [[Leitmeritz=Litomerice]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

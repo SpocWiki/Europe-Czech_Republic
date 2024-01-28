@@ -1,5 +1,5 @@
 ﻿---
-location: [50.68,14.53]
+location: [50.68,14.53] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.53]
-[geo-lat::50.68]
-[name::Boehmisch Leipa]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.53] 
+[geo-lat::50.68] 
+[name::Boehmisch Leipa] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Boehmisch Leipa
-coordinates: [[Boehmisch_Leipa]]
-markerFile: [[Boehmisch_Leipa]]
+coordinates: [[Boehmisch_Leipa]] 
+markerFile: [[Boehmisch_Leipa]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

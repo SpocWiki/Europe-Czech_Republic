@@ -1,5 +1,5 @@
 ﻿---
-location: [49.6,15.58]
+location: [49.6,15.58] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.58]
-[geo-lat::49.6]
-[name::Deutsch-Brod]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.58] 
+[geo-lat::49.6] 
+[name::Deutsch-Brod] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Deutsch-Brod
-coordinates: [[Deutsch-Brod]]
-markerFile: [[Deutsch-Brod]]
+coordinates: [[Deutsch-Brod]] 
+markerFile: [[Deutsch-Brod]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

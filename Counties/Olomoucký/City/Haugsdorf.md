@@ -1,5 +1,5 @@
 ﻿---
-location: [50.37,17.13]
+location: [50.37,17.13] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.13]
-[geo-lat::50.37]
-[name::Haugsdorf]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.13] 
+[geo-lat::50.37] 
+[name::Haugsdorf] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Haugsdorf
-coordinates: [[Haugsdorf]]
-markerFile: [[Haugsdorf]]
+coordinates: [[Haugsdorf]] 
+markerFile: [[Haugsdorf]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.95,15.8]
+location: [49.95,15.8] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.8]
-[geo-lat::49.95]
-[name::Chrudim]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.8] 
+[geo-lat::49.95] 
+[name::Chrudim] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Chrudim
-coordinates: [[Chrudim]]
-markerFile: [[Chrudim]]
+coordinates: [[Chrudim]] 
+markerFile: [[Chrudim]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

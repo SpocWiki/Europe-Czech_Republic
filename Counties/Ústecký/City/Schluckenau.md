@@ -1,5 +1,5 @@
 ﻿---
-location: [51,14.45]
+location: [51,14.45] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.45]
-[geo-lat::51]
-[name::Schluckenau]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.45] 
+[geo-lat::51] 
+[name::Schluckenau] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Schluckenau
-coordinates: [[Schluckenau]]
-markerFile: [[Schluckenau]]
+coordinates: [[Schluckenau]] 
+markerFile: [[Schluckenau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.72,15.18]
+location: [50.72,15.18] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.18]
-[geo-lat::50.72]
-[name::Gablonz]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.18] 
+[geo-lat::50.72] 
+[name::Gablonz] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Gablonz
-coordinates: [[Gablonz]]
-markerFile: [[Gablonz]]
+coordinates: [[Gablonz]] 
+markerFile: [[Gablonz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

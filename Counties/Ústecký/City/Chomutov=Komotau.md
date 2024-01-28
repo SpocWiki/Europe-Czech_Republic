@@ -1,5 +1,5 @@
 ﻿---
-location: [50.48,13.42]
+location: [50.48,13.42] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.42]
-[geo-lat::50.48]
-[name::Chomutov=Komotau]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.42] 
+[geo-lat::50.48] 
+[name::Chomutov=Komotau] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Chomutov=Komotau
-coordinates: [[Chomutov=Komotau]]
-markerFile: [[Chomutov=Komotau]]
+coordinates: [[Chomutov=Komotau]] 
+markerFile: [[Chomutov=Komotau]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [50.22,15.87]
+location: [50.22,15.87] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.87]
-[geo-lat::50.22]
-[name::Hradec Kralove]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15.87] 
+[geo-lat::50.22] 
+[name::Hradec Kralove] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Hradec Kralove
-coordinates: [[Hradec_Kralove]]
-markerFile: [[Hradec_Kralove]]
+coordinates: [[Hradec_Kralove]] 
+markerFile: [[Hradec_Kralove]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

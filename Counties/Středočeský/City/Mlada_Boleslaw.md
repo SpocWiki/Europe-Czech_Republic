@@ -1,5 +1,5 @@
 ﻿---
-location: [50.35,14.92]
+location: [50.35,14.92] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.92]
-[geo-lat::50.35]
-[name::Mlada Boleslaw]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::14.92] 
+[geo-lat::50.35] 
+[name::Mlada Boleslaw] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mlada Boleslaw
-coordinates: [[Mlada_Boleslaw]]
-markerFile: [[Mlada_Boleslaw]]
+coordinates: [[Mlada_Boleslaw]] 
+markerFile: [[Mlada_Boleslaw]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

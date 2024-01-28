@@ -1,5 +1,5 @@
 ﻿---
-location: [50.67,15]
+location: [50.67,15] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15]
-[geo-lat::50.67]
-[name::Boehmisch Aicha]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::15] 
+[geo-lat::50.67] 
+[name::Boehmisch Aicha] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Boehmisch Aicha
-coordinates: [[Boehmisch_Aicha]]
-markerFile: [[Boehmisch_Aicha]]
+coordinates: [[Boehmisch_Aicha]] 
+markerFile: [[Boehmisch_Aicha]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [49.65,17.93]
+location: [49.65,17.93] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.93]
-[geo-lat::49.65]
-[name::Zauchtel]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.93] 
+[geo-lat::49.65] 
+[name::Zauchtel] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zauchtel
-coordinates: [[Zauchtel]]
-markerFile: [[Zauchtel]]
+coordinates: [[Zauchtel]] 
+markerFile: [[Zauchtel]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

@@ -1,5 +1,5 @@
 ﻿---
-location: [48.88,17.3]
+location: [48.88,17.3] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.3]
-[geo-lat::48.88]
-[name::Strasnitz]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.3] 
+[geo-lat::48.88] 
+[name::Strasnitz] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Strasnitz
-coordinates: [[Strasnitz]]
-markerFile: [[Strasnitz]]
+coordinates: [[Strasnitz]] 
+markerFile: [[Strasnitz]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

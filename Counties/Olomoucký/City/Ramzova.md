@@ -1,5 +1,5 @@
 ﻿---
-location: [50.23,17.07]
+location: [50.23,17.07] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.07]
-[geo-lat::50.23]
-[name::Ramzova]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::17.07] 
+[geo-lat::50.23] 
+[name::Ramzova] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Ramzova
-coordinates: [[Ramzova]]
-markerFile: [[Ramzova]]
+coordinates: [[Ramzova]] 
+markerFile: [[Ramzova]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

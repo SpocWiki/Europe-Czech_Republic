@@ -1,5 +1,5 @@
 ﻿---
-location: [49.75,13.38]
+location: [49.75,13.38] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.38]
-[geo-lat::49.75]
-[name::Pilsen=Plzen]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.38] 
+[geo-lat::49.75] 
+[name::Pilsen=Plzen] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Pilsen=Plzen
-coordinates: [[Pilsen=Plzen]]
-markerFile: [[Pilsen=Plzen]]
+coordinates: [[Pilsen=Plzen]] 
+markerFile: [[Pilsen=Plzen]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

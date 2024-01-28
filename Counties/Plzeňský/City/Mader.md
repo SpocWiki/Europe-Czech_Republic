@@ -1,5 +1,5 @@
 ﻿---
-location: [49.03,13.5]
+location: [49.03,13.5] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.5]
-[geo-lat::49.03]
-[name::Mader]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.5] 
+[geo-lat::49.03] 
+[name::Mader] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Mader
-coordinates: [[Mader]]
-markerFile: [[Mader]]
+coordinates: [[Mader]] 
+markerFile: [[Mader]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

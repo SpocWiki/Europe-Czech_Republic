@@ -1,5 +1,5 @@
 ﻿---
-location: [50.32,13.55]
+location: [50.32,13.55] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.55]
-[geo-lat::50.32]
-[name::Zatec]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::13.55] 
+[geo-lat::50.32] 
+[name::Zatec] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Zatec
-coordinates: [[Zatec]]
-markerFile: [[Zatec]]
+coordinates: [[Zatec]] 
+markerFile: [[Zatec]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

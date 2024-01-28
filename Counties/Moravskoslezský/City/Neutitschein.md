@@ -1,5 +1,5 @@
 ﻿---
-location: [49.6,18.02]
+location: [49.6,18.02] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -12,20 +12,20 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.02]
-[geo-lat::49.6]
-[name::Neutitschein]
-[State::]
-[Country::Czech_Rep.]
-[StateId::]
-[Population::]
-[Unknown::]
+[geo-lon::18.02] 
+[geo-lat::49.6] 
+[name::Neutitschein] 
+State ::  
+Country :: Czech_Rep.] 
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 
 ```leaflet
 id: Neutitschein
-coordinates: [[Neutitschein]]
-markerFile: [[Neutitschein]]
+coordinates: [[Neutitschein]] 
+markerFile: [[Neutitschein]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
