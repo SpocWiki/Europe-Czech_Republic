@@ -15,6 +15,7 @@ confidential: public
 [geo-lon::15.58] 
 [geo-lat::49.6] 
 [name::Deutsch-Brod] 
+#has_/name_/de_:: Deutschbrod
 State ::  
 Country :: Czech_Rep.] 
 [StateId::] 
