@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.07] 
-[geo-lat::50.77] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.07] 
+[has_place_latitude::50.77] 
 [name::Reichenberg=Liderec] 
 State ::  
 Country :: Czech_Rep.] 

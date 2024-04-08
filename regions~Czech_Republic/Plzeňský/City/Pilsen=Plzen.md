@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.38] 
-[geo-lat::49.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.38] 
+[has_place_latitude::49.75] 
 [name::Pilsen=Plzen] 
 State ::  
 Country :: Czech_Rep.] 

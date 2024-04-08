@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.2] 
-[geo-lat::50.52] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.2] 
+[has_place_latitude::50.52] 
 [name::Hermanitz] 
 State ::  
 Country :: Czech_Rep.] 

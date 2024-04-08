@@ -33,8 +33,10 @@ Capital :: [[Praha]]
 ![[Flag_of_Czech-republic.svg|350]] 
 [Alcohol-l::16.5] 
 [Language-Id::] 
-[geo-lon::15.8734] 
-[geo-lat::49.7633] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.8734] 
+[has_place_latitude::49.7633] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.22] 
-[geo-lat::49.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.22] 
+[has_place_latitude::49.48] 
 [name::Rozinka] 
 State ::  
 Country :: Czech_Rep.] 

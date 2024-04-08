@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::15.58] 
-[geo-lat::49.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.58] 
+[has_place_latitude::49.6] 
 [name::Havlíčkův_Brod] 
 #has_/name_/de_:: Deutschbrod
 #has_/name_/cz_:: Havlíčkův Brod

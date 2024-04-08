@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.42] 
-[geo-lat::50.48] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.42] 
+[has_place_latitude::50.48] 
 [name::Chomutov=Komotau] 
 State ::  
 Country :: Czech_Rep.] 

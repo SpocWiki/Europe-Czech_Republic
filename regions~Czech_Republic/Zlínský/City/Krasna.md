@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.97] 
-[geo-lat::49.47] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.97] 
+[has_place_latitude::49.47] 
 [name::Krasna] 
 State ::  
 Country :: Czech_Rep.] 

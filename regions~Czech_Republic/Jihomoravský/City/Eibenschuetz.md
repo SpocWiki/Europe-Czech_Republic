@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.37] 
-[geo-lat::49.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.37] 
+[has_place_latitude::49.1] 
 [name::Eibenschuetz] 
 State ::  
 Country :: Czech_Rep.] 

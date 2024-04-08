@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.27] 
-[geo-lat::50.43] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.27] 
+[has_place_latitude::50.43] 
 [name::Roudnice=Raudnitz] 
 State ::  
 Country :: Czech_Rep.] 

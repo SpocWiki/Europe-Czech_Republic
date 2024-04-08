@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.3] 
-[geo-lat::48.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.3] 
+[has_place_latitude::48.88] 
 [name::Strasnitz] 
 State ::  
 Country :: Czech_Rep.] 

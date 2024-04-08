@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17] 
-[geo-lat::49.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17] 
+[has_place_latitude::49.45] 
 [name::Prerau=Prerov] 
 State ::  
 Country :: Czech_Rep.] 

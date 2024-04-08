@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.9] 
-[geo-lat::49.93] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.9] 
+[has_place_latitude::49.93] 
 [name::Troppau=Opava] 
 State ::  
 Country :: Czech_Rep.] 

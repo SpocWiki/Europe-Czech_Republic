@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.75] 
-[geo-lat::50.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.75] 
+[has_place_latitude::50.6] 
 [name::Dux] 
 State ::  
 Country :: Czech_Rep.] 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::14.45] 
-[geo-lat::50.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.45] 
+[has_place_latitude::50.4] 
 [name::Unter-Berkovic] 
 State ::  
 Country :: Czech_Rep.] 

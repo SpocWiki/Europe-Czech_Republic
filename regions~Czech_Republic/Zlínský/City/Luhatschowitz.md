@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::17.77] 
-[geo-lat::49.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.77] 
+[has_place_latitude::49.1] 
 [name::Luhatschowitz] 
 State ::  
 Country :: Czech_Rep.] 

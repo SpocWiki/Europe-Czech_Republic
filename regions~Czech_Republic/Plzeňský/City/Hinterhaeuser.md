@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.1] 
-[geo-lat::49.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.1] 
+[has_place_latitude::49.25] 
 [name::Hinterhaeuser] 
 State ::  
 Country :: Czech_Rep.] 

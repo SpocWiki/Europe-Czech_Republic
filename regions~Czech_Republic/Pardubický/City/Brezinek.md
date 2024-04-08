@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.78] 
-[geo-lat::49.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.78] 
+[has_place_latitude::49.67] 
 [name::Brezinek] 
 State ::  
 Country :: Czech_Rep.] 

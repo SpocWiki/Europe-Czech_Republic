@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.7] 
-[geo-lat::49.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::12.7] 
+[has_place_latitude::49.98] 
 [name::Marienbad=Marianskelazn] 
 State ::  
 Country :: Czech_Rep.] 

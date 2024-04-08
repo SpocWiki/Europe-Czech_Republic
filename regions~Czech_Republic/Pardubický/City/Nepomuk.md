@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::16.63] 
-[geo-lat::49.95] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.63] 
+[has_place_latitude::49.95] 
 [name::Nepomuk] 
 State ::  
 Country :: Czech_Rep.] 
