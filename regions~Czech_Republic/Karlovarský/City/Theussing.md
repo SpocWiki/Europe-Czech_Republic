@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.07,12.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Theussing|Theussing]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Theussing.public|Theussing.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Theussing.internal|Theussing.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Theussing.protect|Theussing.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Theussing.private|Theussing.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Theussing.personal|Theussing.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Theussing.secret|Theussing.secret]] 
+
+### [Theussing.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTheussing.public.md) 
+
+### [Theussing.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTheussing.internal.md) 
+
+### [Theussing.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTheussing.protect.md) 
+
+### [Theussing.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTheussing.private.md) 
+
+### [Theussing.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTheussing.personal.md) 
+
+### [Theussing.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTheussing.secret.md)
+

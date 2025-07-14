@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.97,17.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Freudenthal|Freudenthal]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Freudenthal.public|Freudenthal.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Freudenthal.internal|Freudenthal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Freudenthal.protect|Freudenthal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Freudenthal.private|Freudenthal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Freudenthal.personal|Freudenthal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Freudenthal.secret|Freudenthal.secret]] 
+
+### [Freudenthal.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.public.md) 
+
+### [Freudenthal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.internal.md) 
+
+### [Freudenthal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.protect.md) 
+
+### [Freudenthal.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.private.md) 
+
+### [Freudenthal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.personal.md) 
+
+### [Freudenthal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.secret.md)
+

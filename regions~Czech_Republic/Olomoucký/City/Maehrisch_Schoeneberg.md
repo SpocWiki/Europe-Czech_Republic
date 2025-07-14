@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.97,16.98] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg|Maehrisch_Schoeneberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.public|Maehrisch_Schoeneberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.internal|Maehrisch_Schoeneberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.protect|Maehrisch_Schoeneberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.private|Maehrisch_Schoeneberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.personal|Maehrisch_Schoeneberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Schoeneberg.secret|Maehrisch_Schoeneberg.secret]] 
+
+### [Maehrisch_Schoeneberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.public.md) 
+
+### [Maehrisch_Schoeneberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.internal.md) 
+
+### [Maehrisch_Schoeneberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.protect.md) 
+
+### [Maehrisch_Schoeneberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.private.md) 
+
+### [Maehrisch_Schoeneberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.personal.md) 
+
+### [Maehrisch_Schoeneberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.secret.md)
+

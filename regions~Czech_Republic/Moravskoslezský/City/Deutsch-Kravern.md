@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern|Deutsch-Kravern]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.public|Deutsch-Kravern.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.internal|Deutsch-Kravern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.protect|Deutsch-Kravern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.private|Deutsch-Kravern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.personal|Deutsch-Kravern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deutsch-Kravern.secret|Deutsch-Kravern.secret]] 
+
+### [Deutsch-Kravern.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.public.md) 
+
+### [Deutsch-Kravern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.internal.md) 
+
+### [Deutsch-Kravern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.protect.md) 
+
+### [Deutsch-Kravern.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.private.md) 
+
+### [Deutsch-Kravern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.personal.md) 
+
+### [Deutsch-Kravern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.33,13.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Saaz|Saaz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Saaz.public|Saaz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Saaz.internal|Saaz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Saaz.protect|Saaz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Saaz.private|Saaz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Saaz.personal|Saaz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Saaz.secret|Saaz.secret]] 
+
+### [Saaz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySaaz.public.md) 
+
+### [Saaz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySaaz.internal.md) 
+
+### [Saaz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySaaz.protect.md) 
+
+### [Saaz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySaaz.private.md) 
+
+### [Saaz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySaaz.personal.md) 
+
+### [Saaz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySaaz.secret.md)
+

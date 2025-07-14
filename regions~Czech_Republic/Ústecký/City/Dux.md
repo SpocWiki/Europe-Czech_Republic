@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.6,13.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Dux|Dux]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Dux.public|Dux.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Dux.internal|Dux.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Dux.protect|Dux.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Dux.private|Dux.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Dux.personal|Dux.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Dux.secret|Dux.secret]] 
+
+### [Dux.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDux.public.md) 
+
+### [Dux.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDux.internal.md) 
+
+### [Dux.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDux.protect.md) 
+
+### [Dux.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDux.private.md) 
+
+### [Dux.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDux.personal.md) 
+
+### [Dux.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDux.secret.md)
+

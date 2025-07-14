@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.18,14.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Weseli|Weseli]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Weseli.public|Weseli.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Weseli.internal|Weseli.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Weseli.protect|Weseli.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Weseli.private|Weseli.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Weseli.personal|Weseli.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Weseli.secret|Weseli.secret]] 
+
+### [Weseli.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.public.md) 
+
+### [Weseli.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.internal.md) 
+
+### [Weseli.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.protect.md) 
+
+### [Weseli.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.private.md) 
+
+### [Weseli.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.personal.md) 
+
+### [Weseli.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.secret.md)
+

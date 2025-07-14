@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.48,16.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Rozinka|Rozinka]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Rozinka.public|Rozinka.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Rozinka.internal|Rozinka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Rozinka.protect|Rozinka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Rozinka.private|Rozinka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Rozinka.personal|Rozinka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Rozinka.secret|Rozinka.secret]] 
+
+### [Rozinka.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityRozinka.public.md) 
+
+### [Rozinka.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityRozinka.internal.md) 
+
+### [Rozinka.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityRozinka.protect.md) 
+
+### [Rozinka.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityRozinka.private.md) 
+
+### [Rozinka.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityRozinka.personal.md) 
+
+### [Rozinka.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityRozinka.secret.md)
+

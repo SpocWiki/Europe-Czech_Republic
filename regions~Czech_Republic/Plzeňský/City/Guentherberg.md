@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.17,13.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Guentherberg|Guentherberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.internal|Guentherberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.protect|Guentherberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.private|Guentherberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.personal|Guentherberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Guentherberg.secret|Guentherberg.secret]] 
+
+### [Guentherberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.public.md) 
+
+### [Guentherberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.internal.md) 
+
+### [Guentherberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.protect.md) 
+
+### [Guentherberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.private.md) 
+
+### [Guentherberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.personal.md) 
+
+### [Guentherberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.secret.md)
+

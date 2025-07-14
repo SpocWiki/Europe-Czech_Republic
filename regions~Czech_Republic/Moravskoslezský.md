@@ -40,11 +40,16 @@ markerFolder: ./Moravskoslezský/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/Counties/Moravskoslezský|Moravskoslezský]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Moravskoslezský.public|Moravskoslezský.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Moravskoslezský.internal|Moravskoslezský.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Moravskoslezský.protect|Moravskoslezský.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Moravskoslezský.private|Moravskoslezský.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Moravskoslezský.personal|Moravskoslezský.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Moravskoslezský.secret|Moravskoslezský.secret]] 
+
+### [Moravskoslezský.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.public.md) 
+
+### [Moravskoslezský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.internal.md) 
+
+### [Moravskoslezský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.protect.md) 
+
+### [Moravskoslezský.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.private.md) 
+
+### [Moravskoslezský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.personal.md) 
+
+### [Moravskoslezský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.secret.md)
 

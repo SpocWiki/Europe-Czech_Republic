@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.27,13.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Duppau|Duppau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Duppau.public|Duppau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Duppau.internal|Duppau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Duppau.protect|Duppau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Duppau.private|Duppau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Duppau.personal|Duppau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Duppau.secret|Duppau.secret]] 
+
+### [Duppau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityDuppau.public.md) 
+
+### [Duppau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityDuppau.internal.md) 
+
+### [Duppau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityDuppau.protect.md) 
+
+### [Duppau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityDuppau.private.md) 
+
+### [Duppau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityDuppau.personal.md) 
+
+### [Duppau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityDuppau.secret.md)
+

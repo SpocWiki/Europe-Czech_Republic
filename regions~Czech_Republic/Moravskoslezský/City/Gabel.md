@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.1,17.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Gabel|Gabel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gabel.public|Gabel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gabel.internal|Gabel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gabel.protect|Gabel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gabel.private|Gabel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gabel.personal|Gabel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gabel.secret|Gabel.secret]] 
+
+### [Gabel.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGabel.public.md) 
+
+### [Gabel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGabel.internal.md) 
+
+### [Gabel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGabel.protect.md) 
+
+### [Gabel.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGabel.private.md) 
+
+### [Gabel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGabel.personal.md) 
+
+### [Gabel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGabel.secret.md)
+

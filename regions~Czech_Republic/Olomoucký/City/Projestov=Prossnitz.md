@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.47,17.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz|Projestov=Prossnitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.public|Projestov=Prossnitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.internal|Projestov=Prossnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.protect|Projestov=Prossnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.private|Projestov=Prossnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.personal|Projestov=Prossnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Projestov=Prossnitz.secret|Projestov=Prossnitz.secret]] 
+
+### [Projestov=Prossnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.public.md) 
+
+### [Projestov=Prossnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.internal.md) 
+
+### [Projestov=Prossnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.protect.md) 
+
+### [Projestov=Prossnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.private.md) 
+
+### [Projestov=Prossnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.personal.md) 
+
+### [Projestov=Prossnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.secret.md)
+

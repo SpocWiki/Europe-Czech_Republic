@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.83,13.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Troisty|Troisty]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Troisty.public|Troisty.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Troisty.internal|Troisty.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Troisty.protect|Troisty.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Troisty.private|Troisty.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Troisty.personal|Troisty.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Troisty.secret|Troisty.secret]] 
+
+### [Troisty.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTroisty.public.md) 
+
+### [Troisty.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTroisty.internal.md) 
+
+### [Troisty.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTroisty.protect.md) 
+
+### [Troisty.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTroisty.private.md) 
+
+### [Troisty.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTroisty.personal.md) 
+
+### [Troisty.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTroisty.secret.md)
+

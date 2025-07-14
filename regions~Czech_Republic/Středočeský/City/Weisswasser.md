@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.5,14.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Weisswasser|Weisswasser]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Weisswasser.public|Weisswasser.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Weisswasser.internal|Weisswasser.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Weisswasser.protect|Weisswasser.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Weisswasser.private|Weisswasser.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Weisswasser.personal|Weisswasser.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Weisswasser.secret|Weisswasser.secret]] 
+
+### [Weisswasser.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.public.md) 
+
+### [Weisswasser.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.internal.md) 
+
+### [Weisswasser.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.protect.md) 
+
+### [Weisswasser.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.private.md) 
+
+### [Weisswasser.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.personal.md) 
+
+### [Weisswasser.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.secret.md)
+

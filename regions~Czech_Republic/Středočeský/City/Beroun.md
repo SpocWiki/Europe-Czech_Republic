@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,14.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Beroun|Beroun]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Beroun.public|Beroun.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Beroun.internal|Beroun.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Beroun.protect|Beroun.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Beroun.private|Beroun.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Beroun.personal|Beroun.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Beroun.secret|Beroun.secret]] 
+
+### [Beroun.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.public.md) 
+
+### [Beroun.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.internal.md) 
+
+### [Beroun.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.protect.md) 
+
+### [Beroun.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.private.md) 
+
+### [Beroun.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.personal.md) 
+
+### [Beroun.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.secret.md)
+

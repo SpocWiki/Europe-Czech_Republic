@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.88,13.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Zablotow|Zablotow]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zablotow.public|Zablotow.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zablotow.internal|Zablotow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zablotow.protect|Zablotow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zablotow.private|Zablotow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zablotow.personal|Zablotow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zablotow.secret|Zablotow.secret]] 
+
+### [Zablotow.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityZablotow.public.md) 
+
+### [Zablotow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityZablotow.internal.md) 
+
+### [Zablotow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityZablotow.protect.md) 
+
+### [Zablotow.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityZablotow.private.md) 
+
+### [Zablotow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityZablotow.personal.md) 
+
+### [Zablotow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityZablotow.secret.md)
+

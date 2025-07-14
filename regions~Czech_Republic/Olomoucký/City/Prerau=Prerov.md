@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.45,17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov|Prerau=Prerov]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.public|Prerau=Prerov.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.internal|Prerau=Prerov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.protect|Prerau=Prerov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.private|Prerau=Prerov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.personal|Prerau=Prerov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Prerau=Prerov.secret|Prerau=Prerov.secret]] 
+
+### [Prerau=Prerov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.public.md) 
+
+### [Prerau=Prerov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.internal.md) 
+
+### [Prerau=Prerov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.protect.md) 
+
+### [Prerau=Prerov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.private.md) 
+
+### [Prerau=Prerov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.personal.md) 
+
+### [Prerau=Prerov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.secret.md)
+

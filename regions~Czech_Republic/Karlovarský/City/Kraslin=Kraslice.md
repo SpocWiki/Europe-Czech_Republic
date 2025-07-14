@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.32,12.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice|Kraslin=Kraslice]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.public|Kraslin=Kraslice.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.internal|Kraslin=Kraslice.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.protect|Kraslin=Kraslice.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.private|Kraslin=Kraslice.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.personal|Kraslin=Kraslice.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kraslin=Kraslice.secret|Kraslin=Kraslice.secret]] 
+
+### [Kraslin=Kraslice.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.public.md) 
+
+### [Kraslin=Kraslice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.internal.md) 
+
+### [Kraslin=Kraslice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.protect.md) 
+
+### [Kraslin=Kraslice.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.private.md) 
+
+### [Kraslin=Kraslice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.personal.md) 
+
+### [Kraslin=Kraslice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.secret.md)
+

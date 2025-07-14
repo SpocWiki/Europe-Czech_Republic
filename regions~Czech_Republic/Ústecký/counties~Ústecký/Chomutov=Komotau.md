@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.48,13.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau|Chomutov=Komotau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.public|Chomutov=Komotau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.internal|Chomutov=Komotau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.protect|Chomutov=Komotau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.private|Chomutov=Komotau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.personal|Chomutov=Komotau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Chomutov=Komotau.secret|Chomutov=Komotau.secret]] 
+
+### [Chomutov=Komotau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýChomutov=Komotau.public.md) 
+
+### [Chomutov=Komotau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýChomutov=Komotau.internal.md) 
+
+### [Chomutov=Komotau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýChomutov=Komotau.protect.md) 
+
+### [Chomutov=Komotau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýChomutov=Komotau.private.md) 
+
+### [Chomutov=Komotau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýChomutov=Komotau.personal.md) 
+
+### [Chomutov=Komotau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýChomutov=Komotau.secret.md)
+

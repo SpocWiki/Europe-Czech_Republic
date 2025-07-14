@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.82,15.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Neuwiese|Neuwiese]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Neuwiese.public|Neuwiese.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Neuwiese.internal|Neuwiese.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Neuwiese.protect|Neuwiese.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Neuwiese.private|Neuwiese.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Neuwiese.personal|Neuwiese.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Neuwiese.secret|Neuwiese.secret]] 
+
+### [Neuwiese.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityNeuwiese.public.md) 
+
+### [Neuwiese.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityNeuwiese.internal.md) 
+
+### [Neuwiese.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityNeuwiese.protect.md) 
+
+### [Neuwiese.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityNeuwiese.private.md) 
+
+### [Neuwiese.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityNeuwiese.personal.md) 
+
+### [Neuwiese.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityNeuwiese.secret.md)
+

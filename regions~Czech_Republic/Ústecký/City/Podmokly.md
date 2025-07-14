@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.77,14.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Podmokly|Podmokly]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Podmokly.public|Podmokly.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Podmokly.internal|Podmokly.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Podmokly.protect|Podmokly.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Podmokly.private|Podmokly.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Podmokly.personal|Podmokly.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Podmokly.secret|Podmokly.secret]] 
+
+### [Podmokly.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityPodmokly.public.md) 
+
+### [Podmokly.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityPodmokly.internal.md) 
+
+### [Podmokly.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityPodmokly.protect.md) 
+
+### [Podmokly.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityPodmokly.private.md) 
+
+### [Podmokly.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityPodmokly.personal.md) 
+
+### [Podmokly.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityPodmokly.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.02,17.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Gaya|Gaya]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gaya.public|Gaya.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gaya.internal|Gaya.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gaya.protect|Gaya.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gaya.private|Gaya.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gaya.personal|Gaya.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gaya.secret|Gaya.secret]] 
+
+### [Gaya.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGaya.public.md) 
+
+### [Gaya.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGaya.internal.md) 
+
+### [Gaya.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGaya.protect.md) 
+
+### [Gaya.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGaya.private.md) 
+
+### [Gaya.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGaya.personal.md) 
+
+### [Gaya.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGaya.secret.md)
+

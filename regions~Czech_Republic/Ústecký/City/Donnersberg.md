@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.55,13.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Donnersberg|Donnersberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Donnersberg.public|Donnersberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Donnersberg.internal|Donnersberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Donnersberg.protect|Donnersberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Donnersberg.private|Donnersberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Donnersberg.personal|Donnersberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Donnersberg.secret|Donnersberg.secret]] 
+
+### [Donnersberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.public.md) 
+
+### [Donnersberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.internal.md) 
+
+### [Donnersberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.protect.md) 
+
+### [Donnersberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.private.md) 
+
+### [Donnersberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.personal.md) 
+
+### [Donnersberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,17.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Poland/City/Janowitz|Janowitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Janowitz.public|Janowitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Janowitz.internal|Janowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Janowitz.protect|Janowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Janowitz.private|Janowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Janowitz.personal|Janowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Janowitz.secret|Janowitz.secret]] 
+
+### [Janowitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityJanowitz.public.md) 
+
+### [Janowitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityJanowitz.internal.md) 
+
+### [Janowitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityJanowitz.protect.md) 
+
+### [Janowitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityJanowitz.private.md) 
+
+### [Janowitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityJanowitz.personal.md) 
+
+### [Janowitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityJanowitz.secret.md)
+

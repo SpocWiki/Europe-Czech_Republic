@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.48,17.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Prossnitz|Prossnitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Prossnitz.public|Prossnitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Prossnitz.internal|Prossnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Prossnitz.protect|Prossnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Prossnitz.private|Prossnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Prossnitz.personal|Prossnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Prossnitz.secret|Prossnitz.secret]] 
+
+### [Prossnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProssnitz.public.md) 
+
+### [Prossnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProssnitz.internal.md) 
+
+### [Prossnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProssnitz.protect.md) 
+
+### [Prossnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProssnitz.private.md) 
+
+### [Prossnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProssnitz.personal.md) 
+
+### [Prossnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProssnitz.secret.md)
+

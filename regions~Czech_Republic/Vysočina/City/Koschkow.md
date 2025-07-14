@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.27,16.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Koschkow|Koschkow]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Koschkow.public|Koschkow.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Koschkow.internal|Koschkow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Koschkow.protect|Koschkow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Koschkow.private|Koschkow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Koschkow.personal|Koschkow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Koschkow.secret|Koschkow.secret]] 
+
+### [Koschkow.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKoschkow.public.md) 
+
+### [Koschkow.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKoschkow.internal.md) 
+
+### [Koschkow.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKoschkow.protect.md) 
+
+### [Koschkow.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKoschkow.private.md) 
+
+### [Koschkow.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKoschkow.personal.md) 
+
+### [Koschkow.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKoschkow.secret.md)
+

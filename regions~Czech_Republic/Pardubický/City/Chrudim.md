@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,15.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Chrudim|Chrudim]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Chrudim.public|Chrudim.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Chrudim.internal|Chrudim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Chrudim.protect|Chrudim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Chrudim.private|Chrudim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Chrudim.personal|Chrudim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Chrudim.secret|Chrudim.secret]] 
+
+### [Chrudim.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityChrudim.public.md) 
+
+### [Chrudim.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityChrudim.internal.md) 
+
+### [Chrudim.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityChrudim.protect.md) 
+
+### [Chrudim.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityChrudim.private.md) 
+
+### [Chrudim.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityChrudim.personal.md) 
+
+### [Chrudim.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityChrudim.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.93,17.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava|Troppau=Opava]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.public|Troppau=Opava.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.internal|Troppau=Opava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.protect|Troppau=Opava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.private|Troppau=Opava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.personal|Troppau=Opava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Troppau=Opava.secret|Troppau=Opava.secret]] 
+
+### [Troppau=Opava.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityTroppau=Opava.public.md) 
+
+### [Troppau=Opava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityTroppau=Opava.internal.md) 
+
+### [Troppau=Opava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityTroppau=Opava.protect.md) 
+
+### [Troppau=Opava.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityTroppau=Opava.private.md) 
+
+### [Troppau=Opava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityTroppau=Opava.personal.md) 
+
+### [Troppau=Opava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityTroppau=Opava.secret.md)
+

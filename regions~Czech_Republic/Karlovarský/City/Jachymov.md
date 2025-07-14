@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.37,12.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Jachymov|Jachymov]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jachymov.public|Jachymov.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jachymov.internal|Jachymov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jachymov.protect|Jachymov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jachymov.private|Jachymov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jachymov.personal|Jachymov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jachymov.secret|Jachymov.secret]] 
+
+### [Jachymov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.public.md) 
+
+### [Jachymov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.internal.md) 
+
+### [Jachymov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.protect.md) 
+
+### [Jachymov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.private.md) 
+
+### [Jachymov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.personal.md) 
+
+### [Jachymov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.secret.md)
+

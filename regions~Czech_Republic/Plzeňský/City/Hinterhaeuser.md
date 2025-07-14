@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.25,13.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser|Hinterhaeuser]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.public|Hinterhaeuser.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.internal|Hinterhaeuser.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.protect|Hinterhaeuser.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.private|Hinterhaeuser.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.personal|Hinterhaeuser.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hinterhaeuser.secret|Hinterhaeuser.secret]] 
+
+### [Hinterhaeuser.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.public.md) 
+
+### [Hinterhaeuser.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.internal.md) 
+
+### [Hinterhaeuser.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.protect.md) 
+
+### [Hinterhaeuser.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.private.md) 
+
+### [Hinterhaeuser.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.personal.md) 
+
+### [Hinterhaeuser.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.secret.md)
+

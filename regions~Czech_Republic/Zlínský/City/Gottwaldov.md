@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.22,17.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Gottwaldov|Gottwaldov]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.public|Gottwaldov.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.internal|Gottwaldov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.protect|Gottwaldov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.private|Gottwaldov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.personal|Gottwaldov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gottwaldov.secret|Gottwaldov.secret]] 
+
+### [Gottwaldov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.public.md) 
+
+### [Gottwaldov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.internal.md) 
+
+### [Gottwaldov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.protect.md) 
+
+### [Gottwaldov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.private.md) 
+
+### [Gottwaldov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.personal.md) 
+
+### [Gottwaldov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.secret.md)
+

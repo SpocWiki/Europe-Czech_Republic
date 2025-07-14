@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.08,17.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Diwnitz|Diwnitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Diwnitz.public|Diwnitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Diwnitz.internal|Diwnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Diwnitz.protect|Diwnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Diwnitz.private|Diwnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Diwnitz.personal|Diwnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Diwnitz.secret|Diwnitz.secret]] 
+
+### [Diwnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityDiwnitz.public.md) 
+
+### [Diwnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityDiwnitz.internal.md) 
+
+### [Diwnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityDiwnitz.protect.md) 
+
+### [Diwnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityDiwnitz.private.md) 
+
+### [Diwnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityDiwnitz.personal.md) 
+
+### [Diwnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityDiwnitz.secret.md)
+

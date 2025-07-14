@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.43,14.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz|Roudnice=Raudnitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.public|Roudnice=Raudnitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.internal|Roudnice=Raudnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.protect|Roudnice=Raudnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.private|Roudnice=Raudnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.personal|Roudnice=Raudnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Roudnice=Raudnitz.secret|Roudnice=Raudnitz.secret]] 
+
+### [Roudnice=Raudnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.public.md) 
+
+### [Roudnice=Raudnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.internal.md) 
+
+### [Roudnice=Raudnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.protect.md) 
+
+### [Roudnice=Raudnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.private.md) 
+
+### [Roudnice=Raudnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.personal.md) 
+
+### [Roudnice=Raudnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.secret.md)
+

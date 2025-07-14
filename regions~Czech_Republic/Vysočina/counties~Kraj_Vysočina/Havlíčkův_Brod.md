@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.6,15.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,10 +36,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Havlíčkův_Brod|Havlíčkův_Brod]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Havlíčkův_Brod.public|Havlíčkův_Brod.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Havlíčkův_Brod.internal|Havlíčkův_Brod.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Havlíčkův_Brod.protect|Havlíčkův_Brod.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Havlíčkův_Brod.private|Havlíčkův_Brod.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Havlíčkův_Brod.personal|Havlíčkův_Brod.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Havlíčkův_Brod.secret|Havlíčkův_Brod.secret]] 
+
+### [Havlíčkův_Brod.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.public.md) 
+
+### [Havlíčkův_Brod.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.internal.md) 
+
+### [Havlíčkův_Brod.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.protect.md) 
+
+### [Havlíčkův_Brod.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.private.md) 
+
+### [Havlíčkův_Brod.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.personal.md) 
+
+### [Havlíčkův_Brod.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.secret.md)
+

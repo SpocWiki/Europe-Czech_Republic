@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.67,15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha|Boehmisch_Aicha]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.public|Boehmisch_Aicha.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.internal|Boehmisch_Aicha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.protect|Boehmisch_Aicha.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.private|Boehmisch_Aicha.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.personal|Boehmisch_Aicha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Aicha.secret|Boehmisch_Aicha.secret]] 
+
+### [Boehmisch_Aicha.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.public.md) 
+
+### [Boehmisch_Aicha.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.internal.md) 
+
+### [Boehmisch_Aicha.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.protect.md) 
+
+### [Boehmisch_Aicha.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.private.md) 
+
+### [Boehmisch_Aicha.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.personal.md) 
+
+### [Boehmisch_Aicha.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.secret.md)
+

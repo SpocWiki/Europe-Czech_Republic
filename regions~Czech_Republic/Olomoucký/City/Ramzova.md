@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.23,17.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Ramzova|Ramzova]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Ramzova.public|Ramzova.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Ramzova.internal|Ramzova.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Ramzova.protect|Ramzova.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Ramzova.private|Ramzova.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Ramzova.personal|Ramzova.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Ramzova.secret|Ramzova.secret]] 
+
+### [Ramzova.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityRamzova.public.md) 
+
+### [Ramzova.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityRamzova.internal.md) 
+
+### [Ramzova.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityRamzova.protect.md) 
+
+### [Ramzova.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityRamzova.private.md) 
+
+### [Ramzova.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityRamzova.personal.md) 
+
+### [Ramzova.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityRamzova.secret.md)
+

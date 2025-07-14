@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.85,18.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava|Maehrisch_Ostrau=Ostrava]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.public|Maehrisch_Ostrau=Ostrava.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.internal|Maehrisch_Ostrau=Ostrava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.protect|Maehrisch_Ostrau=Ostrava.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.private|Maehrisch_Ostrau=Ostrava.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.personal|Maehrisch_Ostrau=Ostrava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Maehrisch_Ostrau=Ostrava.secret|Maehrisch_Ostrau=Ostrava.secret]] 
+
+### [Maehrisch_Ostrau=Ostrava.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityMaehrisch_Ostrau=Ostrava.public.md) 
+
+### [Maehrisch_Ostrau=Ostrava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityMaehrisch_Ostrau=Ostrava.internal.md) 
+
+### [Maehrisch_Ostrau=Ostrava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityMaehrisch_Ostrau=Ostrava.protect.md) 
+
+### [Maehrisch_Ostrau=Ostrava.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityMaehrisch_Ostrau=Ostrava.private.md) 
+
+### [Maehrisch_Ostrau=Ostrava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityMaehrisch_Ostrau=Ostrava.personal.md) 
+
+### [Maehrisch_Ostrau=Ostrava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityMaehrisch_Ostrau=Ostrava.secret.md)
+

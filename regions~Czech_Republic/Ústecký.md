@@ -40,11 +40,16 @@ markerFolder: ./Ústecký/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/Counties/Ústecký|Ústecký]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Ústecký.public|Ústecký.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Ústecký.internal|Ústecký.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Ústecký.protect|Ústecký.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Ústecký.private|Ústecký.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Ústecký.personal|Ústecký.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Ústecký.secret|Ústecký.secret]] 
+
+### [Ústecký.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.public.md) 
+
+### [Ústecký.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.internal.md) 
+
+### [Ústecký.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.protect.md) 
+
+### [Ústecký.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.private.md) 
+
+### [Ústecký.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.personal.md) 
+
+### [Ústecký.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.secret.md)
 

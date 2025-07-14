@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.77,18.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Poland/City/Kotzobendy|Kotzobendy]] 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Kotzobendy.public|Kotzobendy.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Kotzobendy.internal|Kotzobendy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Kotzobendy.protect|Kotzobendy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Kotzobendy.private|Kotzobendy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Kotzobendy.personal|Kotzobendy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Kotzobendy.secret|Kotzobendy.secret]] 
+
+### [Kotzobendy.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.public.md) 
+
+### [Kotzobendy.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.internal.md) 
+
+### [Kotzobendy.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.protect.md) 
+
+### [Kotzobendy.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.private.md) 
+
+### [Kotzobendy.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.personal.md) 
+
+### [Kotzobendy.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.secret.md)
+

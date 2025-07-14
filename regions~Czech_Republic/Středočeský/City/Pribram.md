@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.7,14] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Pribram|Pribram]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pribram.public|Pribram.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pribram.internal|Pribram.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pribram.protect|Pribram.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pribram.private|Pribram.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pribram.personal|Pribram.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pribram.secret|Pribram.secret]] 
+
+### [Pribram.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.public.md) 
+
+### [Pribram.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.internal.md) 
+
+### [Pribram.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.protect.md) 
+
+### [Pribram.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.private.md) 
+
+### [Pribram.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.personal.md) 
+
+### [Pribram.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.secret.md)
+

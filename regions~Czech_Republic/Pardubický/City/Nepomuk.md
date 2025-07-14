@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,16.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Nepomuk|Nepomuk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Nepomuk.public|Nepomuk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Nepomuk.internal|Nepomuk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Nepomuk.protect|Nepomuk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Nepomuk.private|Nepomuk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Nepomuk.personal|Nepomuk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Nepomuk.secret|Nepomuk.secret]] 
+
+### [Nepomuk.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.public.md) 
+
+### [Nepomuk.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.internal.md) 
+
+### [Nepomuk.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.protect.md) 
+
+### [Nepomuk.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.private.md) 
+
+### [Nepomuk.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.personal.md) 
+
+### [Nepomuk.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.secret.md)
+

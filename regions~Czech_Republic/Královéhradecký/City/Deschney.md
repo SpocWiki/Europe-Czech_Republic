@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.3,16.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Deschney|Deschney]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Deschney.public|Deschney.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Deschney.internal|Deschney.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Deschney.protect|Deschney.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Deschney.private|Deschney.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Deschney.personal|Deschney.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Deschney.secret|Deschney.secret]] 
+
+### [Deschney.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityDeschney.public.md) 
+
+### [Deschney.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityDeschney.internal.md) 
+
+### [Deschney.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityDeschney.protect.md) 
+
+### [Deschney.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityDeschney.private.md) 
+
+### [Deschney.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityDeschney.personal.md) 
+
+### [Deschney.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityDeschney.secret.md)
+

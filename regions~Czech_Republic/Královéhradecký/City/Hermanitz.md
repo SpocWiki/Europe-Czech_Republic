@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.52,16.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Hermanitz|Hermanitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hermanitz.public|Hermanitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hermanitz.internal|Hermanitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hermanitz.protect|Hermanitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hermanitz.private|Hermanitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hermanitz.personal|Hermanitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hermanitz.secret|Hermanitz.secret]] 
+
+### [Hermanitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.public.md) 
+
+### [Hermanitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.internal.md) 
+
+### [Hermanitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.protect.md) 
+
+### [Hermanitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.private.md) 
+
+### [Hermanitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.personal.md) 
+
+### [Hermanitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.secret.md)
+

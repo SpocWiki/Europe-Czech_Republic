@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.85,16.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo|Znaim=Znojmo]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.public|Znaim=Znojmo.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.internal|Znaim=Znojmo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.protect|Znaim=Znojmo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.private|Znaim=Znojmo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.personal|Znaim=Znojmo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Znaim=Znojmo.secret|Znaim=Znojmo.secret]] 
+
+### [Znaim=Znojmo.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.public.md) 
+
+### [Znaim=Znojmo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.internal.md) 
+
+### [Znaim=Znojmo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.protect.md) 
+
+### [Znaim=Znojmo.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.private.md) 
+
+### [Znaim=Znojmo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.personal.md) 
+
+### [Znaim=Znojmo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.secret.md)
+

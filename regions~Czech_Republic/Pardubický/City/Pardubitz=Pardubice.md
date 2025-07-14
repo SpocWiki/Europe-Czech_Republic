@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.05,15.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Pardubitz=Pardubice|Pardubitz=Pardubice]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pardubitz=Pardubice.public|Pardubitz=Pardubice.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pardubitz=Pardubice.internal|Pardubitz=Pardubice.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pardubitz=Pardubice.protect|Pardubitz=Pardubice.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pardubitz=Pardubice.private|Pardubitz=Pardubice.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pardubitz=Pardubice.personal|Pardubitz=Pardubice.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pardubitz=Pardubice.secret|Pardubitz=Pardubice.secret]] 
+
+### [Pardubitz=Pardubice.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.public.md) 
+
+### [Pardubitz=Pardubice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.internal.md) 
+
+### [Pardubitz=Pardubice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.protect.md) 
+
+### [Pardubitz=Pardubice.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.private.md) 
+
+### [Pardubitz=Pardubice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.personal.md) 
+
+### [Pardubitz=Pardubice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.secret.md)
+

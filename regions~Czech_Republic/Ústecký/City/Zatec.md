@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.32,13.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Zatec|Zatec]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zatec.public|Zatec.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zatec.internal|Zatec.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zatec.protect|Zatec.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zatec.private|Zatec.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zatec.personal|Zatec.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zatec.secret|Zatec.secret]] 
+
+### [Zatec.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityZatec.public.md) 
+
+### [Zatec.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityZatec.internal.md) 
+
+### [Zatec.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityZatec.protect.md) 
+
+### [Zatec.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityZatec.private.md) 
+
+### [Zatec.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityZatec.personal.md) 
+
+### [Zatec.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityZatec.secret.md)
+

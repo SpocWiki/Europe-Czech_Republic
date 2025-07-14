@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.78,17.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Wigstadtl|Wigstadtl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.public|Wigstadtl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.internal|Wigstadtl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.protect|Wigstadtl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.private|Wigstadtl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.personal|Wigstadtl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wigstadtl.secret|Wigstadtl.secret]] 
+
+### [Wigstadtl.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityWigstadtl.public.md) 
+
+### [Wigstadtl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityWigstadtl.internal.md) 
+
+### [Wigstadtl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityWigstadtl.protect.md) 
+
+### [Wigstadtl.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityWigstadtl.private.md) 
+
+### [Wigstadtl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityWigstadtl.personal.md) 
+
+### [Wigstadtl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityWigstadtl.secret.md)
+

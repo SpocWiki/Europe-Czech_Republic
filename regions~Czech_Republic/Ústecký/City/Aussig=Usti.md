@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.67,14.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti|Aussig=Usti]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.public|Aussig=Usti.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.internal|Aussig=Usti.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.protect|Aussig=Usti.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.private|Aussig=Usti.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.personal|Aussig=Usti.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Aussig=Usti.secret|Aussig=Usti.secret]] 
+
+### [Aussig=Usti.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.public.md) 
+
+### [Aussig=Usti.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.internal.md) 
+
+### [Aussig=Usti.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.protect.md) 
+
+### [Aussig=Usti.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.private.md) 
+
+### [Aussig=Usti.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.personal.md) 
+
+### [Aussig=Usti.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.secret.md)
+

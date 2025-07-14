@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.6,17.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc|Olmuetz=Cloumuc]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.public|Olmuetz=Cloumuc.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.internal|Olmuetz=Cloumuc.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.protect|Olmuetz=Cloumuc.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.private|Olmuetz=Cloumuc.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.personal|Olmuetz=Cloumuc.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Olmuetz=Cloumuc.secret|Olmuetz=Cloumuc.secret]] 
+
+### [Olmuetz=Cloumuc.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.public.md) 
+
+### [Olmuetz=Cloumuc.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.internal.md) 
+
+### [Olmuetz=Cloumuc.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.protect.md) 
+
+### [Olmuetz=Cloumuc.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.private.md) 
+
+### [Olmuetz=Cloumuc.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.personal.md) 
+
+### [Olmuetz=Cloumuc.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.secret.md)
+

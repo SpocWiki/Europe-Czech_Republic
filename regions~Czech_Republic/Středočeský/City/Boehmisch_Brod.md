@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.07,14.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod|Boehmisch_Brod]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.public|Boehmisch_Brod.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.internal|Boehmisch_Brod.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.protect|Boehmisch_Brod.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.private|Boehmisch_Brod.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.personal|Boehmisch_Brod.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Brod.secret|Boehmisch_Brod.secret]] 
+
+### [Boehmisch_Brod.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.public.md) 
+
+### [Boehmisch_Brod.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.internal.md) 
+
+### [Boehmisch_Brod.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.protect.md) 
+
+### [Boehmisch_Brod.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.private.md) 
+
+### [Boehmisch_Brod.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.personal.md) 
+
+### [Boehmisch_Brod.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.secret.md)
+

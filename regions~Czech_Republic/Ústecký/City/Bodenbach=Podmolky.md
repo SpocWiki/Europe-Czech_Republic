@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.77,14.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky|Bodenbach=Podmolky]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.public|Bodenbach=Podmolky.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.internal|Bodenbach=Podmolky.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.protect|Bodenbach=Podmolky.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.private|Bodenbach=Podmolky.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.personal|Bodenbach=Podmolky.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bodenbach=Podmolky.secret|Bodenbach=Podmolky.secret]] 
+
+### [Bodenbach=Podmolky.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.public.md) 
+
+### [Bodenbach=Podmolky.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.internal.md) 
+
+### [Bodenbach=Podmolky.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.protect.md) 
+
+### [Bodenbach=Podmolky.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.private.md) 
+
+### [Bodenbach=Podmolky.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.personal.md) 
+
+### [Bodenbach=Podmolky.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.secret.md)
+

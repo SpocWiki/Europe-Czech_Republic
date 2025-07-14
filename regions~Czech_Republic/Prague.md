@@ -40,11 +40,16 @@ markerFolder: ./Prague/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/Counties/Prague|Prague]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Prague.public|Prague.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Prague.internal|Prague.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Prague.protect|Prague.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Prague.private|Prague.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Prague.personal|Prague.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Prague.secret|Prague.secret]] 
+
+### [Prague.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPrague.public.md) 
+
+### [Prague.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPrague.internal.md) 
+
+### [Prague.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPrague.protect.md) 
+
+### [Prague.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPrague.private.md) 
+
+### [Prague.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPrague.personal.md) 
+
+### [Prague.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPrague.secret.md)
 

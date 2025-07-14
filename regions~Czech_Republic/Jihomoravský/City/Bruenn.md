@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.2,16.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Bruenn|Bruenn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bruenn.public|Bruenn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bruenn.internal|Bruenn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bruenn.protect|Bruenn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bruenn.private|Bruenn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bruenn.personal|Bruenn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bruenn.secret|Bruenn.secret]] 
+
+### [Bruenn.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityBruenn.public.md) 
+
+### [Bruenn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityBruenn.internal.md) 
+
+### [Bruenn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityBruenn.protect.md) 
+
+### [Bruenn.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityBruenn.private.md) 
+
+### [Bruenn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityBruenn.personal.md) 
+
+### [Bruenn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityBruenn.secret.md)
+

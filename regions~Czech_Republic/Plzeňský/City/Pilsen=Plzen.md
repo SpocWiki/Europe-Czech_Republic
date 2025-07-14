@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.75,13.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen|Pilsen=Plzen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.public|Pilsen=Plzen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.internal|Pilsen=Plzen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.protect|Pilsen=Plzen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.private|Pilsen=Plzen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.personal|Pilsen=Plzen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pilsen=Plzen.secret|Pilsen=Plzen.secret]] 
+
+### [Pilsen=Plzen.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.public.md) 
+
+### [Pilsen=Plzen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.internal.md) 
+
+### [Pilsen=Plzen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.protect.md) 
+
+### [Pilsen=Plzen.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.private.md) 
+
+### [Pilsen=Plzen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.personal.md) 
+
+### [Pilsen=Plzen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.secret.md)
+

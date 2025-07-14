@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.15,16.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Slavko|Slavko]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Slavko.public|Slavko.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Slavko.internal|Slavko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Slavko.protect|Slavko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Slavko.private|Slavko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Slavko.personal|Slavko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Slavko.secret|Slavko.secret]] 
+
+### [Slavko.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.public.md) 
+
+### [Slavko.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.internal.md) 
+
+### [Slavko.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.protect.md) 
+
+### [Slavko.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.private.md) 
+
+### [Slavko.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.personal.md) 
+
+### [Slavko.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.secret.md)
+

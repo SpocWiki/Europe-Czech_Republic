@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.57,15.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Trautenau=Trutnov|Trautenau=Trutnov]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Trautenau=Trutnov.public|Trautenau=Trutnov.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Trautenau=Trutnov.internal|Trautenau=Trutnov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Trautenau=Trutnov.protect|Trautenau=Trutnov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Trautenau=Trutnov.private|Trautenau=Trutnov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Trautenau=Trutnov.personal|Trautenau=Trutnov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Trautenau=Trutnov.secret|Trautenau=Trutnov.secret]] 
+
+### [Trautenau=Trutnov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.public.md) 
+
+### [Trautenau=Trutnov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.internal.md) 
+
+### [Trautenau=Trutnov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.protect.md) 
+
+### [Trautenau=Trutnov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.private.md) 
+
+### [Trautenau=Trutnov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.personal.md) 
+
+### [Trautenau=Trutnov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.secret.md)
+

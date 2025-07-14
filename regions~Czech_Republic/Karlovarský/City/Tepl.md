@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,12.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Tepl|Tepl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tepl.public|Tepl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tepl.internal|Tepl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tepl.protect|Tepl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tepl.private|Tepl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tepl.personal|Tepl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tepl.secret|Tepl.secret]] 
+
+### [Tepl.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.public.md) 
+
+### [Tepl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.internal.md) 
+
+### [Tepl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.protect.md) 
+
+### [Tepl.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.private.md) 
+
+### [Tepl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.personal.md) 
+
+### [Tepl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.8,12.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau|Tachow=Tachau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.public|Tachow=Tachau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.internal|Tachow=Tachau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.protect|Tachow=Tachau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.private|Tachow=Tachau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.personal|Tachow=Tachau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tachow=Tachau.secret|Tachow=Tachau.secret]] 
+
+### [Tachow=Tachau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.public.md) 
+
+### [Tachow=Tachau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.internal.md) 
+
+### [Tachow=Tachau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.protect.md) 
+
+### [Tachow=Tachau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.private.md) 
+
+### [Tachow=Tachau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.personal.md) 
+
+### [Tachow=Tachau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.secret.md)
+

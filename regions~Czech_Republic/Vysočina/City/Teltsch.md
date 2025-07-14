@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.2,15.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Teltsch|Teltsch]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Teltsch.public|Teltsch.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Teltsch.internal|Teltsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Teltsch.protect|Teltsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Teltsch.private|Teltsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Teltsch.personal|Teltsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Teltsch.secret|Teltsch.secret]] 
+
+### [Teltsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.public.md) 
+
+### [Teltsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.internal.md) 
+
+### [Teltsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.protect.md) 
+
+### [Teltsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.private.md) 
+
+### [Teltsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.personal.md) 
+
+### [Teltsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.secret.md)
+

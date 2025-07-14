@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.02,15.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kolin|Kolin]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kolin.public|Kolin.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kolin.internal|Kolin.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kolin.protect|Kolin.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kolin.private|Kolin.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kolin.personal|Kolin.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kolin.secret|Kolin.secret]] 
+
+### [Kolin.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKolin.public.md) 
+
+### [Kolin.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKolin.internal.md) 
+
+### [Kolin.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKolin.protect.md) 
+
+### [Kolin.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKolin.private.md) 
+
+### [Kolin.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKolin.personal.md) 
+
+### [Kolin.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKolin.secret.md)
+

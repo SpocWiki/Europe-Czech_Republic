@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.08,16.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Poland/City/Senftenberg|Senftenberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Senftenberg.public|Senftenberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Senftenberg.internal|Senftenberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Senftenberg.protect|Senftenberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Senftenberg.private|Senftenberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Senftenberg.personal|Senftenberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Senftenberg.secret|Senftenberg.secret]] 
+
+### [Senftenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.public.md) 
+
+### [Senftenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.internal.md) 
+
+### [Senftenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.protect.md) 
+
+### [Senftenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.private.md) 
+
+### [Senftenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.personal.md) 
+
+### [Senftenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.secret.md)
+

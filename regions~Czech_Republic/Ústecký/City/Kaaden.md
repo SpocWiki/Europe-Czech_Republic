@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.37,13.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kaaden|Kaaden]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kaaden.public|Kaaden.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kaaden.internal|Kaaden.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kaaden.protect|Kaaden.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kaaden.private|Kaaden.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kaaden.personal|Kaaden.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kaaden.secret|Kaaden.secret]] 
+
+### [Kaaden.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.public.md) 
+
+### [Kaaden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.internal.md) 
+
+### [Kaaden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.protect.md) 
+
+### [Kaaden.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.private.md) 
+
+### [Kaaden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.personal.md) 
+
+### [Kaaden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.secret.md)
+

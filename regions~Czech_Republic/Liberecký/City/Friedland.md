@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.92,15.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Friedland|Friedland]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Friedland.public|Friedland.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Friedland.internal|Friedland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Friedland.protect|Friedland.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Friedland.private|Friedland.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Friedland.personal|Friedland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Friedland.secret|Friedland.secret]] 
+
+### [Friedland.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.public.md) 
+
+### [Friedland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.internal.md) 
+
+### [Friedland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.protect.md) 
+
+### [Friedland.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.private.md) 
+
+### [Friedland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.personal.md) 
+
+### [Friedland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.secret.md)
+

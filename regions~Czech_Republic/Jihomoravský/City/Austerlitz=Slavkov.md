@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.15,16.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov|Austerlitz=Slavkov]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.public|Austerlitz=Slavkov.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.internal|Austerlitz=Slavkov.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.protect|Austerlitz=Slavkov.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.private|Austerlitz=Slavkov.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.personal|Austerlitz=Slavkov.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Austerlitz=Slavkov.secret|Austerlitz=Slavkov.secret]] 
+
+### [Austerlitz=Slavkov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.public.md) 
+
+### [Austerlitz=Slavkov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.internal.md) 
+
+### [Austerlitz=Slavkov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.protect.md) 
+
+### [Austerlitz=Slavkov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.private.md) 
+
+### [Austerlitz=Slavkov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.personal.md) 
+
+### [Austerlitz=Slavkov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.secret.md)
+

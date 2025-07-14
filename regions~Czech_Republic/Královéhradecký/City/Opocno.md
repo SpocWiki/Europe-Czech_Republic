@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.27,16.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Opocno|Opocno]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Opocno.public|Opocno.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Opocno.internal|Opocno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Opocno.protect|Opocno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Opocno.private|Opocno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Opocno.personal|Opocno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Opocno.secret|Opocno.secret]] 
+
+### [Opocno.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityOpocno.public.md) 
+
+### [Opocno.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityOpocno.internal.md) 
+
+### [Opocno.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityOpocno.protect.md) 
+
+### [Opocno.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityOpocno.private.md) 
+
+### [Opocno.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityOpocno.personal.md) 
+
+### [Opocno.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityOpocno.secret.md)
+

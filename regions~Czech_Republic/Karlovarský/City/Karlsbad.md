@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.18,12.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Karlsbad|Karlsbad]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Karlsbad.public|Karlsbad.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Karlsbad.internal|Karlsbad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Karlsbad.protect|Karlsbad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Karlsbad.private|Karlsbad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Karlsbad.personal|Karlsbad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Karlsbad.secret|Karlsbad.secret]] 
+
+### [Karlsbad.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.public.md) 
+
+### [Karlsbad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.internal.md) 
+
+### [Karlsbad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.protect.md) 
+
+### [Karlsbad.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.private.md) 
+
+### [Karlsbad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.personal.md) 
+
+### [Karlsbad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.35,14.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Melnik|Melnik]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Melnik.public|Melnik.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Melnik.internal|Melnik.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Melnik.protect|Melnik.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Melnik.private|Melnik.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Melnik.personal|Melnik.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Melnik.secret|Melnik.secret]] 
+
+### [Melnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.public.md) 
+
+### [Melnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.internal.md) 
+
+### [Melnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.protect.md) 
+
+### [Melnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.private.md) 
+
+### [Melnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.personal.md) 
+
+### [Melnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.secret.md)
+

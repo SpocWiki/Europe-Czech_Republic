@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.77,15.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec|Reichenberg=Liderec]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.public|Reichenberg=Liderec.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.internal|Reichenberg=Liderec.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.protect|Reichenberg=Liderec.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.private|Reichenberg=Liderec.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.personal|Reichenberg=Liderec.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Reichenberg=Liderec.secret|Reichenberg=Liderec.secret]] 
+
+### [Reichenberg=Liderec.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.public.md) 
+
+### [Reichenberg=Liderec.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.internal.md) 
+
+### [Reichenberg=Liderec.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.protect.md) 
+
+### [Reichenberg=Liderec.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.private.md) 
+
+### [Reichenberg=Liderec.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.personal.md) 
+
+### [Reichenberg=Liderec.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.75,16.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Feldsberg|Feldsberg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Feldsberg.public|Feldsberg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Feldsberg.internal|Feldsberg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Feldsberg.protect|Feldsberg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Feldsberg.private|Feldsberg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Feldsberg.personal|Feldsberg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Feldsberg.secret|Feldsberg.secret]] 
+
+### [Feldsberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityFeldsberg.public.md) 
+
+### [Feldsberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityFeldsberg.internal.md) 
+
+### [Feldsberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityFeldsberg.protect.md) 
+
+### [Feldsberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityFeldsberg.private.md) 
+
+### [Feldsberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityFeldsberg.personal.md) 
+
+### [Feldsberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityFeldsberg.secret.md)
+

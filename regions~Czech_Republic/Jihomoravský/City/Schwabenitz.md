@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.28,17.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Schwabenitz|Schwabenitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.public|Schwabenitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.internal|Schwabenitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.protect|Schwabenitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.private|Schwabenitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.personal|Schwabenitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Schwabenitz.secret|Schwabenitz.secret]] 
+
+### [Schwabenitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySchwabenitz.public.md) 
+
+### [Schwabenitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySchwabenitz.internal.md) 
+
+### [Schwabenitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySchwabenitz.protect.md) 
+
+### [Schwabenitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySchwabenitz.private.md) 
+
+### [Schwabenitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySchwabenitz.personal.md) 
+
+### [Schwabenitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySchwabenitz.secret.md)
+

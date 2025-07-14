@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.03,13.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Mader|Mader]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Mader.public|Mader.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Mader.internal|Mader.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Mader.protect|Mader.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Mader.private|Mader.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Mader.personal|Mader.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Mader.secret|Mader.secret]] 
+
+### [Mader.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.public.md) 
+
+### [Mader.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.internal.md) 
+
+### [Mader.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.protect.md) 
+
+### [Mader.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.private.md) 
+
+### [Mader.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.personal.md) 
+
+### [Mader.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.secret.md)
+

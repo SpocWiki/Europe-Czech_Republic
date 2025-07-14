@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.77,16.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Svitavy|Svitavy]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Svitavy.public|Svitavy.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Svitavy.internal|Svitavy.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Svitavy.protect|Svitavy.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Svitavy.private|Svitavy.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Svitavy.personal|Svitavy.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Svitavy.secret|Svitavy.secret]] 
+
+### [Svitavy.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.public.md) 
+
+### [Svitavy.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.internal.md) 
+
+### [Svitavy.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.protect.md) 
+
+### [Svitavy.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.private.md) 
+
+### [Svitavy.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.personal.md) 
+
+### [Svitavy.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.secret.md)
+

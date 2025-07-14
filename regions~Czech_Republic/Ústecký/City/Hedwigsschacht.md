@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.52,13.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht|Hedwigsschacht]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.public|Hedwigsschacht.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.internal|Hedwigsschacht.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.protect|Hedwigsschacht.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.private|Hedwigsschacht.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.personal|Hedwigsschacht.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hedwigsschacht.secret|Hedwigsschacht.secret]] 
+
+### [Hedwigsschacht.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.public.md) 
+
+### [Hedwigsschacht.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.internal.md) 
+
+### [Hedwigsschacht.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.protect.md) 
+
+### [Hedwigsschacht.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.private.md) 
+
+### [Hedwigsschacht.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.personal.md) 
+
+### [Hedwigsschacht.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.secret.md)
+

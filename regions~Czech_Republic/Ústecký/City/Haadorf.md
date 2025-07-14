@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.4,13.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Haadorf|Haadorf]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Haadorf.public|Haadorf.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Haadorf.internal|Haadorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Haadorf.protect|Haadorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Haadorf.private|Haadorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Haadorf.personal|Haadorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Haadorf.secret|Haadorf.secret]] 
+
+### [Haadorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHaadorf.public.md) 
+
+### [Haadorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHaadorf.internal.md) 
+
+### [Haadorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHaadorf.protect.md) 
+
+### [Haadorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHaadorf.private.md) 
+
+### [Haadorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHaadorf.personal.md) 
+
+### [Haadorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHaadorf.secret.md)
+

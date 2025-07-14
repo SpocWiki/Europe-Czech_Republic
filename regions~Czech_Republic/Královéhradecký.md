@@ -40,11 +40,16 @@ markerFolder: ./Královéhradecký/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký|Královéhradecký]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.public|Královéhradecký.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.internal|Královéhradecký.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.protect|Královéhradecký.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.private|Královéhradecký.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.personal|Královéhradecký.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Královéhradecký.secret|Královéhradecký.secret]] 
+
+### [Královéhradecký.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKrálovéhradecký.public.md) 
+
+### [Královéhradecký.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKrálovéhradecký.internal.md) 
+
+### [Královéhradecký.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKrálovéhradecký.protect.md) 
+
+### [Královéhradecký.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKrálovéhradecký.private.md) 
+
+### [Královéhradecký.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKrálovéhradecký.personal.md) 
+
+### [Královéhradecký.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKrálovéhradecký.secret.md)
 

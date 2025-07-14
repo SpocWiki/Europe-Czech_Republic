@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.3,17.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kremsier|Kremsier]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kremsier.public|Kremsier.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kremsier.internal|Kremsier.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kremsier.protect|Kremsier.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kremsier.private|Kremsier.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kremsier.personal|Kremsier.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kremsier.secret|Kremsier.secret]] 
+
+### [Kremsier.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKremsier.public.md) 
+
+### [Kremsier.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKremsier.internal.md) 
+
+### [Kremsier.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKremsier.protect.md) 
+
+### [Kremsier.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKremsier.private.md) 
+
+### [Kremsier.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKremsier.personal.md) 
+
+### [Kremsier.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKremsier.secret.md)
+

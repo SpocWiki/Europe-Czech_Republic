@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.68,14.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Reichstadt|Reichstadt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Reichstadt.public|Reichstadt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Reichstadt.internal|Reichstadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Reichstadt.protect|Reichstadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Reichstadt.private|Reichstadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Reichstadt.personal|Reichstadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Reichstadt.secret|Reichstadt.secret]] 
+
+### [Reichstadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichstadt.public.md) 
+
+### [Reichstadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichstadt.internal.md) 
+
+### [Reichstadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichstadt.protect.md) 
+
+### [Reichstadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichstadt.private.md) 
+
+### [Reichstadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichstadt.personal.md) 
+
+### [Reichstadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichstadt.secret.md)
+

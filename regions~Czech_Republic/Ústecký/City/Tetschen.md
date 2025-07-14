@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.77,14.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Tetschen|Tetschen]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Tetschen.public|Tetschen.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Tetschen.internal|Tetschen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Tetschen.protect|Tetschen.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Tetschen.private|Tetschen.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Tetschen.personal|Tetschen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Tetschen.secret|Tetschen.secret]] 
+
+### [Tetschen.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityTetschen.public.md) 
+
+### [Tetschen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityTetschen.internal.md) 
+
+### [Tetschen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityTetschen.protect.md) 
+
+### [Tetschen.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityTetschen.private.md) 
+
+### [Tetschen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityTetschen.personal.md) 
+
+### [Tetschen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityTetschen.secret.md)
+

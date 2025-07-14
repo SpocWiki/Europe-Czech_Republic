@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.22,12.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Asch|Asch]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Asch.public|Asch.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Asch.internal|Asch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Asch.protect|Asch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Asch.private|Asch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Asch.personal|Asch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Asch.secret|Asch.secret]] 
+
+### [Asch.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityAsch.public.md) 
+
+### [Asch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityAsch.internal.md) 
+
+### [Asch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityAsch.protect.md) 
+
+### [Asch.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityAsch.private.md) 
+
+### [Asch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityAsch.personal.md) 
+
+### [Asch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityAsch.secret.md)
+

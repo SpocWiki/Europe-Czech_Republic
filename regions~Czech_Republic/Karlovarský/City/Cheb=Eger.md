@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.07,12.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger|Cheb=Eger]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.public|Cheb=Eger.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.internal|Cheb=Eger.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.protect|Cheb=Eger.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.private|Cheb=Eger.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.personal|Cheb=Eger.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Cheb=Eger.secret|Cheb=Eger.secret]] 
+
+### [Cheb=Eger.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.public.md) 
+
+### [Cheb=Eger.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.internal.md) 
+
+### [Cheb=Eger.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.protect.md) 
+
+### [Cheb=Eger.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.private.md) 
+
+### [Cheb=Eger.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.personal.md) 
+
+### [Cheb=Eger.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.secret.md)
+

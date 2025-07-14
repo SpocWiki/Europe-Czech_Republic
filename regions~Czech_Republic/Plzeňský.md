@@ -40,11 +40,16 @@ markerFolder: ./Plzeňský/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský|Plzeňský]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.public|Plzeňský.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.internal|Plzeňský.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.protect|Plzeňský.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.private|Plzeňský.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.personal|Plzeňský.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/Counties/Plzeňský.secret|Plzeňský.secret]] 
+
+### [Plzeňský.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPlzeňský.public.md) 
+
+### [Plzeňský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPlzeňský.internal.md) 
+
+### [Plzeňský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPlzeňský.protect.md) 
+
+### [Plzeňský.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPlzeňský.private.md) 
+
+### [Plzeňský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPlzeňský.personal.md) 
+
+### [Plzeňský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPlzeňský.secret.md)
 

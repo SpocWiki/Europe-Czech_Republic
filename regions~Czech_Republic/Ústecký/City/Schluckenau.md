@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51,14.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Schluckenau|Schluckenau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Schluckenau.public|Schluckenau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Schluckenau.internal|Schluckenau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Schluckenau.protect|Schluckenau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Schluckenau.private|Schluckenau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Schluckenau.personal|Schluckenau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Schluckenau.secret|Schluckenau.secret]] 
+
+### [Schluckenau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.public.md) 
+
+### [Schluckenau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.internal.md) 
+
+### [Schluckenau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.protect.md) 
+
+### [Schluckenau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.private.md) 
+
+### [Schluckenau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.personal.md) 
+
+### [Schluckenau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.secret.md)
+

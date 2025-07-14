@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.67,16.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Brezinek|Brezinek]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Brezinek.public|Brezinek.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Brezinek.internal|Brezinek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Brezinek.protect|Brezinek.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Brezinek.private|Brezinek.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Brezinek.personal|Brezinek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Brezinek.secret|Brezinek.secret]] 
+
+### [Brezinek.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.public.md) 
+
+### [Brezinek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.internal.md) 
+
+### [Brezinek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.protect.md) 
+
+### [Brezinek.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.private.md) 
+
+### [Brezinek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.personal.md) 
+
+### [Brezinek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.secret.md)
+

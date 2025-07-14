@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.1,17.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz|Luhatschowitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.public|Luhatschowitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.internal|Luhatschowitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.protect|Luhatschowitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.private|Luhatschowitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.personal|Luhatschowitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Luhatschowitz.secret|Luhatschowitz.secret]] 
+
+### [Luhatschowitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.public.md) 
+
+### [Luhatschowitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.internal.md) 
+
+### [Luhatschowitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.protect.md) 
+
+### [Luhatschowitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.private.md) 
+
+### [Luhatschowitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.personal.md) 
+
+### [Luhatschowitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.secret.md)
+

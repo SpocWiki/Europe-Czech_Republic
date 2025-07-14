@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.37,16.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Krafensko|Krafensko]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krafensko.public|Krafensko.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krafensko.internal|Krafensko.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krafensko.protect|Krafensko.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krafensko.private|Krafensko.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krafensko.personal|Krafensko.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krafensko.secret|Krafensko.secret]] 
+
+### [Krafensko.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKrafensko.public.md) 
+
+### [Krafensko.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKrafensko.internal.md) 
+
+### [Krafensko.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKrafensko.protect.md) 
+
+### [Krafensko.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKrafensko.private.md) 
+
+### [Krafensko.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKrafensko.personal.md) 
+
+### [Krafensko.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKrafensko.secret.md)
+

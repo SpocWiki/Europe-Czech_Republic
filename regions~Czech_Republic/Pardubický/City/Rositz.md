@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.92,15.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Rositz|Rositz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Rositz.public|Rositz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Rositz.internal|Rositz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Rositz.protect|Rositz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Rositz.private|Rositz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Rositz.personal|Rositz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Rositz.secret|Rositz.secret]] 
+
+### [Rositz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityRositz.public.md) 
+
+### [Rositz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityRositz.internal.md) 
+
+### [Rositz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityRositz.protect.md) 
+
+### [Rositz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityRositz.private.md) 
+
+### [Rositz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityRositz.personal.md) 
+
+### [Rositz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityRositz.secret.md)
+

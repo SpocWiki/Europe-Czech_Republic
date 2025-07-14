@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.62,15.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Branna|Branna]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Branna.public|Branna.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Branna.internal|Branna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Branna.protect|Branna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Branna.private|Branna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Branna.personal|Branna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Branna.secret|Branna.secret]] 
+
+### [Branna.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.public.md) 
+
+### [Branna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.internal.md) 
+
+### [Branna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.protect.md) 
+
+### [Branna.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.private.md) 
+
+### [Branna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.personal.md) 
+
+### [Branna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.secret.md)
+

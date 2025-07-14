@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.48,14.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Rosenthal|Rosenthal]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Rosenthal.public|Rosenthal.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Rosenthal.internal|Rosenthal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Rosenthal.protect|Rosenthal.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Rosenthal.private|Rosenthal.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Rosenthal.personal|Rosenthal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Rosenthal.secret|Rosenthal.secret]] 
+
+### [Rosenthal.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRosenthal.public.md) 
+
+### [Rosenthal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRosenthal.internal.md) 
+
+### [Rosenthal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRosenthal.protect.md) 
+
+### [Rosenthal.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRosenthal.private.md) 
+
+### [Rosenthal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRosenthal.personal.md) 
+
+### [Rosenthal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRosenthal.secret.md)
+

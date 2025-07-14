@@ -39,12 +39,17 @@ Capital :: [[Praha]]
 [has_place_latitude::49.7633] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Czech_Republic|Czech_Republic]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Czech_Republic.public|Czech_Republic.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Czech_Republic.internal|Czech_Republic.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Czech_Republic.protect|Czech_Republic.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Czech_Republic.private|Czech_Republic.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Czech_Republic.personal|Czech_Republic.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Czech_Republic.secret|Czech_Republic.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.secret.md)
+

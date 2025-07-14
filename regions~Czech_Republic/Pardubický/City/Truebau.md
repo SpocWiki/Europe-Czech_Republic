@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.77,16.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Truebau|Truebau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Truebau.public|Truebau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Truebau.internal|Truebau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Truebau.protect|Truebau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Truebau.private|Truebau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Truebau.personal|Truebau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Truebau.secret|Truebau.secret]] 
+
+### [Truebau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityTruebau.public.md) 
+
+### [Truebau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityTruebau.internal.md) 
+
+### [Truebau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityTruebau.protect.md) 
+
+### [Truebau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityTruebau.private.md) 
+
+### [Truebau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityTruebau.personal.md) 
+
+### [Truebau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityTruebau.secret.md)
+

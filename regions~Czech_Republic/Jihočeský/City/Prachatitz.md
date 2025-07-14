@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49,14] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Prachatitz|Prachatitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Prachatitz.public|Prachatitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Prachatitz.internal|Prachatitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Prachatitz.protect|Prachatitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Prachatitz.private|Prachatitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Prachatitz.personal|Prachatitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Prachatitz.secret|Prachatitz.secret]] 
+
+### [Prachatitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPrachatitz.public.md) 
+
+### [Prachatitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPrachatitz.internal.md) 
+
+### [Prachatitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPrachatitz.protect.md) 
+
+### [Prachatitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPrachatitz.private.md) 
+
+### [Prachatitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPrachatitz.personal.md) 
+
+### [Prachatitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPrachatitz.secret.md)
+

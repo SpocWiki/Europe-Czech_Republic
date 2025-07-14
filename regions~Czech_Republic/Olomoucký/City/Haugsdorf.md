@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.37,17.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Haugsdorf|Haugsdorf]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.public|Haugsdorf.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.internal|Haugsdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.protect|Haugsdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.private|Haugsdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.personal|Haugsdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Haugsdorf.secret|Haugsdorf.secret]] 
+
+### [Haugsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.public.md) 
+
+### [Haugsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.internal.md) 
+
+### [Haugsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.protect.md) 
+
+### [Haugsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.private.md) 
+
+### [Haugsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.personal.md) 
+
+### [Haugsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.secret.md)
+

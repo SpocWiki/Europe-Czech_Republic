@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.32,14.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Pisek|Pisek]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Pisek.public|Pisek.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Pisek.internal|Pisek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Pisek.protect|Pisek.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Pisek.private|Pisek.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Pisek.personal|Pisek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Pisek.secret|Pisek.secret]] 
+
+### [Pisek.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPisek.public.md) 
+
+### [Pisek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPisek.internal.md) 
+
+### [Pisek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPisek.protect.md) 
+
+### [Pisek.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPisek.private.md) 
+
+### [Pisek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPisek.personal.md) 
+
+### [Pisek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityPisek.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.17,17.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Napajedla|Napajedla]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Napajedla.public|Napajedla.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Napajedla.internal|Napajedla.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Napajedla.protect|Napajedla.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Napajedla.private|Napajedla.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Napajedla.personal|Napajedla.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Napajedla.secret|Napajedla.secret]] 
+
+### [Napajedla.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityNapajedla.public.md) 
+
+### [Napajedla.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityNapajedla.internal.md) 
+
+### [Napajedla.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityNapajedla.protect.md) 
+
+### [Napajedla.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityNapajedla.private.md) 
+
+### [Napajedla.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityNapajedla.personal.md) 
+
+### [Napajedla.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityNapajedla.secret.md)
+

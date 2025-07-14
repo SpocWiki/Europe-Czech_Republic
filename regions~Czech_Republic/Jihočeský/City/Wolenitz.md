@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.25,13.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Wolenitz|Wolenitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Wolenitz.public|Wolenitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Wolenitz.internal|Wolenitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Wolenitz.protect|Wolenitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Wolenitz.private|Wolenitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Wolenitz.personal|Wolenitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Wolenitz.secret|Wolenitz.secret]] 
+
+### [Wolenitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWolenitz.public.md) 
+
+### [Wolenitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWolenitz.internal.md) 
+
+### [Wolenitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWolenitz.protect.md) 
+
+### [Wolenitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWolenitz.private.md) 
+
+### [Wolenitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWolenitz.personal.md) 
+
+### [Wolenitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWolenitz.secret.md)
+

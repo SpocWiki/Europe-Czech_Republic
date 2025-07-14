@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.53,13.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Bruex|Bruex]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bruex.public|Bruex.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bruex.internal|Bruex.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bruex.protect|Bruex.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bruex.private|Bruex.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bruex.personal|Bruex.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bruex.secret|Bruex.secret]] 
+
+### [Bruex.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBruex.public.md) 
+
+### [Bruex.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBruex.internal.md) 
+
+### [Bruex.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBruex.protect.md) 
+
+### [Bruex.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBruex.private.md) 
+
+### [Bruex.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBruex.personal.md) 
+
+### [Bruex.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBruex.secret.md)
+

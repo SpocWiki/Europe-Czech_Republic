@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.22,15.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove|Hradec_Kralove]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.public|Hradec_Kralove.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.internal|Hradec_Kralove.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.protect|Hradec_Kralove.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.private|Hradec_Kralove.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.personal|Hradec_Kralove.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Hradec_Kralove.secret|Hradec_Kralove.secret]] 
+
+### [Hradec_Kralove.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.public.md) 
+
+### [Hradec_Kralove.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.internal.md) 
+
+### [Hradec_Kralove.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.protect.md) 
+
+### [Hradec_Kralove.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.private.md) 
+
+### [Hradec_Kralove.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.personal.md) 
+
+### [Hradec_Kralove.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.secret.md)
+

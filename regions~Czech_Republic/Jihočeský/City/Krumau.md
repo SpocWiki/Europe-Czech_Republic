@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.82,14.32] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Krumau|Krumau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krumau.public|Krumau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krumau.internal|Krumau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krumau.protect|Krumau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krumau.private|Krumau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krumau.personal|Krumau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krumau.secret|Krumau.secret]] 
+
+### [Krumau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityKrumau.public.md) 
+
+### [Krumau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityKrumau.internal.md) 
+
+### [Krumau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityKrumau.protect.md) 
+
+### [Krumau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityKrumau.private.md) 
+
+### [Krumau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityKrumau.personal.md) 
+
+### [Krumau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityKrumau.secret.md)
+

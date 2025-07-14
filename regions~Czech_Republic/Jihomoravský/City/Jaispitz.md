@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.98,15.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Jaispitz|Jaispitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Jaispitz.public|Jaispitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Jaispitz.internal|Jaispitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Jaispitz.protect|Jaispitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Jaispitz.private|Jaispitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Jaispitz.personal|Jaispitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Jaispitz.secret|Jaispitz.secret]] 
+
+### [Jaispitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityJaispitz.public.md) 
+
+### [Jaispitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityJaispitz.internal.md) 
+
+### [Jaispitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityJaispitz.protect.md) 
+
+### [Jaispitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityJaispitz.private.md) 
+
+### [Jaispitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityJaispitz.personal.md) 
+
+### [Jaispitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityJaispitz.secret.md)
+

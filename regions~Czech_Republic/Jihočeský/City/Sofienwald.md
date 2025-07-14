@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.8,14.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Sofienwald|Sofienwald]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Sofienwald.public|Sofienwald.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Sofienwald.internal|Sofienwald.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Sofienwald.protect|Sofienwald.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Sofienwald.private|Sofienwald.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Sofienwald.personal|Sofienwald.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Sofienwald.secret|Sofienwald.secret]] 
+
+### [Sofienwald.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.public.md) 
+
+### [Sofienwald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.internal.md) 
+
+### [Sofienwald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.protect.md) 
+
+### [Sofienwald.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.private.md) 
+
+### [Sofienwald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.personal.md) 
+
+### [Sofienwald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.secret.md)
+

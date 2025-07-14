@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.98,12.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn|Marienbad=Marianskelazn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.public|Marienbad=Marianskelazn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.internal|Marienbad=Marianskelazn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.protect|Marienbad=Marianskelazn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.private|Marienbad=Marianskelazn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.personal|Marienbad=Marianskelazn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Marienbad=Marianskelazn.secret|Marienbad=Marianskelazn.secret]] 
+
+### [Marienbad=Marianskelazn.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityMarienbad=Marianskelazn.public.md) 
+
+### [Marienbad=Marianskelazn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityMarienbad=Marianskelazn.internal.md) 
+
+### [Marienbad=Marianskelazn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityMarienbad=Marianskelazn.protect.md) 
+
+### [Marienbad=Marianskelazn.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityMarienbad=Marianskelazn.private.md) 
+
+### [Marienbad=Marianskelazn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityMarienbad=Marianskelazn.personal.md) 
+
+### [Marienbad=Marianskelazn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityMarienbad=Marianskelazn.secret.md)
+

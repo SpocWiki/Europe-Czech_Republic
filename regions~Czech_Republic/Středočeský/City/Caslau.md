@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.92,15.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Caslau|Caslau]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Caslau.public|Caslau.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Caslau.internal|Caslau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Caslau.protect|Caslau.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Caslau.private|Caslau.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Caslau.personal|Caslau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Caslau.secret|Caslau.secret]] 
+
+### [Caslau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityCaslau.public.md) 
+
+### [Caslau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityCaslau.internal.md) 
+
+### [Caslau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityCaslau.protect.md) 
+
+### [Caslau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityCaslau.private.md) 
+
+### [Caslau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityCaslau.personal.md) 
+
+### [Caslau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityCaslau.secret.md)
+

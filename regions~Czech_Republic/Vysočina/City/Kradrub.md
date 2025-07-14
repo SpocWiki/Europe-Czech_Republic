@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.15,16.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kradrub|Kradrub]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kradrub.public|Kradrub.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kradrub.internal|Kradrub.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kradrub.protect|Kradrub.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kradrub.private|Kradrub.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kradrub.personal|Kradrub.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kradrub.secret|Kradrub.secret]] 
+
+### [Kradrub.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.public.md) 
+
+### [Kradrub.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.internal.md) 
+
+### [Kradrub.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.protect.md) 
+
+### [Kradrub.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.private.md) 
+
+### [Kradrub.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.personal.md) 
+
+### [Kradrub.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.secret.md)
+

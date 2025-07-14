@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.88,16.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Landskron|Landskron]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Landskron.public|Landskron.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Landskron.internal|Landskron.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Landskron.protect|Landskron.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Landskron.private|Landskron.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Landskron.personal|Landskron.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Landskron.secret|Landskron.secret]] 
+
+### [Landskron.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityLandskron.public.md) 
+
+### [Landskron.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityLandskron.internal.md) 
+
+### [Landskron.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityLandskron.protect.md) 
+
+### [Landskron.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityLandskron.private.md) 
+
+### [Landskron.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityLandskron.personal.md) 
+
+### [Landskron.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityLandskron.secret.md)
+

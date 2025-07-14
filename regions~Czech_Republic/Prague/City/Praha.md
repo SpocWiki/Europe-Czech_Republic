@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.08,14.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Praha|Praha]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Praha.public|Praha.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Praha.internal|Praha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Praha.protect|Praha.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Praha.private|Praha.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Praha.personal|Praha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Praha.secret|Praha.secret]] 
+
+### [Praha.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Prague\CityPraha.public.md) 
+
+### [Praha.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Prague\CityPraha.internal.md) 
+
+### [Praha.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Prague\CityPraha.protect.md) 
+
+### [Praha.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Prague\CityPraha.private.md) 
+
+### [Praha.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Prague\CityPraha.personal.md) 
+
+### [Praha.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Prague\CityPraha.secret.md)
+

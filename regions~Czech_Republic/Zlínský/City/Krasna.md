@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.47,17.97] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Krasna|Krasna]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Krasna.public|Krasna.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Krasna.internal|Krasna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Krasna.protect|Krasna.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Krasna.private|Krasna.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Krasna.personal|Krasna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Krasna.secret|Krasna.secret]] 
+
+### [Krasna.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKrasna.public.md) 
+
+### [Krasna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKrasna.internal.md) 
+
+### [Krasna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKrasna.protect.md) 
+
+### [Krasna.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKrasna.private.md) 
+
+### [Krasna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKrasna.personal.md) 
+
+### [Krasna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityKrasna.secret.md)
+

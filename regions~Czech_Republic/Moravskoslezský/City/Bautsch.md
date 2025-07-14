@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.8,17.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Bautsch|Bautsch]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bautsch.public|Bautsch.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bautsch.internal|Bautsch.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bautsch.protect|Bautsch.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bautsch.private|Bautsch.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bautsch.personal|Bautsch.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bautsch.secret|Bautsch.secret]] 
+
+### [Bautsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityBautsch.public.md) 
+
+### [Bautsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityBautsch.internal.md) 
+
+### [Bautsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityBautsch.protect.md) 
+
+### [Bautsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityBautsch.private.md) 
+
+### [Bautsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityBautsch.personal.md) 
+
+### [Bautsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityBautsch.secret.md)
+

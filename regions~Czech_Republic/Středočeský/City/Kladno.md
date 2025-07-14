@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.13,14.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kladno|Kladno]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kladno.public|Kladno.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kladno.internal|Kladno.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kladno.protect|Kladno.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kladno.private|Kladno.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kladno.personal|Kladno.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kladno.secret|Kladno.secret]] 
+
+### [Kladno.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKladno.public.md) 
+
+### [Kladno.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKladno.internal.md) 
+
+### [Kladno.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKladno.protect.md) 
+
+### [Kladno.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKladno.private.md) 
+
+### [Kladno.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKladno.personal.md) 
+
+### [Kladno.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKladno.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.52,14.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Lobositz|Lobositz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Lobositz.public|Lobositz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Lobositz.internal|Lobositz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Lobositz.protect|Lobositz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Lobositz.private|Lobositz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Lobositz.personal|Lobositz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Lobositz.secret|Lobositz.secret]] 
+
+### [Lobositz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityLobositz.public.md) 
+
+### [Lobositz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityLobositz.internal.md) 
+
+### [Lobositz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityLobositz.protect.md) 
+
+### [Lobositz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityLobositz.private.md) 
+
+### [Lobositz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityLobositz.personal.md) 
+
+### [Lobositz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityLobositz.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.75,18.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf|Gross-Olbersdorf]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.public|Gross-Olbersdorf.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.internal|Gross-Olbersdorf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.protect|Gross-Olbersdorf.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.private|Gross-Olbersdorf.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.personal|Gross-Olbersdorf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Gross-Olbersdorf.secret|Gross-Olbersdorf.secret]] 
+
+### [Gross-Olbersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.public.md) 
+
+### [Gross-Olbersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.internal.md) 
+
+### [Gross-Olbersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.protect.md) 
+
+### [Gross-Olbersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.private.md) 
+
+### [Gross-Olbersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.personal.md) 
+
+### [Gross-Olbersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.secret.md)
+

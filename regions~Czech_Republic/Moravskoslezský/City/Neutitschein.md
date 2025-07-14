@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.6,18.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Neutitschein|Neutitschein]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Neutitschein.public|Neutitschein.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Neutitschein.internal|Neutitschein.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Neutitschein.protect|Neutitschein.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Neutitschein.private|Neutitschein.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Neutitschein.personal|Neutitschein.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Neutitschein.secret|Neutitschein.secret]] 
+
+### [Neutitschein.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityNeutitschein.public.md) 
+
+### [Neutitschein.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityNeutitschein.internal.md) 
+
+### [Neutitschein.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityNeutitschein.protect.md) 
+
+### [Neutitschein.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityNeutitschein.private.md) 
+
+### [Neutitschein.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityNeutitschein.personal.md) 
+
+### [Neutitschein.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityNeutitschein.secret.md)
+

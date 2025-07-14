@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.9,12.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Kuttenplan|Kuttenplan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.public|Kuttenplan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.internal|Kuttenplan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.protect|Kuttenplan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.private|Kuttenplan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.personal|Kuttenplan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Kuttenplan.secret|Kuttenplan.secret]] 
+
+### [Kuttenplan.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.public.md) 
+
+### [Kuttenplan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.internal.md) 
+
+### [Kuttenplan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.protect.md) 
+
+### [Kuttenplan.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.private.md) 
+
+### [Kuttenplan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.personal.md) 
+
+### [Kuttenplan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.secret.md)
+

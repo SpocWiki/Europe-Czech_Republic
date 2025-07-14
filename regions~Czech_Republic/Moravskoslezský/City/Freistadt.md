@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.85,18.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Poland/City/Freistadt|Freistadt]] 
-- [[../../../../../../_public/geo/Continent/Europe/Poland/City/Freistadt.public|Freistadt.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Poland/City/Freistadt.internal|Freistadt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Poland/City/Freistadt.protect|Freistadt.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Poland/City/Freistadt.private|Freistadt.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Poland/City/Freistadt.personal|Freistadt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Poland/City/Freistadt.secret|Freistadt.secret]] 
+
+### [Freistadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.public.md) 
+
+### [Freistadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.internal.md) 
+
+### [Freistadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.protect.md) 
+
+### [Freistadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.private.md) 
+
+### [Freistadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.personal.md) 
+
+### [Freistadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.secret.md)
+

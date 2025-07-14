@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.4,16.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Odruwek|Odruwek]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Odruwek.public|Odruwek.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Odruwek.internal|Odruwek.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Odruwek.protect|Odruwek.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Odruwek.private|Odruwek.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Odruwek.personal|Odruwek.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Odruwek.secret|Odruwek.secret]] 
+
+### [Odruwek.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityOdruwek.public.md) 
+
+### [Odruwek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityOdruwek.internal.md) 
+
+### [Odruwek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityOdruwek.protect.md) 
+
+### [Odruwek.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityOdruwek.private.md) 
+
+### [Odruwek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityOdruwek.personal.md) 
+
+### [Odruwek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityOdruwek.secret.md)
+

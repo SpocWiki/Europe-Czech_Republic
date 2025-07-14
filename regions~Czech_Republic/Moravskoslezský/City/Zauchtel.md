@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.65,17.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Zauchtel|Zauchtel]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Zauchtel.public|Zauchtel.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Zauchtel.internal|Zauchtel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Zauchtel.protect|Zauchtel.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Zauchtel.private|Zauchtel.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Zauchtel.personal|Zauchtel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Zauchtel.secret|Zauchtel.secret]] 
+
+### [Zauchtel.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityZauchtel.public.md) 
+
+### [Zauchtel.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityZauchtel.internal.md) 
+
+### [Zauchtel.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityZauchtel.protect.md) 
+
+### [Zauchtel.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityZauchtel.private.md) 
+
+### [Zauchtel.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityZauchtel.personal.md) 
+
+### [Zauchtel.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityZauchtel.secret.md)
+

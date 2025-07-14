@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.68,14.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa|Boehmisch_Leipa]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.public|Boehmisch_Leipa.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.internal|Boehmisch_Leipa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.protect|Boehmisch_Leipa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.private|Boehmisch_Leipa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.personal|Boehmisch_Leipa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Boehmisch_Leipa.secret|Boehmisch_Leipa.secret]] 
+
+### [Boehmisch_Leipa.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.public.md) 
+
+### [Boehmisch_Leipa.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.internal.md) 
+
+### [Boehmisch_Leipa.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.protect.md) 
+
+### [Boehmisch_Leipa.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.private.md) 
+
+### [Boehmisch_Leipa.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.personal.md) 
+
+### [Boehmisch_Leipa.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.secret.md)
+

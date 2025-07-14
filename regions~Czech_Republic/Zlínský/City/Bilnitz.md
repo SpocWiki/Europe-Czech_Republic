@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.08,18.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Bilnitz|Bilnitz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Bilnitz.public|Bilnitz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Bilnitz.internal|Bilnitz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Bilnitz.protect|Bilnitz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Bilnitz.private|Bilnitz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Bilnitz.personal|Bilnitz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Bilnitz.secret|Bilnitz.secret]] 
+
+### [Bilnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBilnitz.public.md) 
+
+### [Bilnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBilnitz.internal.md) 
+
+### [Bilnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBilnitz.protect.md) 
+
+### [Bilnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBilnitz.private.md) 
+
+### [Bilnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBilnitz.personal.md) 
+
+### [Bilnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBilnitz.secret.md)
+

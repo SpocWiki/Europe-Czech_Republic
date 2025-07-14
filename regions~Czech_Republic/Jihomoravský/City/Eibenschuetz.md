@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.1,16.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz|Eibenschuetz]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.public|Eibenschuetz.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.internal|Eibenschuetz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.protect|Eibenschuetz.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.private|Eibenschuetz.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.personal|Eibenschuetz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Eibenschuetz.secret|Eibenschuetz.secret]] 
+
+### [Eibenschuetz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.public.md) 
+
+### [Eibenschuetz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.internal.md) 
+
+### [Eibenschuetz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.protect.md) 
+
+### [Eibenschuetz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.private.md) 
+
+### [Eibenschuetz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.personal.md) 
+
+### [Eibenschuetz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.secret.md)
+

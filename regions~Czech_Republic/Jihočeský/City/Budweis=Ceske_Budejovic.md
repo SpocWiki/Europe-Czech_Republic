@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.97,14.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic|Budweis=Ceske_Budejovic]] 
-- [[../../../../../../_public/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.public|Budweis=Ceske_Budejovic.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.internal|Budweis=Ceske_Budejovic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.protect|Budweis=Ceske_Budejovic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.private|Budweis=Ceske_Budejovic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.personal|Budweis=Ceske_Budejovic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Czech_Republic/City/Budweis=Ceske_Budejovic.secret|Budweis=Ceske_Budejovic.secret]] 
+
+### [Budweis=Ceske_Budejovic.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityBudweis=Ceske_Budejovic.public.md) 
+
+### [Budweis=Ceske_Budejovic.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityBudweis=Ceske_Budejovic.internal.md) 
+
+### [Budweis=Ceske_Budejovic.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityBudweis=Ceske_Budejovic.protect.md) 
+
+### [Budweis=Ceske_Budejovic.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityBudweis=Ceske_Budejovic.private.md) 
+
+### [Budweis=Ceske_Budejovic.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityBudweis=Ceske_Budejovic.personal.md) 
+
+### [Budweis=Ceske_Budejovic.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityBudweis=Ceske_Budejovic.secret.md)
+
