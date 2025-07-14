@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maehrisch_Schoeneberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.public.md) 
+### [Maehrisch_Schoeneberg](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.md) 
 
-### [Maehrisch_Schoeneberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.internal.md) 
+### [Maehrisch_Schoeneberg.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.public.md) 
 
-### [Maehrisch_Schoeneberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.protect.md) 
+### [Maehrisch_Schoeneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.internal.md) 
 
-### [Maehrisch_Schoeneberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.private.md) 
+### [Maehrisch_Schoeneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.protect.md) 
 
-### [Maehrisch_Schoeneberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.personal.md) 
+### [Maehrisch_Schoeneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.private.md) 
 
-### [Maehrisch_Schoeneberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityMaehrisch_Schoeneberg.secret.md)
+### [Maehrisch_Schoeneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.personal.md) 
+
+### [Maehrisch_Schoeneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.secret.md)
 

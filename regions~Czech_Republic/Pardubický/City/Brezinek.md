@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brezinek.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.public.md) 
+### [Brezinek](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Brezinek.md) 
 
-### [Brezinek.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.internal.md) 
+### [Brezinek.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Brezinek.public.md) 
 
-### [Brezinek.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.protect.md) 
+### [Brezinek.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Brezinek.internal.md) 
 
-### [Brezinek.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.private.md) 
+### [Brezinek.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Brezinek.protect.md) 
 
-### [Brezinek.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.personal.md) 
+### [Brezinek.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Brezinek.private.md) 
 
-### [Brezinek.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityBrezinek.secret.md)
+### [Brezinek.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Brezinek.personal.md) 
+
+### [Brezinek.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Brezinek.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuttenplan.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.public.md) 
+### [Kuttenplan](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kuttenplan.md) 
 
-### [Kuttenplan.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.internal.md) 
+### [Kuttenplan.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kuttenplan.public.md) 
 
-### [Kuttenplan.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.protect.md) 
+### [Kuttenplan.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kuttenplan.internal.md) 
 
-### [Kuttenplan.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.private.md) 
+### [Kuttenplan.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kuttenplan.protect.md) 
 
-### [Kuttenplan.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.personal.md) 
+### [Kuttenplan.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kuttenplan.private.md) 
 
-### [Kuttenplan.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKuttenplan.secret.md)
+### [Kuttenplan.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kuttenplan.personal.md) 
+
+### [Kuttenplan.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kuttenplan.secret.md)
 

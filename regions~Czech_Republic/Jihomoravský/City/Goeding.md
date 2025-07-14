@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goeding.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGoeding.public.md) 
+### [Goeding](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Goeding.md) 
 
-### [Goeding.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGoeding.internal.md) 
+### [Goeding.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Goeding.public.md) 
 
-### [Goeding.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGoeding.protect.md) 
+### [Goeding.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Goeding.internal.md) 
 
-### [Goeding.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGoeding.private.md) 
+### [Goeding.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Goeding.protect.md) 
 
-### [Goeding.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGoeding.personal.md) 
+### [Goeding.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Goeding.private.md) 
 
-### [Goeding.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityGoeding.secret.md)
+### [Goeding.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Goeding.personal.md) 
+
+### [Goeding.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Goeding.secret.md)
 

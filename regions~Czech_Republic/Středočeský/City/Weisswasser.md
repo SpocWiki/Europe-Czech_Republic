@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weisswasser.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.public.md) 
+### [Weisswasser](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Weisswasser.md) 
 
-### [Weisswasser.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.internal.md) 
+### [Weisswasser.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Weisswasser.public.md) 
 
-### [Weisswasser.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.protect.md) 
+### [Weisswasser.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Weisswasser.internal.md) 
 
-### [Weisswasser.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.private.md) 
+### [Weisswasser.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Weisswasser.protect.md) 
 
-### [Weisswasser.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.personal.md) 
+### [Weisswasser.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Weisswasser.private.md) 
 
-### [Weisswasser.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityWeisswasser.secret.md)
+### [Weisswasser.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Weisswasser.personal.md) 
+
+### [Weisswasser.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Weisswasser.secret.md)
 

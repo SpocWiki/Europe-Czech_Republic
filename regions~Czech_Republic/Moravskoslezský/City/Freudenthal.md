@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freudenthal.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.public.md) 
+### [Freudenthal](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freudenthal.md) 
 
-### [Freudenthal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.internal.md) 
+### [Freudenthal.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freudenthal.public.md) 
 
-### [Freudenthal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.protect.md) 
+### [Freudenthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freudenthal.internal.md) 
 
-### [Freudenthal.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.private.md) 
+### [Freudenthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freudenthal.protect.md) 
 
-### [Freudenthal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.personal.md) 
+### [Freudenthal.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freudenthal.private.md) 
 
-### [Freudenthal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreudenthal.secret.md)
+### [Freudenthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freudenthal.personal.md) 
+
+### [Freudenthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freudenthal.secret.md)
 

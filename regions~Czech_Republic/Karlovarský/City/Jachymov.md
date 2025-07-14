@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jachymov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.public.md) 
+### [Jachymov](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Jachymov.md) 
 
-### [Jachymov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.internal.md) 
+### [Jachymov.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Jachymov.public.md) 
 
-### [Jachymov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.protect.md) 
+### [Jachymov.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Jachymov.internal.md) 
 
-### [Jachymov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.private.md) 
+### [Jachymov.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Jachymov.protect.md) 
 
-### [Jachymov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.personal.md) 
+### [Jachymov.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Jachymov.private.md) 
 
-### [Jachymov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityJachymov.secret.md)
+### [Jachymov.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Jachymov.personal.md) 
+
+### [Jachymov.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Jachymov.secret.md)
 

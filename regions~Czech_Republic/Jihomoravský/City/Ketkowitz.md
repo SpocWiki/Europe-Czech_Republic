@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ketkowitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKetkowitz.public.md) 
+### [Ketkowitz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Ketkowitz.md) 
 
-### [Ketkowitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKetkowitz.internal.md) 
+### [Ketkowitz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Ketkowitz.public.md) 
 
-### [Ketkowitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKetkowitz.protect.md) 
+### [Ketkowitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Ketkowitz.internal.md) 
 
-### [Ketkowitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKetkowitz.private.md) 
+### [Ketkowitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Ketkowitz.protect.md) 
 
-### [Ketkowitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKetkowitz.personal.md) 
+### [Ketkowitz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Ketkowitz.private.md) 
 
-### [Ketkowitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityKetkowitz.secret.md)
+### [Ketkowitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Ketkowitz.personal.md) 
+
+### [Ketkowitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Ketkowitz.secret.md)
 

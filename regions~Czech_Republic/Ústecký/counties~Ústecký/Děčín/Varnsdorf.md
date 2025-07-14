@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Varnsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~Ústecký\DěčínVarnsdorf.public.md) 
+### [Varnsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Děčín/Varnsdorf.md) 
 
-### [Varnsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~Ústecký\DěčínVarnsdorf.internal.md) 
+### [Varnsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Děčín/Varnsdorf.public.md) 
 
-### [Varnsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~Ústecký\DěčínVarnsdorf.protect.md) 
+### [Varnsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Děčín/Varnsdorf.internal.md) 
 
-### [Varnsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~Ústecký\DěčínVarnsdorf.private.md) 
+### [Varnsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Děčín/Varnsdorf.protect.md) 
 
-### [Varnsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~Ústecký\DěčínVarnsdorf.personal.md) 
+### [Varnsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Děčín/Varnsdorf.private.md) 
 
-### [Varnsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~Ústecký\DěčínVarnsdorf.secret.md)
+### [Varnsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Děčín/Varnsdorf.personal.md) 
+
+### [Varnsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Děčín/Varnsdorf.secret.md)
 

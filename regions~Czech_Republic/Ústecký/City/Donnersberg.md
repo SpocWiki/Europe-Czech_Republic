@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Donnersberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.public.md) 
+### [Donnersberg](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Donnersberg.md) 
 
-### [Donnersberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.internal.md) 
+### [Donnersberg.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Donnersberg.public.md) 
 
-### [Donnersberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.protect.md) 
+### [Donnersberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Donnersberg.internal.md) 
 
-### [Donnersberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.private.md) 
+### [Donnersberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Donnersberg.protect.md) 
 
-### [Donnersberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.personal.md) 
+### [Donnersberg.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Donnersberg.private.md) 
 
-### [Donnersberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityDonnersberg.secret.md)
+### [Donnersberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Donnersberg.personal.md) 
+
+### [Donnersberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Donnersberg.secret.md)
 

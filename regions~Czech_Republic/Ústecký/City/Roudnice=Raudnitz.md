@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Roudnice=Raudnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.public.md) 
+### [Roudnice=Raudnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Roudnice=Raudnitz.md) 
 
-### [Roudnice=Raudnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.internal.md) 
+### [Roudnice=Raudnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Roudnice=Raudnitz.public.md) 
 
-### [Roudnice=Raudnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.protect.md) 
+### [Roudnice=Raudnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Roudnice=Raudnitz.internal.md) 
 
-### [Roudnice=Raudnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.private.md) 
+### [Roudnice=Raudnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Roudnice=Raudnitz.protect.md) 
 
-### [Roudnice=Raudnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.personal.md) 
+### [Roudnice=Raudnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Roudnice=Raudnitz.private.md) 
 
-### [Roudnice=Raudnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityRoudnice=Raudnitz.secret.md)
+### [Roudnice=Raudnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Roudnice=Raudnitz.personal.md) 
+
+### [Roudnice=Raudnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Roudnice=Raudnitz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaaden.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.public.md) 
+### [Kaaden](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Kaaden.md) 
 
-### [Kaaden.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.internal.md) 
+### [Kaaden.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Kaaden.public.md) 
 
-### [Kaaden.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.protect.md) 
+### [Kaaden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Kaaden.internal.md) 
 
-### [Kaaden.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.private.md) 
+### [Kaaden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Kaaden.protect.md) 
 
-### [Kaaden.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.personal.md) 
+### [Kaaden.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Kaaden.private.md) 
 
-### [Kaaden.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityKaaden.secret.md)
+### [Kaaden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Kaaden.personal.md) 
+
+### [Kaaden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Kaaden.secret.md)
 

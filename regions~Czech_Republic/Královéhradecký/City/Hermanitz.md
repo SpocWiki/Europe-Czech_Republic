@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hermanitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.public.md) 
+### [Hermanitz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hermanitz.md) 
 
-### [Hermanitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.internal.md) 
+### [Hermanitz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hermanitz.public.md) 
 
-### [Hermanitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.protect.md) 
+### [Hermanitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hermanitz.internal.md) 
 
-### [Hermanitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.private.md) 
+### [Hermanitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hermanitz.protect.md) 
 
-### [Hermanitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.personal.md) 
+### [Hermanitz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hermanitz.private.md) 
 
-### [Hermanitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHermanitz.secret.md)
+### [Hermanitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hermanitz.personal.md) 
+
+### [Hermanitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hermanitz.secret.md)
 

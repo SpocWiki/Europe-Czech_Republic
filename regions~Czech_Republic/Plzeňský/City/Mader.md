@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mader.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.public.md) 
+### [Mader](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Mader.md) 
 
-### [Mader.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.internal.md) 
+### [Mader.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Mader.public.md) 
 
-### [Mader.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.protect.md) 
+### [Mader.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Mader.internal.md) 
 
-### [Mader.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.private.md) 
+### [Mader.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Mader.protect.md) 
 
-### [Mader.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.personal.md) 
+### [Mader.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Mader.private.md) 
 
-### [Mader.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityMader.secret.md)
+### [Mader.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Mader.personal.md) 
+
+### [Mader.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Mader.secret.md)
 

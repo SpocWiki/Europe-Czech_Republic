@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Slavko.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.public.md) 
+### [Slavko](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Slavko.md) 
 
-### [Slavko.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.internal.md) 
+### [Slavko.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Slavko.public.md) 
 
-### [Slavko.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.protect.md) 
+### [Slavko.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Slavko.internal.md) 
 
-### [Slavko.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.private.md) 
+### [Slavko.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Slavko.protect.md) 
 
-### [Slavko.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.personal.md) 
+### [Slavko.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Slavko.private.md) 
 
-### [Slavko.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CitySlavko.secret.md)
+### [Slavko.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Slavko.personal.md) 
+
+### [Slavko.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Slavko.secret.md)
 

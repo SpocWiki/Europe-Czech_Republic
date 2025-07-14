@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Svitavy.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.public.md) 
+### [Svitavy](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Svitavy.md) 
 
-### [Svitavy.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.internal.md) 
+### [Svitavy.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Svitavy.public.md) 
 
-### [Svitavy.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.protect.md) 
+### [Svitavy.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Svitavy.internal.md) 
 
-### [Svitavy.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.private.md) 
+### [Svitavy.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Svitavy.protect.md) 
 
-### [Svitavy.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.personal.md) 
+### [Svitavy.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Svitavy.private.md) 
 
-### [Svitavy.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySvitavy.secret.md)
+### [Svitavy.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Svitavy.personal.md) 
+
+### [Svitavy.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Svitavy.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eibenschuetz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.public.md) 
+### [Eibenschuetz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Eibenschuetz.md) 
 
-### [Eibenschuetz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.internal.md) 
+### [Eibenschuetz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Eibenschuetz.public.md) 
 
-### [Eibenschuetz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.protect.md) 
+### [Eibenschuetz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Eibenschuetz.internal.md) 
 
-### [Eibenschuetz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.private.md) 
+### [Eibenschuetz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Eibenschuetz.protect.md) 
 
-### [Eibenschuetz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.personal.md) 
+### [Eibenschuetz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Eibenschuetz.private.md) 
 
-### [Eibenschuetz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityEibenschuetz.secret.md)
+### [Eibenschuetz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Eibenschuetz.personal.md) 
+
+### [Eibenschuetz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Eibenschuetz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Freistadt.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.public.md) 
+### [Freistadt](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freistadt.md) 
 
-### [Freistadt.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.internal.md) 
+### [Freistadt.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freistadt.public.md) 
 
-### [Freistadt.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.protect.md) 
+### [Freistadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freistadt.internal.md) 
 
-### [Freistadt.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.private.md) 
+### [Freistadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freistadt.protect.md) 
 
-### [Freistadt.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.personal.md) 
+### [Freistadt.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freistadt.private.md) 
 
-### [Freistadt.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityFreistadt.secret.md)
+### [Freistadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freistadt.personal.md) 
+
+### [Freistadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Freistadt.secret.md)
 

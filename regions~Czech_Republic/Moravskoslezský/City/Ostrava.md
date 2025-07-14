@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ostrava.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityOstrava.public.md) 
+### [Ostrava](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Ostrava.md) 
 
-### [Ostrava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityOstrava.internal.md) 
+### [Ostrava.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Ostrava.public.md) 
 
-### [Ostrava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityOstrava.protect.md) 
+### [Ostrava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Ostrava.internal.md) 
 
-### [Ostrava.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityOstrava.private.md) 
+### [Ostrava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Ostrava.protect.md) 
 
-### [Ostrava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityOstrava.personal.md) 
+### [Ostrava.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Ostrava.private.md) 
 
-### [Ostrava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityOstrava.secret.md)
+### [Ostrava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Ostrava.personal.md) 
+
+### [Ostrava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Ostrava.secret.md)
 

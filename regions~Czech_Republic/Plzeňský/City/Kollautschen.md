@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kollautschen.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKollautschen.public.md) 
+### [Kollautschen](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kollautschen.md) 
 
-### [Kollautschen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKollautschen.internal.md) 
+### [Kollautschen.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kollautschen.public.md) 
 
-### [Kollautschen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKollautschen.protect.md) 
+### [Kollautschen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kollautschen.internal.md) 
 
-### [Kollautschen.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKollautschen.private.md) 
+### [Kollautschen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kollautschen.protect.md) 
 
-### [Kollautschen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKollautschen.personal.md) 
+### [Kollautschen.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kollautschen.private.md) 
 
-### [Kollautschen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityKollautschen.secret.md)
+### [Kollautschen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kollautschen.personal.md) 
+
+### [Kollautschen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Kollautschen.secret.md)
 

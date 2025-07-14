@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Josefsthal.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityJosefsthal.public.md) 
+### [Josefsthal](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Josefsthal.md) 
 
-### [Josefsthal.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityJosefsthal.internal.md) 
+### [Josefsthal.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Josefsthal.public.md) 
 
-### [Josefsthal.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityJosefsthal.protect.md) 
+### [Josefsthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Josefsthal.internal.md) 
 
-### [Josefsthal.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityJosefsthal.private.md) 
+### [Josefsthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Josefsthal.protect.md) 
 
-### [Josefsthal.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityJosefsthal.personal.md) 
+### [Josefsthal.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Josefsthal.private.md) 
 
-### [Josefsthal.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityJosefsthal.secret.md)
+### [Josefsthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Josefsthal.personal.md) 
+
+### [Josefsthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Josefsthal.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nikolsburg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityNikolsburg.public.md) 
+### [Nikolsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Nikolsburg.md) 
 
-### [Nikolsburg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityNikolsburg.internal.md) 
+### [Nikolsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Nikolsburg.public.md) 
 
-### [Nikolsburg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityNikolsburg.protect.md) 
+### [Nikolsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Nikolsburg.internal.md) 
 
-### [Nikolsburg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityNikolsburg.private.md) 
+### [Nikolsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Nikolsburg.protect.md) 
 
-### [Nikolsburg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityNikolsburg.personal.md) 
+### [Nikolsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Nikolsburg.private.md) 
 
-### [Nikolsburg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityNikolsburg.secret.md)
+### [Nikolsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Nikolsburg.personal.md) 
+
+### [Nikolsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Nikolsburg.secret.md)
 

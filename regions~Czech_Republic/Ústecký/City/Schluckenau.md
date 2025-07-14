@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schluckenau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.public.md) 
+### [Schluckenau](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Schluckenau.md) 
 
-### [Schluckenau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.internal.md) 
+### [Schluckenau.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Schluckenau.public.md) 
 
-### [Schluckenau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.protect.md) 
+### [Schluckenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Schluckenau.internal.md) 
 
-### [Schluckenau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.private.md) 
+### [Schluckenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Schluckenau.protect.md) 
 
-### [Schluckenau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.personal.md) 
+### [Schluckenau.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Schluckenau.private.md) 
 
-### [Schluckenau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CitySchluckenau.secret.md)
+### [Schluckenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Schluckenau.personal.md) 
+
+### [Schluckenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Schluckenau.secret.md)
 

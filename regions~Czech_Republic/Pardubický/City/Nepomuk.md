@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nepomuk.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.public.md) 
+### [Nepomuk](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Nepomuk.md) 
 
-### [Nepomuk.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.internal.md) 
+### [Nepomuk.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Nepomuk.public.md) 
 
-### [Nepomuk.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.protect.md) 
+### [Nepomuk.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Nepomuk.internal.md) 
 
-### [Nepomuk.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.private.md) 
+### [Nepomuk.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Nepomuk.protect.md) 
 
-### [Nepomuk.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.personal.md) 
+### [Nepomuk.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Nepomuk.private.md) 
 
-### [Nepomuk.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityNepomuk.secret.md)
+### [Nepomuk.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Nepomuk.personal.md) 
+
+### [Nepomuk.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Nepomuk.secret.md)
 

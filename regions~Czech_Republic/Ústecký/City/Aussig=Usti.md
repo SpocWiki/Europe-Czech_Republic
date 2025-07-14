@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aussig=Usti.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.public.md) 
+### [Aussig=Usti](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Aussig=Usti.md) 
 
-### [Aussig=Usti.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.internal.md) 
+### [Aussig=Usti.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Aussig=Usti.public.md) 
 
-### [Aussig=Usti.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.protect.md) 
+### [Aussig=Usti.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Aussig=Usti.internal.md) 
 
-### [Aussig=Usti.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.private.md) 
+### [Aussig=Usti.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Aussig=Usti.protect.md) 
 
-### [Aussig=Usti.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.personal.md) 
+### [Aussig=Usti.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Aussig=Usti.private.md) 
 
-### [Aussig=Usti.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityAussig=Usti.secret.md)
+### [Aussig=Usti.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Aussig=Usti.personal.md) 
+
+### [Aussig=Usti.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Aussig=Usti.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karlsbad.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.public.md) 
+### [Karlsbad](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Karlsbad.md) 
 
-### [Karlsbad.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.internal.md) 
+### [Karlsbad.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Karlsbad.public.md) 
 
-### [Karlsbad.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.protect.md) 
+### [Karlsbad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Karlsbad.internal.md) 
 
-### [Karlsbad.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.private.md) 
+### [Karlsbad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Karlsbad.protect.md) 
 
-### [Karlsbad.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.personal.md) 
+### [Karlsbad.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Karlsbad.private.md) 
 
-### [Karlsbad.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKarlsbad.secret.md)
+### [Karlsbad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Karlsbad.personal.md) 
+
+### [Karlsbad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Karlsbad.secret.md)
 

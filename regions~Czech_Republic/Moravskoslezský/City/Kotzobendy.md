@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kotzobendy.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.public.md) 
+### [Kotzobendy](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Kotzobendy.md) 
 
-### [Kotzobendy.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.internal.md) 
+### [Kotzobendy.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Kotzobendy.public.md) 
 
-### [Kotzobendy.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.protect.md) 
+### [Kotzobendy.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Kotzobendy.internal.md) 
 
-### [Kotzobendy.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.private.md) 
+### [Kotzobendy.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Kotzobendy.protect.md) 
 
-### [Kotzobendy.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.personal.md) 
+### [Kotzobendy.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Kotzobendy.private.md) 
 
-### [Kotzobendy.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityKotzobendy.secret.md)
+### [Kotzobendy.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Kotzobendy.personal.md) 
+
+### [Kotzobendy.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Kotzobendy.secret.md)
 

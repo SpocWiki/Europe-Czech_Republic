@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Senftenberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.public.md) 
+### [Senftenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Senftenberg.md) 
 
-### [Senftenberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.internal.md) 
+### [Senftenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Senftenberg.public.md) 
 
-### [Senftenberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.protect.md) 
+### [Senftenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Senftenberg.internal.md) 
 
-### [Senftenberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.private.md) 
+### [Senftenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Senftenberg.protect.md) 
 
-### [Senftenberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.personal.md) 
+### [Senftenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Senftenberg.private.md) 
 
-### [Senftenberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CitySenftenberg.secret.md)
+### [Senftenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Senftenberg.personal.md) 
+
+### [Senftenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Senftenberg.secret.md)
 

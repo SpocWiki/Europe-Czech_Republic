@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teltsch.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.public.md) 
+### [Teltsch](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Teltsch.md) 
 
-### [Teltsch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.internal.md) 
+### [Teltsch.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Teltsch.public.md) 
 
-### [Teltsch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.protect.md) 
+### [Teltsch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Teltsch.internal.md) 
 
-### [Teltsch.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.private.md) 
+### [Teltsch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Teltsch.protect.md) 
 
-### [Teltsch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.personal.md) 
+### [Teltsch.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Teltsch.private.md) 
 
-### [Teltsch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityTeltsch.secret.md)
+### [Teltsch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Teltsch.personal.md) 
+
+### [Teltsch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Teltsch.secret.md)
 

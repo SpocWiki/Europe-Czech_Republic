@@ -41,15 +41,17 @@ Capital :: [[Praha]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_RepublicReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.secret.md)
 

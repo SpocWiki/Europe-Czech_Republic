@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Melnik.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.public.md) 
+### [Melnik](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Melnik.md) 
 
-### [Melnik.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.internal.md) 
+### [Melnik.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Melnik.public.md) 
 
-### [Melnik.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.protect.md) 
+### [Melnik.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Melnik.internal.md) 
 
-### [Melnik.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.private.md) 
+### [Melnik.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Melnik.protect.md) 
 
-### [Melnik.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.personal.md) 
+### [Melnik.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Melnik.private.md) 
 
-### [Melnik.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMelnik.secret.md)
+### [Melnik.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Melnik.personal.md) 
+
+### [Melnik.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Melnik.secret.md)
 

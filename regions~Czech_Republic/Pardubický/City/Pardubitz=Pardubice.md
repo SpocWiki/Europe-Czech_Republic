@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pardubitz=Pardubice.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.public.md) 
+### [Pardubitz=Pardubice](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Pardubitz=Pardubice.md) 
 
-### [Pardubitz=Pardubice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.internal.md) 
+### [Pardubitz=Pardubice.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Pardubitz=Pardubice.public.md) 
 
-### [Pardubitz=Pardubice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.protect.md) 
+### [Pardubitz=Pardubice.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Pardubitz=Pardubice.internal.md) 
 
-### [Pardubitz=Pardubice.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.private.md) 
+### [Pardubitz=Pardubice.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Pardubitz=Pardubice.protect.md) 
 
-### [Pardubitz=Pardubice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.personal.md) 
+### [Pardubitz=Pardubice.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Pardubitz=Pardubice.private.md) 
 
-### [Pardubitz=Pardubice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Pardubický\CityPardubitz=Pardubice.secret.md)
+### [Pardubitz=Pardubice.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Pardubitz=Pardubice.personal.md) 
+
+### [Pardubitz=Pardubice.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický/City/Pardubitz=Pardubice.secret.md)
 

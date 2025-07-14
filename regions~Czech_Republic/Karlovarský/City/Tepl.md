@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tepl.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.public.md) 
+### [Tepl](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Tepl.md) 
 
-### [Tepl.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.internal.md) 
+### [Tepl.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Tepl.public.md) 
 
-### [Tepl.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.protect.md) 
+### [Tepl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Tepl.internal.md) 
 
-### [Tepl.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.private.md) 
+### [Tepl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Tepl.protect.md) 
 
-### [Tepl.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.personal.md) 
+### [Tepl.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Tepl.private.md) 
 
-### [Tepl.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityTepl.secret.md)
+### [Tepl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Tepl.personal.md) 
+
+### [Tepl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Tepl.secret.md)
 

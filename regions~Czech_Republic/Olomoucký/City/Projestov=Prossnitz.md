@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Projestov=Prossnitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.public.md) 
+### [Projestov=Prossnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Projestov=Prossnitz.md) 
 
-### [Projestov=Prossnitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.internal.md) 
+### [Projestov=Prossnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Projestov=Prossnitz.public.md) 
 
-### [Projestov=Prossnitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.protect.md) 
+### [Projestov=Prossnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Projestov=Prossnitz.internal.md) 
 
-### [Projestov=Prossnitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.private.md) 
+### [Projestov=Prossnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Projestov=Prossnitz.protect.md) 
 
-### [Projestov=Prossnitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.personal.md) 
+### [Projestov=Prossnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Projestov=Prossnitz.private.md) 
 
-### [Projestov=Prossnitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityProjestov=Prossnitz.secret.md)
+### [Projestov=Prossnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Projestov=Prossnitz.personal.md) 
+
+### [Projestov=Prossnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Projestov=Prossnitz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Reichenberg=Liderec.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.public.md) 
+### [Reichenberg=Liderec](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Reichenberg=Liderec.md) 
 
-### [Reichenberg=Liderec.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.internal.md) 
+### [Reichenberg=Liderec.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Reichenberg=Liderec.public.md) 
 
-### [Reichenberg=Liderec.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.protect.md) 
+### [Reichenberg=Liderec.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Reichenberg=Liderec.internal.md) 
 
-### [Reichenberg=Liderec.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.private.md) 
+### [Reichenberg=Liderec.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Reichenberg=Liderec.protect.md) 
 
-### [Reichenberg=Liderec.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.personal.md) 
+### [Reichenberg=Liderec.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Reichenberg=Liderec.private.md) 
 
-### [Reichenberg=Liderec.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityReichenberg=Liderec.secret.md)
+### [Reichenberg=Liderec.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Reichenberg=Liderec.personal.md) 
+
+### [Reichenberg=Liderec.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Reichenberg=Liderec.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Branna.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.public.md) 
+### [Branna](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Branna.md) 
 
-### [Branna.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.internal.md) 
+### [Branna.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Branna.public.md) 
 
-### [Branna.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.protect.md) 
+### [Branna.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Branna.internal.md) 
 
-### [Branna.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.private.md) 
+### [Branna.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Branna.protect.md) 
 
-### [Branna.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.personal.md) 
+### [Branna.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Branna.private.md) 
 
-### [Branna.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBranna.secret.md)
+### [Branna.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Branna.personal.md) 
+
+### [Branna.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Branna.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haugsdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.public.md) 
+### [Haugsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Haugsdorf.md) 
 
-### [Haugsdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.internal.md) 
+### [Haugsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Haugsdorf.public.md) 
 
-### [Haugsdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.protect.md) 
+### [Haugsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Haugsdorf.internal.md) 
 
-### [Haugsdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.private.md) 
+### [Haugsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Haugsdorf.protect.md) 
 
-### [Haugsdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.personal.md) 
+### [Haugsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Haugsdorf.private.md) 
 
-### [Haugsdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityHaugsdorf.secret.md)
+### [Haugsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Haugsdorf.personal.md) 
+
+### [Haugsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Haugsdorf.secret.md)
 

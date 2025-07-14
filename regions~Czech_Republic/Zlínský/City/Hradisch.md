@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hradisch.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityHradisch.public.md) 
+### [Hradisch](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Hradisch.md) 
 
-### [Hradisch.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityHradisch.internal.md) 
+### [Hradisch.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Hradisch.public.md) 
 
-### [Hradisch.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityHradisch.protect.md) 
+### [Hradisch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Hradisch.internal.md) 
 
-### [Hradisch.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityHradisch.private.md) 
+### [Hradisch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Hradisch.protect.md) 
 
-### [Hradisch.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityHradisch.personal.md) 
+### [Hradisch.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Hradisch.private.md) 
 
-### [Hradisch.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityHradisch.secret.md)
+### [Hradisch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Hradisch.personal.md) 
+
+### [Hradisch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Hradisch.secret.md)
 

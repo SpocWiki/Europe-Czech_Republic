@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bistritz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBistritz.public.md) 
+### [Bistritz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Bistritz.md) 
 
-### [Bistritz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBistritz.internal.md) 
+### [Bistritz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Bistritz.public.md) 
 
-### [Bistritz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBistritz.protect.md) 
+### [Bistritz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Bistritz.internal.md) 
 
-### [Bistritz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBistritz.private.md) 
+### [Bistritz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Bistritz.protect.md) 
 
-### [Bistritz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBistritz.personal.md) 
+### [Bistritz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Bistritz.private.md) 
 
-### [Bistritz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityBistritz.secret.md)
+### [Bistritz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Bistritz.personal.md) 
+
+### [Bistritz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Bistritz.secret.md)
 

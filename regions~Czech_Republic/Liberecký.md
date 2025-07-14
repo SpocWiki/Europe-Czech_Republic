@@ -41,15 +41,17 @@ markerFolder: ./Liberecký/
 
 ## Confidential Links & Embeds: 
 
-### [Liberecký.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicLiberecký.public.md) 
+### [Liberecký](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký.md) 
 
-### [Liberecký.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicLiberecký.internal.md) 
+### [Liberecký.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký.public.md) 
 
-### [Liberecký.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicLiberecký.protect.md) 
+### [Liberecký.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký.internal.md) 
 
-### [Liberecký.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicLiberecký.private.md) 
+### [Liberecký.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký.protect.md) 
 
-### [Liberecký.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicLiberecký.personal.md) 
+### [Liberecký.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký.private.md) 
 
-### [Liberecký.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicLiberecký.secret.md)
+### [Liberecký.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký.personal.md) 
+
+### [Liberecký.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký.secret.md)
 

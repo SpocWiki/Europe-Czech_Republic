@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Giesshuebl-Sauerbrunn.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityGiesshuebl-Sauerbrunn.public.md) 
+### [Giesshuebl-Sauerbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.md) 
 
-### [Giesshuebl-Sauerbrunn.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityGiesshuebl-Sauerbrunn.internal.md) 
+### [Giesshuebl-Sauerbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.public.md) 
 
-### [Giesshuebl-Sauerbrunn.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityGiesshuebl-Sauerbrunn.protect.md) 
+### [Giesshuebl-Sauerbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.internal.md) 
 
-### [Giesshuebl-Sauerbrunn.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityGiesshuebl-Sauerbrunn.private.md) 
+### [Giesshuebl-Sauerbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.protect.md) 
 
-### [Giesshuebl-Sauerbrunn.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityGiesshuebl-Sauerbrunn.personal.md) 
+### [Giesshuebl-Sauerbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.private.md) 
 
-### [Giesshuebl-Sauerbrunn.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityGiesshuebl-Sauerbrunn.secret.md)
+### [Giesshuebl-Sauerbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.personal.md) 
+
+### [Giesshuebl-Sauerbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.secret.md)
 

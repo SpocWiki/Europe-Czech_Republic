@@ -34,15 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Guentherberg.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.public.md) 
+### [Guentherberg](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Guentherberg.md) 
 
-### [Guentherberg.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.internal.md) 
+### [Guentherberg.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Guentherberg.public.md) 
 
-### [Guentherberg.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.protect.md) 
+### [Guentherberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Guentherberg.internal.md) 
 
-### [Guentherberg.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.private.md) 
+### [Guentherberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Guentherberg.protect.md) 
 
-### [Guentherberg.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.personal.md) 
+### [Guentherberg.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Guentherberg.private.md) 
 
-### [Guentherberg.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityGuentherberg.secret.md)
+### [Guentherberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Guentherberg.personal.md) 
+
+### [Guentherberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Guentherberg.secret.md)
 

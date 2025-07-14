@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hinterhaeuser.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.public.md) 
+### [Hinterhaeuser](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Hinterhaeuser.md) 
 
-### [Hinterhaeuser.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.internal.md) 
+### [Hinterhaeuser.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Hinterhaeuser.public.md) 
 
-### [Hinterhaeuser.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.protect.md) 
+### [Hinterhaeuser.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Hinterhaeuser.internal.md) 
 
-### [Hinterhaeuser.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.private.md) 
+### [Hinterhaeuser.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Hinterhaeuser.protect.md) 
 
-### [Hinterhaeuser.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.personal.md) 
+### [Hinterhaeuser.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Hinterhaeuser.private.md) 
 
-### [Hinterhaeuser.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityHinterhaeuser.secret.md)
+### [Hinterhaeuser.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Hinterhaeuser.personal.md) 
+
+### [Hinterhaeuser.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Hinterhaeuser.secret.md)
 

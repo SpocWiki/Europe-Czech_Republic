@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Luhatschowitz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.public.md) 
+### [Luhatschowitz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Luhatschowitz.md) 
 
-### [Luhatschowitz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.internal.md) 
+### [Luhatschowitz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Luhatschowitz.public.md) 
 
-### [Luhatschowitz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.protect.md) 
+### [Luhatschowitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Luhatschowitz.internal.md) 
 
-### [Luhatschowitz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.private.md) 
+### [Luhatschowitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Luhatschowitz.protect.md) 
 
-### [Luhatschowitz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.personal.md) 
+### [Luhatschowitz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Luhatschowitz.private.md) 
 
-### [Luhatschowitz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityLuhatschowitz.secret.md)
+### [Luhatschowitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Luhatschowitz.personal.md) 
+
+### [Luhatschowitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Luhatschowitz.secret.md)
 

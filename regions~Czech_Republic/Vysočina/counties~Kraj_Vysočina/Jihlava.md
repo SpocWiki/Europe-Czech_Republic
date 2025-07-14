@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jihlava.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaJihlava.public.md) 
+### [Jihlava](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.md) 
 
-### [Jihlava.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaJihlava.internal.md) 
+### [Jihlava.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.public.md) 
 
-### [Jihlava.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaJihlava.protect.md) 
+### [Jihlava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.internal.md) 
 
-### [Jihlava.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaJihlava.private.md) 
+### [Jihlava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.protect.md) 
 
-### [Jihlava.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaJihlava.personal.md) 
+### [Jihlava.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.private.md) 
 
-### [Jihlava.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaJihlava.secret.md)
+### [Jihlava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.personal.md) 
+
+### [Jihlava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.secret.md)
 

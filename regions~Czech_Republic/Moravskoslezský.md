@@ -41,15 +41,17 @@ markerFolder: ./Moravskoslezský/
 
 ## Confidential Links & Embeds: 
 
-### [Moravskoslezský.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.public.md) 
+### [Moravskoslezský](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský.md) 
 
-### [Moravskoslezský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.internal.md) 
+### [Moravskoslezský.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský.public.md) 
 
-### [Moravskoslezský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.protect.md) 
+### [Moravskoslezský.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský.internal.md) 
 
-### [Moravskoslezský.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.private.md) 
+### [Moravskoslezský.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský.protect.md) 
 
-### [Moravskoslezský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.personal.md) 
+### [Moravskoslezský.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský.private.md) 
 
-### [Moravskoslezský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicMoravskoslezský.secret.md)
+### [Moravskoslezský.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský.personal.md) 
+
+### [Moravskoslezský.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský.secret.md)
 

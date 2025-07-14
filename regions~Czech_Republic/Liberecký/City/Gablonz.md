@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gablonz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityGablonz.public.md) 
+### [Gablonz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Gablonz.md) 
 
-### [Gablonz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityGablonz.internal.md) 
+### [Gablonz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Gablonz.public.md) 
 
-### [Gablonz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityGablonz.protect.md) 
+### [Gablonz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Gablonz.internal.md) 
 
-### [Gablonz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityGablonz.private.md) 
+### [Gablonz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Gablonz.protect.md) 
 
-### [Gablonz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityGablonz.personal.md) 
+### [Gablonz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Gablonz.private.md) 
 
-### [Gablonz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityGablonz.secret.md)
+### [Gablonz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Gablonz.personal.md) 
+
+### [Gablonz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Gablonz.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pribor.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityPribor.public.md) 
+### [Pribor](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Pribor.md) 
 
-### [Pribor.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityPribor.internal.md) 
+### [Pribor.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Pribor.public.md) 
 
-### [Pribor.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityPribor.protect.md) 
+### [Pribor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Pribor.internal.md) 
 
-### [Pribor.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityPribor.private.md) 
+### [Pribor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Pribor.protect.md) 
 
-### [Pribor.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityPribor.personal.md) 
+### [Pribor.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Pribor.private.md) 
 
-### [Pribor.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityPribor.secret.md)
+### [Pribor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Pribor.personal.md) 
+
+### [Pribor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Pribor.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gottwaldov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.public.md) 
+### [Gottwaldov](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Gottwaldov.md) 
 
-### [Gottwaldov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.internal.md) 
+### [Gottwaldov.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Gottwaldov.public.md) 
 
-### [Gottwaldov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.protect.md) 
+### [Gottwaldov.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Gottwaldov.internal.md) 
 
-### [Gottwaldov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.private.md) 
+### [Gottwaldov.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Gottwaldov.protect.md) 
 
-### [Gottwaldov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.personal.md) 
+### [Gottwaldov.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Gottwaldov.private.md) 
 
-### [Gottwaldov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Zlínský\CityGottwaldov.secret.md)
+### [Gottwaldov.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Gottwaldov.personal.md) 
+
+### [Gottwaldov.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Zlínský/City/Gottwaldov.secret.md)
 

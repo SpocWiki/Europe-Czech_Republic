@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tabor.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityTabor.public.md) 
+### [Tabor](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Tabor.md) 
 
-### [Tabor.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityTabor.internal.md) 
+### [Tabor.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Tabor.public.md) 
 
-### [Tabor.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityTabor.protect.md) 
+### [Tabor.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Tabor.internal.md) 
 
-### [Tabor.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityTabor.private.md) 
+### [Tabor.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Tabor.protect.md) 
 
-### [Tabor.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityTabor.personal.md) 
+### [Tabor.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Tabor.private.md) 
 
-### [Tabor.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityTabor.secret.md)
+### [Tabor.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Tabor.personal.md) 
+
+### [Tabor.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Tabor.secret.md)
 

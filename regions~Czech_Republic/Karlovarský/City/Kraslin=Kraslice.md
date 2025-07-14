@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kraslin=Kraslice.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.public.md) 
+### [Kraslin=Kraslice](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Kraslin=Kraslice.md) 
 
-### [Kraslin=Kraslice.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.internal.md) 
+### [Kraslin=Kraslice.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Kraslin=Kraslice.public.md) 
 
-### [Kraslin=Kraslice.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.protect.md) 
+### [Kraslin=Kraslice.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Kraslin=Kraslice.internal.md) 
 
-### [Kraslin=Kraslice.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.private.md) 
+### [Kraslin=Kraslice.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Kraslin=Kraslice.protect.md) 
 
-### [Kraslin=Kraslice.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.personal.md) 
+### [Kraslin=Kraslice.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Kraslin=Kraslice.private.md) 
 
-### [Kraslin=Kraslice.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityKraslin=Kraslice.secret.md)
+### [Kraslin=Kraslice.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Kraslin=Kraslice.personal.md) 
+
+### [Kraslin=Kraslice.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Kraslin=Kraslice.secret.md)
 

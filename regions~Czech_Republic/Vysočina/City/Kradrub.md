@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kradrub.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.public.md) 
+### [Kradrub](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Kradrub.md) 
 
-### [Kradrub.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.internal.md) 
+### [Kradrub.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Kradrub.public.md) 
 
-### [Kradrub.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.protect.md) 
+### [Kradrub.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Kradrub.internal.md) 
 
-### [Kradrub.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.private.md) 
+### [Kradrub.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Kradrub.protect.md) 
 
-### [Kradrub.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.personal.md) 
+### [Kradrub.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Kradrub.private.md) 
 
-### [Kradrub.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityKradrub.secret.md)
+### [Kradrub.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Kradrub.personal.md) 
+
+### [Kradrub.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Kradrub.secret.md)
 

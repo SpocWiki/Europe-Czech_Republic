@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Olmuetz=Cloumuc.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.public.md) 
+### [Olmuetz=Cloumuc](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Olmuetz=Cloumuc.md) 
 
-### [Olmuetz=Cloumuc.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.internal.md) 
+### [Olmuetz=Cloumuc.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Olmuetz=Cloumuc.public.md) 
 
-### [Olmuetz=Cloumuc.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.protect.md) 
+### [Olmuetz=Cloumuc.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Olmuetz=Cloumuc.internal.md) 
 
-### [Olmuetz=Cloumuc.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.private.md) 
+### [Olmuetz=Cloumuc.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Olmuetz=Cloumuc.protect.md) 
 
-### [Olmuetz=Cloumuc.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.personal.md) 
+### [Olmuetz=Cloumuc.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Olmuetz=Cloumuc.private.md) 
 
-### [Olmuetz=Cloumuc.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityOlmuetz=Cloumuc.secret.md)
+### [Olmuetz=Cloumuc.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Olmuetz=Cloumuc.personal.md) 
+
+### [Olmuetz=Cloumuc.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Olmuetz=Cloumuc.secret.md)
 

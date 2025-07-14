@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weseli.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.public.md) 
+### [Weseli](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Weseli.md) 
 
-### [Weseli.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.internal.md) 
+### [Weseli.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Weseli.public.md) 
 
-### [Weseli.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.protect.md) 
+### [Weseli.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Weseli.internal.md) 
 
-### [Weseli.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.private.md) 
+### [Weseli.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Weseli.protect.md) 
 
-### [Weseli.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.personal.md) 
+### [Weseli.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Weseli.private.md) 
 
-### [Weseli.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityWeseli.secret.md)
+### [Weseli.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Weseli.personal.md) 
+
+### [Weseli.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Weseli.secret.md)
 

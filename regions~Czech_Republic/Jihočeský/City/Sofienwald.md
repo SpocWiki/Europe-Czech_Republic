@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sofienwald.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.public.md) 
+### [Sofienwald](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Sofienwald.md) 
 
-### [Sofienwald.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.internal.md) 
+### [Sofienwald.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Sofienwald.public.md) 
 
-### [Sofienwald.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.protect.md) 
+### [Sofienwald.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Sofienwald.internal.md) 
 
-### [Sofienwald.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.private.md) 
+### [Sofienwald.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Sofienwald.protect.md) 
 
-### [Sofienwald.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.personal.md) 
+### [Sofienwald.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Sofienwald.private.md) 
 
-### [Sofienwald.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CitySofienwald.secret.md)
+### [Sofienwald.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Sofienwald.personal.md) 
+
+### [Sofienwald.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Sofienwald.secret.md)
 

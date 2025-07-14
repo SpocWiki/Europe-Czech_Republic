@@ -41,15 +41,17 @@ markerFolder: ./Jihomoravský/
 
 ## Confidential Links & Embeds: 
 
-### [Jihomoravský.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihomoravský.public.md) 
+### [Jihomoravský](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský.md) 
 
-### [Jihomoravský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihomoravský.internal.md) 
+### [Jihomoravský.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský.public.md) 
 
-### [Jihomoravský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihomoravský.protect.md) 
+### [Jihomoravský.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský.internal.md) 
 
-### [Jihomoravský.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihomoravský.private.md) 
+### [Jihomoravský.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský.protect.md) 
 
-### [Jihomoravský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihomoravský.personal.md) 
+### [Jihomoravský.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský.private.md) 
 
-### [Jihomoravský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihomoravský.secret.md)
+### [Jihomoravský.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský.personal.md) 
+
+### [Jihomoravský.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský.secret.md)
 

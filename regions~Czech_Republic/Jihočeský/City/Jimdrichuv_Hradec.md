@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jimdrichuv_Hradec.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityJimdrichuv_Hradec.public.md) 
+### [Jimdrichuv_Hradec](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.md) 
 
-### [Jimdrichuv_Hradec.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityJimdrichuv_Hradec.internal.md) 
+### [Jimdrichuv_Hradec.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.public.md) 
 
-### [Jimdrichuv_Hradec.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityJimdrichuv_Hradec.protect.md) 
+### [Jimdrichuv_Hradec.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.internal.md) 
 
-### [Jimdrichuv_Hradec.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityJimdrichuv_Hradec.private.md) 
+### [Jimdrichuv_Hradec.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.protect.md) 
 
-### [Jimdrichuv_Hradec.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityJimdrichuv_Hradec.personal.md) 
+### [Jimdrichuv_Hradec.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.private.md) 
 
-### [Jimdrichuv_Hradec.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihočeský\CityJimdrichuv_Hradec.secret.md)
+### [Jimdrichuv_Hradec.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.personal.md) 
+
+### [Jimdrichuv_Hradec.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.secret.md)
 

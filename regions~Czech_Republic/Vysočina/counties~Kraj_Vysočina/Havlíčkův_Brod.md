@@ -37,15 +37,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Havlíčkův_Brod.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.public.md) 
+### [Havlíčkův_Brod](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Havlíčkův_Brod.md) 
 
-### [Havlíčkův_Brod.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.internal.md) 
+### [Havlíčkův_Brod.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Havlíčkův_Brod.public.md) 
 
-### [Havlíčkův_Brod.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.protect.md) 
+### [Havlíčkův_Brod.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Havlíčkův_Brod.internal.md) 
 
-### [Havlíčkův_Brod.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.private.md) 
+### [Havlíčkův_Brod.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Havlíčkův_Brod.protect.md) 
 
-### [Havlíčkův_Brod.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.personal.md) 
+### [Havlíčkův_Brod.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Havlíčkův_Brod.private.md) 
 
-### [Havlíčkův_Brod.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\counties~Kraj_VysočinaHavlíčkův_Brod.secret.md)
+### [Havlíčkův_Brod.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Havlíčkův_Brod.personal.md) 
+
+### [Havlíčkův_Brod.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Havlíčkův_Brod.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Friedland.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.public.md) 
+### [Friedland](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Friedland.md) 
 
-### [Friedland.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.internal.md) 
+### [Friedland.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Friedland.public.md) 
 
-### [Friedland.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.protect.md) 
+### [Friedland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Friedland.internal.md) 
 
-### [Friedland.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.private.md) 
+### [Friedland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Friedland.protect.md) 
 
-### [Friedland.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.personal.md) 
+### [Friedland.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Friedland.private.md) 
 
-### [Friedland.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityFriedland.secret.md)
+### [Friedland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Friedland.personal.md) 
+
+### [Friedland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Friedland.secret.md)
 

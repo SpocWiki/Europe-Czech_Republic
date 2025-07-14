@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Trautenau=Trutnov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.public.md) 
+### [Trautenau=Trutnov](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Trautenau=Trutnov.md) 
 
-### [Trautenau=Trutnov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.internal.md) 
+### [Trautenau=Trutnov.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Trautenau=Trutnov.public.md) 
 
-### [Trautenau=Trutnov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.protect.md) 
+### [Trautenau=Trutnov.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Trautenau=Trutnov.internal.md) 
 
-### [Trautenau=Trutnov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.private.md) 
+### [Trautenau=Trutnov.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Trautenau=Trutnov.protect.md) 
 
-### [Trautenau=Trutnov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.personal.md) 
+### [Trautenau=Trutnov.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Trautenau=Trutnov.private.md) 
 
-### [Trautenau=Trutnov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityTrautenau=Trutnov.secret.md)
+### [Trautenau=Trutnov.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Trautenau=Trutnov.personal.md) 
+
+### [Trautenau=Trutnov.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Trautenau=Trutnov.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beroun.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.public.md) 
+### [Beroun](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Beroun.md) 
 
-### [Beroun.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.internal.md) 
+### [Beroun.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Beroun.public.md) 
 
-### [Beroun.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.protect.md) 
+### [Beroun.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Beroun.internal.md) 
 
-### [Beroun.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.private.md) 
+### [Beroun.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Beroun.protect.md) 
 
-### [Beroun.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.personal.md) 
+### [Beroun.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Beroun.private.md) 
 
-### [Beroun.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBeroun.secret.md)
+### [Beroun.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Beroun.personal.md) 
+
+### [Beroun.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Beroun.secret.md)
 

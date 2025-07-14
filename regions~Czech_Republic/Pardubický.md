@@ -41,15 +41,17 @@ markerFolder: ./Pardubický/
 
 ## Confidential Links & Embeds: 
 
-### [Pardubický.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPardubický.public.md) 
+### [Pardubický](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický.md) 
 
-### [Pardubický.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPardubický.internal.md) 
+### [Pardubický.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický.public.md) 
 
-### [Pardubický.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPardubický.protect.md) 
+### [Pardubický.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický.internal.md) 
 
-### [Pardubický.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPardubický.private.md) 
+### [Pardubický.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický.protect.md) 
 
-### [Pardubický.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPardubický.personal.md) 
+### [Pardubický.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický.private.md) 
 
-### [Pardubický.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicPardubický.secret.md)
+### [Pardubický.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický.personal.md) 
+
+### [Pardubický.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Pardubický.secret.md)
 

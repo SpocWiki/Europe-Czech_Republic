@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuttenberg=Kutna_Hora.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKuttenberg=Kutna_Hora.public.md) 
+### [Kuttenberg=Kutna_Hora](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.md) 
 
-### [Kuttenberg=Kutna_Hora.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKuttenberg=Kutna_Hora.internal.md) 
+### [Kuttenberg=Kutna_Hora.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.public.md) 
 
-### [Kuttenberg=Kutna_Hora.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKuttenberg=Kutna_Hora.protect.md) 
+### [Kuttenberg=Kutna_Hora.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.internal.md) 
 
-### [Kuttenberg=Kutna_Hora.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKuttenberg=Kutna_Hora.private.md) 
+### [Kuttenberg=Kutna_Hora.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.protect.md) 
 
-### [Kuttenberg=Kutna_Hora.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKuttenberg=Kutna_Hora.personal.md) 
+### [Kuttenberg=Kutna_Hora.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.private.md) 
 
-### [Kuttenberg=Kutna_Hora.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityKuttenberg=Kutna_Hora.secret.md)
+### [Kuttenberg=Kutna_Hora.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.personal.md) 
+
+### [Kuttenberg=Kutna_Hora.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.secret.md)
 

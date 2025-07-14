@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cheb=Eger.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.public.md) 
+### [Cheb=Eger](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Cheb=Eger.md) 
 
-### [Cheb=Eger.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.internal.md) 
+### [Cheb=Eger.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Cheb=Eger.public.md) 
 
-### [Cheb=Eger.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.protect.md) 
+### [Cheb=Eger.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Cheb=Eger.internal.md) 
 
-### [Cheb=Eger.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.private.md) 
+### [Cheb=Eger.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Cheb=Eger.protect.md) 
 
-### [Cheb=Eger.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.personal.md) 
+### [Cheb=Eger.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Cheb=Eger.private.md) 
 
-### [Cheb=Eger.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Karlovarský\CityCheb=Eger.secret.md)
+### [Cheb=Eger.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Cheb=Eger.personal.md) 
+
+### [Cheb=Eger.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Cheb=Eger.secret.md)
 

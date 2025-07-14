@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pilsen=Plzen.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.public.md) 
+### [Pilsen=Plzen](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Pilsen=Plzen.md) 
 
-### [Pilsen=Plzen.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.internal.md) 
+### [Pilsen=Plzen.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Pilsen=Plzen.public.md) 
 
-### [Pilsen=Plzen.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.protect.md) 
+### [Pilsen=Plzen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Pilsen=Plzen.internal.md) 
 
-### [Pilsen=Plzen.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.private.md) 
+### [Pilsen=Plzen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Pilsen=Plzen.protect.md) 
 
-### [Pilsen=Plzen.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.personal.md) 
+### [Pilsen=Plzen.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Pilsen=Plzen.private.md) 
 
-### [Pilsen=Plzen.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityPilsen=Plzen.secret.md)
+### [Pilsen=Plzen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Pilsen=Plzen.personal.md) 
+
+### [Pilsen=Plzen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Pilsen=Plzen.secret.md)
 

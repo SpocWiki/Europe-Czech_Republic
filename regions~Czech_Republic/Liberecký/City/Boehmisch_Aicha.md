@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boehmisch_Aicha.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.public.md) 
+### [Boehmisch_Aicha](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Aicha.md) 
 
-### [Boehmisch_Aicha.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.internal.md) 
+### [Boehmisch_Aicha.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Aicha.public.md) 
 
-### [Boehmisch_Aicha.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.protect.md) 
+### [Boehmisch_Aicha.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Aicha.internal.md) 
 
-### [Boehmisch_Aicha.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.private.md) 
+### [Boehmisch_Aicha.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Aicha.protect.md) 
 
-### [Boehmisch_Aicha.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.personal.md) 
+### [Boehmisch_Aicha.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Aicha.private.md) 
 
-### [Boehmisch_Aicha.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Aicha.secret.md)
+### [Boehmisch_Aicha.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Aicha.personal.md) 
+
+### [Boehmisch_Aicha.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Aicha.secret.md)
 

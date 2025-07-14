@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pribram.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.public.md) 
+### [Pribram](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Pribram.md) 
 
-### [Pribram.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.internal.md) 
+### [Pribram.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Pribram.public.md) 
 
-### [Pribram.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.protect.md) 
+### [Pribram.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Pribram.internal.md) 
 
-### [Pribram.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.private.md) 
+### [Pribram.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Pribram.protect.md) 
 
-### [Pribram.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.personal.md) 
+### [Pribram.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Pribram.private.md) 
 
-### [Pribram.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityPribram.secret.md)
+### [Pribram.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Pribram.personal.md) 
+
+### [Pribram.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Pribram.secret.md)
 

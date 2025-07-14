@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_RepublicLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_RepublicLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_RepublicLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_RepublicLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_RepublicLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_RepublicLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/License.secret.md)
 

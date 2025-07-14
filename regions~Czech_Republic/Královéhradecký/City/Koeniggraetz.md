@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koeniggraetz.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityKoeniggraetz.public.md) 
+### [Koeniggraetz](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Koeniggraetz.md) 
 
-### [Koeniggraetz.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityKoeniggraetz.internal.md) 
+### [Koeniggraetz.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Koeniggraetz.public.md) 
 
-### [Koeniggraetz.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityKoeniggraetz.protect.md) 
+### [Koeniggraetz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Koeniggraetz.internal.md) 
 
-### [Koeniggraetz.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityKoeniggraetz.private.md) 
+### [Koeniggraetz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Koeniggraetz.protect.md) 
 
-### [Koeniggraetz.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityKoeniggraetz.personal.md) 
+### [Koeniggraetz.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Koeniggraetz.private.md) 
 
-### [Koeniggraetz.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityKoeniggraetz.secret.md)
+### [Koeniggraetz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Koeniggraetz.personal.md) 
+
+### [Koeniggraetz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Koeniggraetz.secret.md)
 

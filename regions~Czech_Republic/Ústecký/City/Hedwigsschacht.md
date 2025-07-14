@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hedwigsschacht.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.public.md) 
+### [Hedwigsschacht](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Hedwigsschacht.md) 
 
-### [Hedwigsschacht.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.internal.md) 
+### [Hedwigsschacht.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Hedwigsschacht.public.md) 
 
-### [Hedwigsschacht.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.protect.md) 
+### [Hedwigsschacht.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Hedwigsschacht.internal.md) 
 
-### [Hedwigsschacht.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.private.md) 
+### [Hedwigsschacht.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Hedwigsschacht.protect.md) 
 
-### [Hedwigsschacht.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.personal.md) 
+### [Hedwigsschacht.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Hedwigsschacht.private.md) 
 
-### [Hedwigsschacht.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityHedwigsschacht.secret.md)
+### [Hedwigsschacht.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Hedwigsschacht.personal.md) 
+
+### [Hedwigsschacht.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Hedwigsschacht.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bodenbach=Podmolky.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.public.md) 
+### [Bodenbach=Podmolky](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.md) 
 
-### [Bodenbach=Podmolky.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.internal.md) 
+### [Bodenbach=Podmolky.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.public.md) 
 
-### [Bodenbach=Podmolky.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.protect.md) 
+### [Bodenbach=Podmolky.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.internal.md) 
 
-### [Bodenbach=Podmolky.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.private.md) 
+### [Bodenbach=Podmolky.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.protect.md) 
 
-### [Bodenbach=Podmolky.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.personal.md) 
+### [Bodenbach=Podmolky.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.private.md) 
 
-### [Bodenbach=Podmolky.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\CityBodenbach=Podmolky.secret.md)
+### [Bodenbach=Podmolky.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.personal.md) 
+
+### [Bodenbach=Podmolky.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.secret.md)
 

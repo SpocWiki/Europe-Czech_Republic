@@ -41,15 +41,17 @@ markerFolder: ./Ústecký/
 
 ## Confidential Links & Embeds: 
 
-### [Ústecký.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.public.md) 
+### [Ústecký](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký.md) 
 
-### [Ústecký.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.internal.md) 
+### [Ústecký.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký.public.md) 
 
-### [Ústecký.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.protect.md) 
+### [Ústecký.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký.internal.md) 
 
-### [Ústecký.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.private.md) 
+### [Ústecký.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký.protect.md) 
 
-### [Ústecký.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.personal.md) 
+### [Ústecký.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký.private.md) 
 
-### [Ústecký.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicÚstecký.secret.md)
+### [Ústecký.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký.personal.md) 
+
+### [Ústecký.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký.secret.md)
 

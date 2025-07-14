@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tachow=Tachau.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.public.md) 
+### [Tachow=Tachau](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Tachow=Tachau.md) 
 
-### [Tachow=Tachau.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.internal.md) 
+### [Tachow=Tachau.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Tachow=Tachau.public.md) 
 
-### [Tachow=Tachau.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.protect.md) 
+### [Tachow=Tachau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Tachow=Tachau.internal.md) 
 
-### [Tachow=Tachau.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.private.md) 
+### [Tachow=Tachau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Tachow=Tachau.protect.md) 
 
-### [Tachow=Tachau.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.personal.md) 
+### [Tachow=Tachau.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Tachow=Tachau.private.md) 
 
-### [Tachow=Tachau.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Plzeňský\CityTachow=Tachau.secret.md)
+### [Tachow=Tachau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Tachow=Tachau.personal.md) 
+
+### [Tachow=Tachau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Plzeňský/City/Tachow=Tachau.secret.md)
 

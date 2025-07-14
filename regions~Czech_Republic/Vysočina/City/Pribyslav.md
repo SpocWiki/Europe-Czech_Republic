@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pribyslav.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityPribyslav.public.md) 
+### [Pribyslav](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Pribyslav.md) 
 
-### [Pribyslav.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityPribyslav.internal.md) 
+### [Pribyslav.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Pribyslav.public.md) 
 
-### [Pribyslav.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityPribyslav.protect.md) 
+### [Pribyslav.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Pribyslav.internal.md) 
 
-### [Pribyslav.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityPribyslav.private.md) 
+### [Pribyslav.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Pribyslav.protect.md) 
 
-### [Pribyslav.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityPribyslav.personal.md) 
+### [Pribyslav.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Pribyslav.private.md) 
 
-### [Pribyslav.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Vysočina\CityPribyslav.secret.md)
+### [Pribyslav.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Pribyslav.personal.md) 
+
+### [Pribyslav.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/City/Pribyslav.secret.md)
 

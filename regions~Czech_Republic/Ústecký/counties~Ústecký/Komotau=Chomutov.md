@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Komotau=Chomutov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýKomotau=Chomutov.public.md) 
+### [Komotau=Chomutov](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Komotau=Chomutov.md) 
 
-### [Komotau=Chomutov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýKomotau=Chomutov.internal.md) 
+### [Komotau=Chomutov.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Komotau=Chomutov.public.md) 
 
-### [Komotau=Chomutov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýKomotau=Chomutov.protect.md) 
+### [Komotau=Chomutov.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Komotau=Chomutov.internal.md) 
 
-### [Komotau=Chomutov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýKomotau=Chomutov.private.md) 
+### [Komotau=Chomutov.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Komotau=Chomutov.protect.md) 
 
-### [Komotau=Chomutov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýKomotau=Chomutov.personal.md) 
+### [Komotau=Chomutov.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Komotau=Chomutov.private.md) 
 
-### [Komotau=Chomutov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Ústecký\counties~ÚsteckýKomotau=Chomutov.secret.md)
+### [Komotau=Chomutov.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Komotau=Chomutov.personal.md) 
+
+### [Komotau=Chomutov.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Komotau=Chomutov.secret.md)
 

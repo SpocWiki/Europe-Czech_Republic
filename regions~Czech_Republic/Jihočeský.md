@@ -41,15 +41,17 @@ markerFolder: ./Jihočeský/
 
 ## Confidential Links & Embeds: 
 
-### [Jihočeský.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihočeský.public.md) 
+### [Jihočeský](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský.md) 
 
-### [Jihočeský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihočeský.internal.md) 
+### [Jihočeský.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský.public.md) 
 
-### [Jihočeský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihočeský.protect.md) 
+### [Jihočeský.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský.internal.md) 
 
-### [Jihočeský.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihočeský.private.md) 
+### [Jihočeský.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský.protect.md) 
 
-### [Jihočeský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihočeský.personal.md) 
+### [Jihočeský.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský.private.md) 
 
-### [Jihočeský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicJihočeský.secret.md)
+### [Jihočeský.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský.personal.md) 
+
+### [Jihočeský.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Karlovarský/
 
 ## Confidential Links & Embeds: 
 
-### [Karlovarský.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKarlovarský.public.md) 
+### [Karlovarský](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský.md) 
 
-### [Karlovarský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKarlovarský.internal.md) 
+### [Karlovarský.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský.public.md) 
 
-### [Karlovarský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKarlovarský.protect.md) 
+### [Karlovarský.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský.internal.md) 
 
-### [Karlovarský.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKarlovarský.private.md) 
+### [Karlovarský.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský.protect.md) 
 
-### [Karlovarský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKarlovarský.personal.md) 
+### [Karlovarský.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský.private.md) 
 
-### [Karlovarský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicKarlovarský.secret.md)
+### [Karlovarský.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský.personal.md) 
+
+### [Karlovarský.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský.secret.md)
 

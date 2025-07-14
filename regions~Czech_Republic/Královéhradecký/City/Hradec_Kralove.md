@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hradec_Kralove.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.public.md) 
+### [Hradec_Kralove](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hradec_Kralove.md) 
 
-### [Hradec_Kralove.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.internal.md) 
+### [Hradec_Kralove.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hradec_Kralove.public.md) 
 
-### [Hradec_Kralove.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.protect.md) 
+### [Hradec_Kralove.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hradec_Kralove.internal.md) 
 
-### [Hradec_Kralove.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.private.md) 
+### [Hradec_Kralove.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hradec_Kralove.protect.md) 
 
-### [Hradec_Kralove.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.personal.md) 
+### [Hradec_Kralove.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hradec_Kralove.private.md) 
 
-### [Hradec_Kralove.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Královéhradecký\CityHradec_Kralove.secret.md)
+### [Hradec_Kralove.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hradec_Kralove.personal.md) 
+
+### [Hradec_Kralove.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Královéhradecký/City/Hradec_Kralove.secret.md)
 

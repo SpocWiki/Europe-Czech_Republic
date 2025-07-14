@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boehmisch_Brod.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.public.md) 
+### [Boehmisch_Brod](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Boehmisch_Brod.md) 
 
-### [Boehmisch_Brod.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.internal.md) 
+### [Boehmisch_Brod.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Boehmisch_Brod.public.md) 
 
-### [Boehmisch_Brod.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.protect.md) 
+### [Boehmisch_Brod.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Boehmisch_Brod.internal.md) 
 
-### [Boehmisch_Brod.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.private.md) 
+### [Boehmisch_Brod.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Boehmisch_Brod.protect.md) 
 
-### [Boehmisch_Brod.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.personal.md) 
+### [Boehmisch_Brod.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Boehmisch_Brod.private.md) 
 
-### [Boehmisch_Brod.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityBoehmisch_Brod.secret.md)
+### [Boehmisch_Brod.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Boehmisch_Brod.personal.md) 
+
+### [Boehmisch_Brod.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Boehmisch_Brod.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Boehmisch_Leipa.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.public.md) 
+### [Boehmisch_Leipa](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Leipa.md) 
 
-### [Boehmisch_Leipa.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.internal.md) 
+### [Boehmisch_Leipa.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Leipa.public.md) 
 
-### [Boehmisch_Leipa.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.protect.md) 
+### [Boehmisch_Leipa.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Leipa.internal.md) 
 
-### [Boehmisch_Leipa.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.private.md) 
+### [Boehmisch_Leipa.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Leipa.protect.md) 
 
-### [Boehmisch_Leipa.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.personal.md) 
+### [Boehmisch_Leipa.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Leipa.private.md) 
 
-### [Boehmisch_Leipa.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Liberecký\CityBoehmisch_Leipa.secret.md)
+### [Boehmisch_Leipa.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Leipa.personal.md) 
+
+### [Boehmisch_Leipa.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Liberecký/City/Boehmisch_Leipa.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Znaim=Znojmo.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.public.md) 
+### [Znaim=Znojmo](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Znaim=Znojmo.md) 
 
-### [Znaim=Znojmo.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.internal.md) 
+### [Znaim=Znojmo.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Znaim=Znojmo.public.md) 
 
-### [Znaim=Znojmo.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.protect.md) 
+### [Znaim=Znojmo.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Znaim=Znojmo.internal.md) 
 
-### [Znaim=Znojmo.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.private.md) 
+### [Znaim=Znojmo.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Znaim=Znojmo.protect.md) 
 
-### [Znaim=Znojmo.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.personal.md) 
+### [Znaim=Znojmo.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Znaim=Znojmo.private.md) 
 
-### [Znaim=Znojmo.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityZnaim=Znojmo.secret.md)
+### [Znaim=Znojmo.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Znaim=Znojmo.personal.md) 
+
+### [Znaim=Znojmo.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Znaim=Znojmo.secret.md)
 

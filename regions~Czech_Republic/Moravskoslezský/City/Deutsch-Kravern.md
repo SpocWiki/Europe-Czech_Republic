@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Deutsch-Kravern.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.public.md) 
+### [Deutsch-Kravern](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Deutsch-Kravern.md) 
 
-### [Deutsch-Kravern.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.internal.md) 
+### [Deutsch-Kravern.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Deutsch-Kravern.public.md) 
 
-### [Deutsch-Kravern.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.protect.md) 
+### [Deutsch-Kravern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Deutsch-Kravern.internal.md) 
 
-### [Deutsch-Kravern.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.private.md) 
+### [Deutsch-Kravern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Deutsch-Kravern.protect.md) 
 
-### [Deutsch-Kravern.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.personal.md) 
+### [Deutsch-Kravern.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Deutsch-Kravern.private.md) 
 
-### [Deutsch-Kravern.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityDeutsch-Kravern.secret.md)
+### [Deutsch-Kravern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Deutsch-Kravern.personal.md) 
+
+### [Deutsch-Kravern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Deutsch-Kravern.secret.md)
 

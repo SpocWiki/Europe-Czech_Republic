@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Austerlitz=Slavkov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.public.md) 
+### [Austerlitz=Slavkov](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Austerlitz=Slavkov.md) 
 
-### [Austerlitz=Slavkov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.internal.md) 
+### [Austerlitz=Slavkov.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Austerlitz=Slavkov.public.md) 
 
-### [Austerlitz=Slavkov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.protect.md) 
+### [Austerlitz=Slavkov.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Austerlitz=Slavkov.internal.md) 
 
-### [Austerlitz=Slavkov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.private.md) 
+### [Austerlitz=Slavkov.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Austerlitz=Slavkov.protect.md) 
 
-### [Austerlitz=Slavkov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.personal.md) 
+### [Austerlitz=Slavkov.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Austerlitz=Slavkov.private.md) 
 
-### [Austerlitz=Slavkov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Jihomoravský\CityAusterlitz=Slavkov.secret.md)
+### [Austerlitz=Slavkov.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Austerlitz=Slavkov.personal.md) 
+
+### [Austerlitz=Slavkov.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihomoravský/City/Austerlitz=Slavkov.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gross-Olbersdorf.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.public.md) 
+### [Gross-Olbersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Gross-Olbersdorf.md) 
 
-### [Gross-Olbersdorf.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.internal.md) 
+### [Gross-Olbersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Gross-Olbersdorf.public.md) 
 
-### [Gross-Olbersdorf.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.protect.md) 
+### [Gross-Olbersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Gross-Olbersdorf.internal.md) 
 
-### [Gross-Olbersdorf.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.private.md) 
+### [Gross-Olbersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Gross-Olbersdorf.protect.md) 
 
-### [Gross-Olbersdorf.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.personal.md) 
+### [Gross-Olbersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Gross-Olbersdorf.private.md) 
 
-### [Gross-Olbersdorf.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Moravskoslezský\CityGross-Olbersdorf.secret.md)
+### [Gross-Olbersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Gross-Olbersdorf.personal.md) 
+
+### [Gross-Olbersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Gross-Olbersdorf.secret.md)
 

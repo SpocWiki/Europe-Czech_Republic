@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Prerau=Prerov.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.public.md) 
+### [Prerau=Prerov](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Prerau=Prerov.md) 
 
-### [Prerau=Prerov.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.internal.md) 
+### [Prerau=Prerov.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Prerau=Prerov.public.md) 
 
-### [Prerau=Prerov.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.protect.md) 
+### [Prerau=Prerov.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Prerau=Prerov.internal.md) 
 
-### [Prerau=Prerov.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.private.md) 
+### [Prerau=Prerov.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Prerau=Prerov.protect.md) 
 
-### [Prerau=Prerov.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.personal.md) 
+### [Prerau=Prerov.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Prerau=Prerov.private.md) 
 
-### [Prerau=Prerov.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Olomoucký\CityPrerau=Prerov.secret.md)
+### [Prerau=Prerov.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Prerau=Prerov.personal.md) 
+
+### [Prerau=Prerov.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Prerau=Prerov.secret.md)
 

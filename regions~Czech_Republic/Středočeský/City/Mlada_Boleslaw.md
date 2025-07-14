@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mlada_Boleslaw.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMlada_Boleslaw.public.md) 
+### [Mlada_Boleslaw](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Mlada_Boleslaw.md) 
 
-### [Mlada_Boleslaw.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMlada_Boleslaw.internal.md) 
+### [Mlada_Boleslaw.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Mlada_Boleslaw.public.md) 
 
-### [Mlada_Boleslaw.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMlada_Boleslaw.protect.md) 
+### [Mlada_Boleslaw.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Mlada_Boleslaw.internal.md) 
 
-### [Mlada_Boleslaw.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMlada_Boleslaw.private.md) 
+### [Mlada_Boleslaw.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Mlada_Boleslaw.protect.md) 
 
-### [Mlada_Boleslaw.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMlada_Boleslaw.personal.md) 
+### [Mlada_Boleslaw.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Mlada_Boleslaw.private.md) 
 
-### [Mlada_Boleslaw.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_Republic\Středočeský\CityMlada_Boleslaw.secret.md)
+### [Mlada_Boleslaw.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Mlada_Boleslaw.personal.md) 
+
+### [Mlada_Boleslaw.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Mlada_Boleslaw.secret.md)
 

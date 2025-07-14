@@ -41,15 +41,17 @@ markerFolder: ./Olomoucký/
 
 ## Confidential Links & Embeds: 
 
-### [Olomoucký.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicOlomoucký.public.md) 
+### [Olomoucký](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký.md) 
 
-### [Olomoucký.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicOlomoucký.internal.md) 
+### [Olomoucký.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký.public.md) 
 
-### [Olomoucký.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicOlomoucký.protect.md) 
+### [Olomoucký.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký.internal.md) 
 
-### [Olomoucký.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicOlomoucký.private.md) 
+### [Olomoucký.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký.protect.md) 
 
-### [Olomoucký.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicOlomoucký.personal.md) 
+### [Olomoucký.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký.private.md) 
 
-### [Olomoucký.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicOlomoucký.secret.md)
+### [Olomoucký.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký.personal.md) 
+
+### [Olomoucký.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký.secret.md)
 

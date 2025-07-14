@@ -41,15 +41,17 @@ markerFolder: ./Středočeský/
 
 ## Confidential Links & Embeds: 
 
-### [Středočeský.public](/_public/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicStředočeský.public.md) 
+### [Středočeský](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský.md) 
 
-### [Středočeský.internal](/_internal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicStředočeský.internal.md) 
+### [Středočeský.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský.public.md) 
 
-### [Středočeský.protect](/_protect/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicStředočeský.protect.md) 
+### [Středočeský.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský.internal.md) 
 
-### [Středočeský.private](/_private/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicStředočeský.private.md) 
+### [Středočeský.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský.protect.md) 
 
-### [Středočeský.personal](/_personal/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicStředočeský.personal.md) 
+### [Středočeský.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský.private.md) 
 
-### [Středočeský.secret](/_secret/\Earth\Continent\Europe\Europe~Central\Czech_Republic\regions~Czech_RepublicStředočeský.secret.md)
+### [Středočeský.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský.personal.md) 
+
+### [Středočeský.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský.secret.md)
 
