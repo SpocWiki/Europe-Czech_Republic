@@ -1,16 +1,22 @@
 ---
-location: [50.67,14.03] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 50.67
+  - 14.03
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28938
 isDeleted: false
 confidential: public
-
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.03
+dv_has_place_latitude: 50.67
+dv_name: Aussig=Usti
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
