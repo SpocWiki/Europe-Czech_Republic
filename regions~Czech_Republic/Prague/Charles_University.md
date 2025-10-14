@@ -77,8 +77,8 @@ legal_form: "[[_Standards/WikiData/WD~Higher_Education_Institution,56447581]]"
 on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
 inception: 1348-04-15T00:00:00Z
 coordinate_location: Point(14.4037 50.0884)
-location: "[[_Standards/WikiData/WD~Prague,1085]]"
-headquarters_location: "[[_Standards/WikiData/WD~Prague,1085]]"
+locations: "[[_Standards/WikiData/WD~Prague,1085]]"
+headquarters_locations: "[[_Standards/WikiData/WD~Prague,1085]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Prague,1085]]"
 language_used: "[[_Standards/WikiData/WD~Czech,9056]]"
 country: "[[_Standards/WikiData/WD~Czech_Republic,213]]"
