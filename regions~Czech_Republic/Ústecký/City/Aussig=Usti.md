@@ -27,7 +27,7 @@ State ::
 Country :: Czech_Rep.] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

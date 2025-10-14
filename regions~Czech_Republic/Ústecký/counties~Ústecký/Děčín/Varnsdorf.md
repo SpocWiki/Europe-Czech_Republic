@@ -20,7 +20,7 @@ confidential: public
 has_place_country:: [[Germany]]  
 has_place_province:: [[Sachsen]] ] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
