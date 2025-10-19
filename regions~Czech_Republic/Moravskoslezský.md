@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Moravskoslezský
+# [[Moravskoslezský]]
+
+## #has_/map 
 
 ```leaflet
 id: Moravskoslezský
