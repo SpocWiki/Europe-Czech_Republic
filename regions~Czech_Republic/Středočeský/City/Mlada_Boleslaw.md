@@ -1,16 +1,20 @@
 ---
-location: [50.35,14.92] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Mlada_Boleslaw
+  - Mlada Boleslaw
+location:
+  - 50.35
+  - 14.92
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32520
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [50.52,14.05] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Lobositz
+location:
+  - 50.52
+  - 14.05
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32059
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

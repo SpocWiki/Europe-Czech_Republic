@@ -1,16 +1,20 @@
 ---
-location: [50.67,15] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Boehmisch_Aicha
+  - Boehmisch Aicha
+location:
+  - 50.67
+  - 15
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29439
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

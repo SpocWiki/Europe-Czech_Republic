@@ -1,16 +1,19 @@
 ---
-location: [50.52,16.2] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hermanitz
+location:
+  - 50.52
+  - 16.2
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30902
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,20 @@
 ---
-location: [49.6,15.58] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Havlíčkův_Brod
+  - Havlíčkův Brod
+location:
+  - 49.6
+  - 15.58
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 29767
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

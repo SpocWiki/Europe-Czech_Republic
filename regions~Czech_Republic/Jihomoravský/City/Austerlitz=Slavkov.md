@@ -1,16 +1,19 @@
 ---
-location: [49.15,16.87] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Austerlitz=Slavkov
+location:
+  - 49.15
+  - 16.87
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28939
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

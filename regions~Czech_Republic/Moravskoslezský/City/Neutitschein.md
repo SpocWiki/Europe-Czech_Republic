@@ -1,16 +1,19 @@
 ---
-location: [49.6,18.02] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Neutitschein
+location:
+  - 49.6
+  - 18.02
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 32871
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

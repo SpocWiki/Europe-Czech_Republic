@@ -1,16 +1,20 @@
 ---
-location: [49.95,15.27] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kuttenberg=Kutna_Hora
+  - Kuttenberg=Kutna Hora
+location:
+  - 49.95
+  - 15.27
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31714
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -1,16 +1,19 @@
 ---
-location: [50.37,12.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Jachymov
+location:
+  - 50.37
+  - 12.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31149
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 
