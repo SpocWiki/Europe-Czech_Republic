@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31928
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.13
+dv_has_place_latitude: 50.53
+dv_name: Leitmeritz=Litomerice
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.13] 
-[has_place_latitude::50.53] 
-[name::Leitmeritz=Litomerice] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leitmeritz=Litomerice](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice|Leitmeritz=Litomerice]] 
 
-### [Leitmeritz=Litomerice.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.public|Leitmeritz=Litomerice.public]] 
 
-### [Leitmeritz=Litomerice.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.internal|Leitmeritz=Litomerice.internal]] 
 
-### [Leitmeritz=Litomerice.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.protect|Leitmeritz=Litomerice.protect]] 
 
-### [Leitmeritz=Litomerice.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.private|Leitmeritz=Litomerice.private]] 
 
-### [Leitmeritz=Litomerice.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.personal|Leitmeritz=Litomerice.personal]] 
 
-### [Leitmeritz=Litomerice.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Leitmeritz=Litomerice.secret|Leitmeritz=Litomerice.secret]] 
 

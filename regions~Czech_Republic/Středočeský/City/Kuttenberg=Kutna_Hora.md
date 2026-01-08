@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31714
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.27
+dv_has_place_latitude: 49.95
+dv_name: Kuttenberg=Kutna Hora
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.27] 
-[has_place_latitude::49.95] 
-[name::Kuttenberg=Kutna Hora] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kuttenberg=Kutna_Hora](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora|Kuttenberg=Kutna_Hora]] 
 
-### [Kuttenberg=Kutna_Hora.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.public|Kuttenberg=Kutna_Hora.public]] 
 
-### [Kuttenberg=Kutna_Hora.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.internal|Kuttenberg=Kutna_Hora.internal]] 
 
-### [Kuttenberg=Kutna_Hora.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.protect|Kuttenberg=Kutna_Hora.protect]] 
 
-### [Kuttenberg=Kutna_Hora.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.private|Kuttenberg=Kutna_Hora.private]] 
 
-### [Kuttenberg=Kutna_Hora.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.personal|Kuttenberg=Kutna_Hora.personal]] 
 
-### [Kuttenberg=Kutna_Hora.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Středočeský/City/Kuttenberg=Kutna_Hora.secret|Kuttenberg=Kutna_Hora.secret]] 
 

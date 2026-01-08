@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Prague,1085|WD~Prague,1085]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Prague,1085|WD~Prague,1085]]"
+
 has_time_started: 0800-01-01 
 aliases:
   - Prague
@@ -579,7 +583,7 @@ LAU:
 
 # [[Prague]]
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Prague,1085|WD~Prague,1085]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -609,19 +613,20 @@ defaultZoom: 11
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prague) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Prague](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague|Prague]] 
 
-### [Prague.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.public|Prague.public]] 
 
-### [Prague.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.internal|Prague.internal]] 
 
-### [Prague.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.protect|Prague.protect]] 
 
-### [Prague.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.private|Prague.private]] 
 
-### [Prague.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.personal|Prague.personal]] 
 
-### [Prague.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague.secret|Prague.secret]] 
 

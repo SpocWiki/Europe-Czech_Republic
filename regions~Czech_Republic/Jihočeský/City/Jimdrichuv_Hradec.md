@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 31202
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.02
+dv_has_place_latitude: 49.15
+dv_name: Jimdrichuv Hradec
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.02] 
-[has_place_latitude::49.15] 
-[name::Jimdrichuv Hradec] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jimdrichuv_Hradec](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec|Jimdrichuv_Hradec]] 
 
-### [Jimdrichuv_Hradec.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.public|Jimdrichuv_Hradec.public]] 
 
-### [Jimdrichuv_Hradec.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.internal|Jimdrichuv_Hradec.internal]] 
 
-### [Jimdrichuv_Hradec.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.protect|Jimdrichuv_Hradec.protect]] 
 
-### [Jimdrichuv_Hradec.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.private|Jimdrichuv_Hradec.private]] 
 
-### [Jimdrichuv_Hradec.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.personal|Jimdrichuv_Hradec.personal]] 
 
-### [Jimdrichuv_Hradec.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Jihočeský/City/Jimdrichuv_Hradec.secret|Jimdrichuv_Hradec.secret]] 
 

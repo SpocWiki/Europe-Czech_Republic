@@ -14,16 +14,27 @@ tags:
 SpocWebEntityId: 31091
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 15.6
+dv_has_place_latitude: 49.4
+dv_name: Jihlava
+dv_has_:
+  name_:
+    de_: Iglau
+    cz_: Jihlava
+dv_Country: Czech_Rep.]
+dv_has_name_de_: Iglau
+dv_has_name_cz_: Jihlava
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.6] 
-[has_place_latitude::49.4] 
-[name::Jihlava] 
-#has_/name_/de_:: Iglau
-#has_/name_/cz_:: Jihlava
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+has_name_de_ = `=this.dv_has_name_de_`
+has_name_cz_ = `=this.dv_has_name_cz_`
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -40,17 +51,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jihlava](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava|Jihlava]] 
 
-### [Jihlava.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.public|Jihlava.public]] 
 
-### [Jihlava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.internal|Jihlava.internal]] 
 
-### [Jihlava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.protect|Jihlava.protect]] 
 
-### [Jihlava.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.private|Jihlava.private]] 
 
-### [Jihlava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.personal|Jihlava.personal]] 
 
-### [Jihlava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Vysočina/counties~Kraj_Vysočina/Jihlava.secret|Jihlava.secret]] 
 

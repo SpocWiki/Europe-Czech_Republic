@@ -10,9 +10,22 @@ tags:
 SpocWebEntityId: 26877
 isDeleted: false
 confidential: public
+dv_ISO2: CZ
+dv_ISO3: CZE
+dv_name-en: Czech Rep.
+dv_name-de: Tschechische Republik
+dv_Area-Total: 78860
+dv_Area-Land: 77280
+dv_Continent: "[[../../../Europe]]"
+dv_VehicleCode: CZ
+dv_Capital: "[[regions~Czech_Republic/Prague/City/Praha]]"
+dv_Alcohol-l: 16.5
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 15.8734
+dv_has_place_latitude: 49.7633
 ---
-[ISO2::CZ] 
-[ISO3::CZE] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Czech Rep.
@@ -23,37 +36,37 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Czech Rep.] 
-[name-de::Tschechische Republik] 
-[Area-Total::78860] 
-[Area-Land::77280] 
-Continent :: [[Europe]]  
-[VehicleCode::CZ] 
-Capital :: [[Praha]]  
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Czech-republic.svg|350]] 
 ![[Anthem-Czech-republic.mp3]] 
 ![[Flag_of_Czech-republic.svg|350]] 
-[Alcohol-l::16.5] 
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::15.8734] 
-[has_place_latitude::49.7633] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/ReadMe.secret|ReadMe.secret]] 
 

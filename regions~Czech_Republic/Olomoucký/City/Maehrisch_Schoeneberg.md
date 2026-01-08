@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32689
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 16.98
+dv_has_place_latitude: 49.97
+dv_name: Maehrisch Schoeneberg
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::16.98] 
-[has_place_latitude::49.97] 
-[name::Maehrisch Schoeneberg] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maehrisch_Schoeneberg](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg|Maehrisch_Schoeneberg]] 
 
-### [Maehrisch_Schoeneberg.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.public|Maehrisch_Schoeneberg.public]] 
 
-### [Maehrisch_Schoeneberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.internal|Maehrisch_Schoeneberg.internal]] 
 
-### [Maehrisch_Schoeneberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.protect|Maehrisch_Schoeneberg.protect]] 
 
-### [Maehrisch_Schoeneberg.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.private|Maehrisch_Schoeneberg.private]] 
 
-### [Maehrisch_Schoeneberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.personal|Maehrisch_Schoeneberg.personal]] 
 
-### [Maehrisch_Schoeneberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Olomoucký/City/Maehrisch_Schoeneberg.secret|Maehrisch_Schoeneberg.secret]] 
 

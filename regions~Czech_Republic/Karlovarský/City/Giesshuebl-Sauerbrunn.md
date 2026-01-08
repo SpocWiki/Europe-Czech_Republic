@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 30452
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.02
+dv_has_place_latitude: 50.27
+dv_name: Giesshuebl-Sauerbrunn
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.02] 
-[has_place_latitude::50.27] 
-[name::Giesshuebl-Sauerbrunn] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Giesshuebl-Sauerbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn|Giesshuebl-Sauerbrunn]] 
 
-### [Giesshuebl-Sauerbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.public|Giesshuebl-Sauerbrunn.public]] 
 
-### [Giesshuebl-Sauerbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.internal|Giesshuebl-Sauerbrunn.internal]] 
 
-### [Giesshuebl-Sauerbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.protect|Giesshuebl-Sauerbrunn.protect]] 
 
-### [Giesshuebl-Sauerbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.private|Giesshuebl-Sauerbrunn.private]] 
 
-### [Giesshuebl-Sauerbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.personal|Giesshuebl-Sauerbrunn.personal]] 
 
-### [Giesshuebl-Sauerbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Karlovarský/City/Giesshuebl-Sauerbrunn.secret|Giesshuebl-Sauerbrunn.secret]] 
 

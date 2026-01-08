@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32688
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 18.27
+dv_has_place_latitude: 49.85
+dv_name: Maehrisch Ostrau=Ostrava
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::18.27] 
-[has_place_latitude::49.85] 
-[name::Maehrisch Ostrau=Ostrava] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Maehrisch_Ostrau=Ostrava](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava|Maehrisch_Ostrau=Ostrava]] 
 
-### [Maehrisch_Ostrau=Ostrava.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.public|Maehrisch_Ostrau=Ostrava.public]] 
 
-### [Maehrisch_Ostrau=Ostrava.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.internal|Maehrisch_Ostrau=Ostrava.internal]] 
 
-### [Maehrisch_Ostrau=Ostrava.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.protect|Maehrisch_Ostrau=Ostrava.protect]] 
 
-### [Maehrisch_Ostrau=Ostrava.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.private|Maehrisch_Ostrau=Ostrava.private]] 
 
-### [Maehrisch_Ostrau=Ostrava.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.personal|Maehrisch_Ostrau=Ostrava.personal]] 
 
-### [Maehrisch_Ostrau=Ostrava.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Moravskoslezský/City/Maehrisch_Ostrau=Ostrava.secret|Maehrisch_Ostrau=Ostrava.secret]] 
 

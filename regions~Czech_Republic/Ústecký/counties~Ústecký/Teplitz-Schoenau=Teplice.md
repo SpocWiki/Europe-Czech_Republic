@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34814
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 13.8
+dv_has_place_latitude: 50.65
+dv_name: Teplitz-Schoenau=Teplice
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::13.8] 
-[has_place_latitude::50.65] 
-[name::Teplitz-Schoenau=Teplice] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Teplitz-Schoenau=Teplice](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice|Teplitz-Schoenau=Teplice]] 
 
-### [Teplitz-Schoenau=Teplice.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.public|Teplitz-Schoenau=Teplice.public]] 
 
-### [Teplitz-Schoenau=Teplice.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.internal|Teplitz-Schoenau=Teplice.internal]] 
 
-### [Teplitz-Schoenau=Teplice.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.protect|Teplitz-Schoenau=Teplice.protect]] 
 
-### [Teplitz-Schoenau=Teplice.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.private|Teplitz-Schoenau=Teplice.private]] 
 
-### [Teplitz-Schoenau=Teplice.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.personal|Teplitz-Schoenau=Teplice.personal]] 
 
-### [Teplitz-Schoenau=Teplice.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/counties~Ústecký/Teplitz-Schoenau=Teplice.secret|Teplitz-Schoenau=Teplice.secret]] 
 

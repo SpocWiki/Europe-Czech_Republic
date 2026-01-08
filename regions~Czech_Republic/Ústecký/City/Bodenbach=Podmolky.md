@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29247
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 14.22
+dv_has_place_latitude: 50.77
+dv_name: Bodenbach=Podmolky
+dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::14.22] 
-[has_place_latitude::50.77] 
-[name::Bodenbach=Podmolky] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: Czech_Rep.] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bodenbach=Podmolky](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky|Bodenbach=Podmolky]] 
 
-### [Bodenbach=Podmolky.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.public|Bodenbach=Podmolky.public]] 
 
-### [Bodenbach=Podmolky.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.internal|Bodenbach=Podmolky.internal]] 
 
-### [Bodenbach=Podmolky.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.protect|Bodenbach=Podmolky.protect]] 
 
-### [Bodenbach=Podmolky.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.private|Bodenbach=Podmolky.private]] 
 
-### [Bodenbach=Podmolky.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.personal|Bodenbach=Podmolky.personal]] 
 
-### [Bodenbach=Podmolky.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Ústecký/City/Bodenbach=Podmolky.secret|Bodenbach=Podmolky.secret]] 
 

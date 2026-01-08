@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniverzitaKarlovaVPraze: t2gj6"
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Charles_University,31519|WD~Charles_University,31519]]"
+dv_university-univerzitakarlovavpraze: t2gj6"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Charles_University,31519|WD~Charles_University,31519]]"
+
 has_time_started: 1348-04-15 
 aliases:
   - Charles_University
@@ -133,7 +139,7 @@ Libris_URI:
   - 97mpstst35f85wj
 P8189: 987007269231205171
 EU_Participant_Identification_Code: 999923434
-Wolfram_Language_entity_code: Entity["University", "UniverzitaKarlovaVPraze::t2gj6"]
+Wolfram_Language_entity_code: Entity"University", "UniverzitaKarlovaVPraze = `=this.dv_"University", "UniverzitaKarlovaVPraze`
 Instagram_username: unikarlova
 X_Twitter_username: UniKarlova
 Facebook_username: UniverzitaKarlova
@@ -141,7 +147,7 @@ Facebook_username: UniverzitaKarlova
 
 # [[Charles_University]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Charles_University,31519|WD~Charles_University,31519]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -154,4 +160,21 @@ Facebook_username: UniverzitaKarlova
 > Today, the university consists of 17 faculties located in Prague, Hradec Králové, and Plzeň.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Charles%20University) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague/Charles_University|Charles_University]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague/Charles_University.public|Charles_University.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague/Charles_University.internal|Charles_University.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague/Charles_University.protect|Charles_University.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague/Charles_University.private|Charles_University.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague/Charles_University.personal|Charles_University.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic/regions~Czech_Republic/Prague/Charles_University.secret|Charles_University.secret]] 
 
