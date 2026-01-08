@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.07
 dv_has_place_latitude: 50.23
-dv_name: Ramzova
+dv_has_name_: Ramzova
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

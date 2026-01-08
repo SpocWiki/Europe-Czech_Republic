@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.42
 dv_has_place_latitude: 50.48
-dv_name: Komotau=Chomutov
+dv_has_name_: Komotau=Chomutov
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

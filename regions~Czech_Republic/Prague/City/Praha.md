@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.42
 dv_has_place_latitude: 50.08
-dv_name: Praha
+dv_has_name_: Praha
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

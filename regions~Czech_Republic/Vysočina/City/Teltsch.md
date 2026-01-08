@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.45
 dv_has_place_latitude: 49.2
-dv_name: Teltsch
+dv_has_name_: Teltsch
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

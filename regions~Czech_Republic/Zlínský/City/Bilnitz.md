@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.02
 dv_has_place_latitude: 49.08
-dv_name: Bilnitz
+dv_has_name_: Bilnitz
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

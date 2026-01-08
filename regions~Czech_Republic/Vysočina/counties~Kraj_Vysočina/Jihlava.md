@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.6
 dv_has_place_latitude: 49.4
-dv_name: Jihlava
+dv_has_name_: Jihlava
 dv_has_:
   name_:
     de_: Iglau

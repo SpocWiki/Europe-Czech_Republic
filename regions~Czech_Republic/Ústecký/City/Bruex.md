@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.65
 dv_has_place_latitude: 50.53
-dv_name: Bruex
+dv_has_name_: Bruex
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

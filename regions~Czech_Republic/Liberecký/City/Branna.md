@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.55
 dv_has_place_latitude: 50.62
-dv_name: Branna
+dv_has_name_: Branna
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

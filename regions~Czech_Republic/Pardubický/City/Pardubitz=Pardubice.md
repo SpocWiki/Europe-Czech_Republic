@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.77
 dv_has_place_latitude: 50.05
-dv_name: Pardubitz=Pardubice
+dv_has_name_: Pardubitz=Pardubice
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

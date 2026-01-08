@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.12
 dv_has_place_latitude: 49.48
-dv_name: Kollautschen
+dv_has_name_: Kollautschen
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.05
 dv_has_place_latitude: 48.85
-dv_name: Znaim=Znojmo
+dv_has_name_: Znaim=Znojmo
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

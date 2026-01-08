@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.87
 dv_has_place_latitude: 50.22
-dv_name: Hradec Kralove
+dv_has_name_: Hradec Kralove
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

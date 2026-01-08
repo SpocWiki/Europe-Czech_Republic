@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.17
 dv_has_place_latitude: 49.65
-dv_name: Pribor
+dv_has_name_: Pribor
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

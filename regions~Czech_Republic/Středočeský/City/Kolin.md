@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.13
 dv_has_place_latitude: 50.02
-dv_name: Kolin
+dv_has_name_: Kolin
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

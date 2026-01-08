@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.27
 dv_has_place_latitude: 49.85
-dv_name: Maehrisch Ostrau=Ostrava
+dv_has_name_: Maehrisch Ostrau=Ostrava
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

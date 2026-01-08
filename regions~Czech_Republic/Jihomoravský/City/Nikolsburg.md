@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.65
 dv_has_place_latitude: 48.82
-dv_name: Nikolsburg
+dv_has_name_: Nikolsburg
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

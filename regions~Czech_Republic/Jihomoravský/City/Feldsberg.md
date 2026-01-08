@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.75
 dv_has_place_latitude: 48.75
-dv_name: Feldsberg
+dv_has_name_: Feldsberg
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.38
 dv_has_place_latitude: 49.75
-dv_name: Pilsen=Plzen
+dv_has_name_: Pilsen=Plzen
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

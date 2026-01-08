@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.93
 dv_has_place_latitude: 50.55
-dv_name: Donnersberg
+dv_has_name_: Donnersberg
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

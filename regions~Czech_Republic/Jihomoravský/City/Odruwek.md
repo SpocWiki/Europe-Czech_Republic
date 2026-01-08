@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.88
 dv_has_place_latitude: 49.4
-dv_name: Odruwek
+dv_has_name_: Odruwek
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

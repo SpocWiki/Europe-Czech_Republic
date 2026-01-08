@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.87
 dv_has_place_latitude: 50.07
-dv_name: Boehmisch Brod
+dv_has_name_: Boehmisch Brod
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

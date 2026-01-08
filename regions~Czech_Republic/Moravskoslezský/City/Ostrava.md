@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.28
 dv_has_place_latitude: 49.83
-dv_name: Ostrava
+dv_has_name_: Ostrava
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

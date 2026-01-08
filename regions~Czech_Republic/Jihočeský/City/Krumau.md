@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.32
 dv_has_place_latitude: 48.82
-dv_name: Krumau
+dv_has_name_: Krumau
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

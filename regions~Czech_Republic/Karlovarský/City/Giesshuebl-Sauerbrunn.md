@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.02
 dv_has_place_latitude: 50.27
-dv_name: Giesshuebl-Sauerbrunn
+dv_has_name_: Giesshuebl-Sauerbrunn
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

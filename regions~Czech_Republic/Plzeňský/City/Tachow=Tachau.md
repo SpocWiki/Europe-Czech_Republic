@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.65
 dv_has_place_latitude: 49.8
-dv_name: Tachow=Tachau
+dv_has_name_: Tachow=Tachau
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

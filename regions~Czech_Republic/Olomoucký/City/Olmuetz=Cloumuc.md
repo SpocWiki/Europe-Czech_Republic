@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.28
 dv_has_place_latitude: 49.6
-dv_name: Olmuetz=Cloumuc
+dv_has_name_: Olmuetz=Cloumuc
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

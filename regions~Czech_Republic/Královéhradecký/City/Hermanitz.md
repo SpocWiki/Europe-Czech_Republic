@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.2
 dv_has_place_latitude: 50.52
-dv_name: Hermanitz
+dv_has_name_: Hermanitz
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

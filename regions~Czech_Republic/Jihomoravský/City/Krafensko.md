@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.83
 dv_has_place_latitude: 49.37
-dv_name: Krafensko
+dv_has_name_: Krafensko
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

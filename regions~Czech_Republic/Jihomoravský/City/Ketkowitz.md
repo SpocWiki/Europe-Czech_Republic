@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.27
 dv_has_place_latitude: 49.15
-dv_name: Ketkowitz
+dv_has_name_: Ketkowitz
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

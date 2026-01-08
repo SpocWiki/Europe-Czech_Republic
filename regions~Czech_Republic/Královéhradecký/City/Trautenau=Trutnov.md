@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.92
 dv_has_place_latitude: 50.57
-dv_name: Trautenau=Trutnov
+dv_has_name_: Trautenau=Trutnov
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.45
 dv_has_place_latitude: 49.17
-dv_name: Guentherberg
+dv_has_name_: Guentherberg
 dv_Country: "[[../../../../Germany]]"
 dv_State: "[[../../Bayern]] ]"
 ---

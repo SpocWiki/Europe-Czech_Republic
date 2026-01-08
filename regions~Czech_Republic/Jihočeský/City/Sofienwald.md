@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.9
 dv_has_place_latitude: 48.8
-dv_name: Sofienwald
+dv_has_name_: Sofienwald
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

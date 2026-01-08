@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.52
 dv_has_place_latitude: 50.32
-dv_name: Kraslin=Kraslice
+dv_has_name_: Kraslin=Kraslice
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

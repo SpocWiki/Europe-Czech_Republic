@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.53
 dv_has_place_latitude: 50.68
-dv_name: Boehmisch Leipa
+dv_has_name_: Boehmisch Leipa
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 12.98
 dv_has_place_latitude: 50.07
-dv_name: Theussing
+dv_has_name_: Theussing
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

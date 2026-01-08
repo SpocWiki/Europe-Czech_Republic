@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.13
 dv_has_place_latitude: 49.02
-dv_name: Gaya
+dv_has_name_: Gaya
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

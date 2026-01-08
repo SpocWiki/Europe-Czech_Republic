@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.57
 dv_has_place_latitude: 49.77
-dv_name: Kotzobendy
+dv_has_name_: Kotzobendy
 dv_Country: "[[../../../../../Europe~East/Poland]]"
 ---
 #is_a_/Place  

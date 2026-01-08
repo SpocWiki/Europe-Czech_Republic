@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 16.6
 dv_has_place_latitude: 49.88
-dv_name: Landskron
+dv_has_name_: Landskron
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

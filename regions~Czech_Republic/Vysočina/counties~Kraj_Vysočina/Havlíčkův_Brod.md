@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.58
 dv_has_place_latitude: 49.6
-dv_name: Havlíčkův_Brod
+dv_has_name_: Havlíčkův_Brod
 dv_has_:
   name_:
     de_: Deutschbrod

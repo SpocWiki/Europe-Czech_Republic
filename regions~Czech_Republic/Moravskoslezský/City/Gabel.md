@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.27
 dv_has_place_latitude: 50.1
-dv_name: Gabel
+dv_has_name_: Gabel
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17.1
 dv_has_place_latitude: 49.47
-dv_name: Projestov=Prossnitz
+dv_has_name_: Projestov=Prossnitz
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

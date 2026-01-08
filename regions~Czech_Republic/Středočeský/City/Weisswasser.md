@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.8
 dv_has_place_latitude: 50.5
-dv_name: Weisswasser
+dv_has_name_: Weisswasser
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

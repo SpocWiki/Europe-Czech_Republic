@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.48
 dv_has_place_latitude: 50.35
-dv_name: Melnik
+dv_has_name_: Melnik
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

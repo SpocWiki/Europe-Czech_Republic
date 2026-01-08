@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.07
 dv_has_place_latitude: 50.77
-dv_name: Liderec=Reichenberg
+dv_has_name_: Liderec=Reichenberg
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

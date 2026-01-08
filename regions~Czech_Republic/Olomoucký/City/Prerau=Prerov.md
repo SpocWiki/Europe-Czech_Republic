@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 17
 dv_has_place_latitude: 49.45
-dv_name: Prerau=Prerov
+dv_has_name_: Prerau=Prerov
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  

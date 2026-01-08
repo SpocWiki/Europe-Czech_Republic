@@ -12,8 +12,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: CZ
 dv_ISO3: CZE
-dv_name-en: Czech Rep.
-dv_name-de: Tschechische Republik
+dv_has_name_en: Czech Rep.
+dv_has_name_de: Tschechische Republik
 dv_Area-Total: 78860
 dv_Area-Land: 77280
 dv_Continent: "[[../../../Europe]]"
@@ -36,8 +36,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

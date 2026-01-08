@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 14.92
 dv_has_place_latitude: 50.35
-dv_name: Mlada Boleslaw
+dv_has_name_: Mlada Boleslaw
 dv_Country: Czech_Rep.]
 ---
 #is_a_/Place  
