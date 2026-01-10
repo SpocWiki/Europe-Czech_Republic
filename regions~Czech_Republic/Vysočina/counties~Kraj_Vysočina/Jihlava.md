@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.6
 dv_has_place_latitude: 49.4
-dv_has_name_: Jihlava
+dv_has_name: Jihlava
 dv_has_:
   name_:
     de_: Iglau
@@ -30,7 +30,7 @@ dv_has_name_cz_: Jihlava
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_name_de_ = `=this.dv_has_name_de_`
 has_name_cz_ = `=this.dv_has_name_cz_`
 State ::  

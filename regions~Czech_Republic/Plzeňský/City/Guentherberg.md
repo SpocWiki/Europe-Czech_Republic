@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 13.45
 dv_has_place_latitude: 49.17
-dv_has_name_: Guentherberg
+dv_has_name: Guentherberg
 dv_Country: "[[../../../../Germany]]"
 dv_State: "[[../../Bayern]] ]"
 ---
@@ -25,7 +25,7 @@ dv_State: "[[../../Bayern]] ]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 Country = `=this.dv_Country`
 State = `=this.dv_State`
 [Population::] 

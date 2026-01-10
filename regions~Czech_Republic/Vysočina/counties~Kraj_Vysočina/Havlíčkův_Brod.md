@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 15.58
 dv_has_place_latitude: 49.6
-dv_has_name_: Havlíčkův_Brod
+dv_has_name: Havlíčkův_Brod
 dv_has_:
   name_:
     de_: Deutschbrod
@@ -31,7 +31,7 @@ dv_has_name_cz_: Havlíčkův Brod
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_name_de_ = `=this.dv_has_name_de_`
 has_name_cz_ = `=this.dv_has_name_cz_`
 State ::  
