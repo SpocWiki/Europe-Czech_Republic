@@ -3,7 +3,7 @@ dv_ISO2: CZ
 dv_ISO3: CZE
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+  - '[[../../../../../WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic|Czech_Republic]]'
   - '[[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.public|Czech_Republic.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal|Czech_Republic.internal]]'
@@ -336,15 +336,15 @@ dv_has_name_en: Czech Rep.
 dv_has_name_de: Tschechische Republik
 dv_Area-Total: 78860
 dv_Area-Land: 77280
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: CZ
-dv_Capital: '[[Czech_Republic/regions~Czech_Republic/Prague/City/Praha|Praha]]'
+dv_Capital: '[[regions~Czech_Republic/Prague/City/Praha|Praha]]'
 dv_Alcohol-l: 16.5
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 15.8734
 dv_has_place_latitude: 49.7633
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
+- '[[../../../../../WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic|Czech_Republic]]'
 - '[[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.public|Czech_Republic.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal|Czech_Republic.internal]]'
@@ -574,7 +574,7 @@ aliases:
 has_id_wikidata: Q213
 geography_of_topic: '[[/_Standards/WikiData/WD~geography_of_the_Czech_Republic,76380|WD~geography_of_the_Czech_Republic,76380]]'
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~European_Southern_Observatory,151991|WD~European_Southern_Observatory,151991]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -665,7 +665,7 @@ history_of_topic: '[[/_Standards/WikiData/WD~history_of_the_Czech_lands,212036|W
 central_bank: '[[/_Standards/WikiData/WD~Czech_National_Bank,251062|WD~Czech_National_Bank,251062]]'
 anthem: '[[/_Standards/WikiData/WD~Kde_domov_můj,483590|WD~Kde_domov_můj,483590]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 highest_point: '[[/_Standards/WikiData/WD~Sněžka,617511|WD~Sněžka,617511]]'
@@ -1048,7 +1048,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Czech_Republic/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1068,7 +1068,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Czech_Republic_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1094,7 +1094,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Czech-republic.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Czech-republic.mp3|Anthem-Czech-republic.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Czech-republic.mp3|Anthem-Czech-republic.mp3]]
 ![[Flag_of_Czech-republic.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
